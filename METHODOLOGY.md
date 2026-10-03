@@ -51,3 +51,40 @@ Documented · Probable · Possible · Unverified · Research Lead
 
 Research lead status:
 New · Investigating · Partially confirmed · Confirmed · Rejected · Needs additional evidence
+
+
+## Autopilot research protocol
+
+The research engine follows a controlled pipeline:
+
+**DISCOVER → VERIFY → DEDUPLICATE → CLASSIFY → CONNECT EVIDENCE → PRIVACY/COPYRIGHT CHECK → PUBLICATION GATE → PUBLISH → TEST → AUDIT → LOG**
+
+### Entity identity
+Every person, document, source, place, event and claim should receive a permanent project identifier. Surname similarity alone never establishes identity or kinship.
+
+### Claim-level evidence
+Important assertions should identify the specific source or sources supporting them. A person's overall status does not replace evidence for individual claims.
+
+### Source independence
+Multiple websites reproducing the same underlying record count as one evidentiary source unless genuinely independent evidence exists.
+
+### Contradictions
+Conflicting dates, names, places or relationships are retained as separate claims with their sources and status. The archive does not silently choose a preferred version.
+
+### Rejected evidence
+Material that has been investigated and rejected should remain auditable with a rejection reason, so the same unsupported lead is not repeatedly rediscovered.
+
+### Research leads
+Each unresolved lead should state what evidence would materially advance or resolve it ("what would prove it?"). Leads are prioritized by research value, not by the number of records they could produce.
+
+### Publication gate
+Discovery does not equal publication. A candidate passes through investigation, identity resolution, evidence assessment and appropriate privacy/copyright review before entering the public archive.
+
+### Historical geography
+Historical place names, modern names and historical jurisdictions should be stored separately where relevant. The archive must not retroactively apply modern geography to historical records without explanation.
+
+### Integrity checks
+After material updates, test JSON parsing, internal links, referenced data files, canonical URLs, sitemap entries, robots.txt, required verification files and page rendering assumptions. A broken website update must be repaired before the research cycle continues.
+
+### Research change log
+Material research changes should record what was searched, what was found, what was rejected, what was added or changed, and why.
