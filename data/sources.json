@@ -9,7 +9,34 @@
       "source_type": "institutional historical source",
       "url": "https://farsharotu.org/a-brief-history-of-the-society-farsarotul/",
       "supports": ["Nicolae Cican", "Spiru Cican", "Nasta Cican", "Dina Cican"],
-      "independence": "primary/institutional community history; requires corroboration for biographical details"
+      "independence": "institutional historical source; corroborate biographical details where possible"
+    },
+    {
+      "source_id": "SRC-FARSHAROTU-HISTORY-001",
+      "title": "History of the Society Farsarotul",
+      "publisher": "Aromanian Cultural Society Farsharotu",
+      "source_type": "institutional archival history",
+      "url": "https://farsharotu.org/history-of-the-society-farsarotul/",
+      "supports": ["Nicolae Cican", "Spiru Cican", "Nasta Cican", "Dina Cican", "1903 Society Speranța founding"],
+      "independence": "institutional archival history; directly references the Society's first-page archive"
+    },
+    {
+      "source_id": "SRC-BALAMACI-001",
+      "title": "Haralambie Balamaci historical study PDF",
+      "publisher": "Aromânii din California",
+      "source_type": "scholarly historical study",
+      "url": "https://www.aromaniidincalifornia.com/pdf/cv-haralambie-balamaci.pdf",
+      "supports": ["Nicolae (Culicea) Cican", "1901 emigration", "1903 Society Speranța"],
+      "independence": "secondary scholarly source; use to locate underlying migration and school records"
+    },
+    {
+      "source_id": "SRC-HATEGAN-001",
+      "title": "The Romanians of New York City",
+      "publisher": "Information Bulletin / Rev. Fr. Vasile Hategan",
+      "source_type": "historical secondary source",
+      "url": "https://informationbulletin.wordpress.com/studies-essays-documents/rev-fr-vasile-hategan-%E2%80%9Ethe-romanians-of-new-york-city%E2%80%9C/",
+      "supports": ["Nicolae Cican", "Spirea Cican", "Nasta Cican", "Dina Cican", "1903 founding"],
+      "independence": "secondary historical account; useful corroboration and variant-spelling lead"
     },
     {
       "source_id": "SRC-ANCIENTFACES-001",
