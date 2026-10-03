@@ -65,5 +65,14 @@
       "supports": ["global distribution research lead"],
       "independence": "aggregated database; not sufficient by itself to identify individual people"
     }
+    ,{
+      "source_id": "SRC-BNAR-1547-001",
+      "title": "Iliaș Voievod confirms Cican and his son Illea's right to part of Iurghiceni, 26 May 1547",
+      "publisher": "Biblioteca Națională a României / Documenta Romaniae Historica",
+      "source_type": "original archival document and scholarly edition",
+      "url": "https://bibnat.ro/wp-content/uploads/2024/09/Arhiva-istorica-Inventar-Documente-istorice-sec-XV-XVII-actualizat-2024.pdf",
+      "supports": ["Cican", "Illea", "Iurghiceni", "1547 documentary occurrence"],
+      "independence": "original Moldavian charter, with scholarly edited transcription; highest-priority historical source"
+    }
   ]
 }
