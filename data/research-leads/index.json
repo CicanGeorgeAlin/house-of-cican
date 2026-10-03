@@ -1,0 +1,54 @@
+{
+  "schema": "house-of-cican.research-leads.v1",
+  "last_updated": "2026-10-03",
+  "leads": [
+    {
+      "lead_id": "CICAN-L-000001",
+      "subject": "Cican surname global distribution",
+      "status": "Open",
+      "priority": "High",
+      "scope": "Romania, Turkey, United States, Indonesia, India, Brazil, Cyprus, England, Peru, Slovenia and reported Çiçan variant",
+      "next_action": "Locate underlying civil, census, immigration, directory, archival or institutional records rather than treating surname-distribution counts as people."
+    },
+    {
+      "lead_id": "CICAN-L-000002",
+      "subject": "Nicolae Cican / Culicea Cican migration and Society Speranța",
+      "status": "Open",
+      "priority": "High",
+      "scope": "Balkans to United States, 1901–1906",
+      "next_action": "Recover passenger/immigration, school, naturalization, city-directory and Society archive records; reconcile Nicolae Cican, Nicolae (Culicea) Cican and spelling variants."
+    },
+    {
+      "lead_id": "CICAN-L-000003",
+      "subject": "1903 Society Speranța founding group",
+      "status": "Open",
+      "priority": "High",
+      "scope": "New York City, United States",
+      "next_action": "Search the Society's archival material and contemporary newspapers for Spiru/Spirea Cican, Nasta Cican and Dina Cican and identify whether later records refer to the same individuals."
+    },
+    {
+      "lead_id": "CICAN-L-000004",
+      "subject": "Helen Cican and Frank A. Cican",
+      "status": "Open",
+      "priority": "Medium",
+      "scope": "Dearborn, Michigan, United States",
+      "next_action": "Find underlying vital, census, obituary and cemetery records to confirm identities and investigate whether the two records are related."
+    },
+    {
+      "lead_id": "CICAN-L-000005",
+      "subject": "Turkey Cican / Çiçan cluster",
+      "status": "Open",
+      "priority": "High",
+      "scope": "Turkey, especially Diyarbakır and Van; variant Çiçan",
+      "next_action": "Search Turkish institutional, municipal, cemetery, newspaper, academic and historical sources. Keep living-person records privacy-minimized."
+    },
+    {
+      "lead_id": "CICAN-L-000006",
+      "subject": "Romanian Cican concentration",
+      "status": "Open",
+      "priority": "High",
+      "scope": "Argeș, Gorj, Mehedinți and wider Romania",
+      "next_action": "Expand person-level extraction from historical newspapers, civil/parish records, military lists, school records, official gazettes, directories and local archives."
+    }
+  ]
+}
