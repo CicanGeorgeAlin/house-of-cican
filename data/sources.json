@@ -8,7 +8,12 @@
       "publisher": "Aromanian Cultural Society Farsharotu",
       "source_type": "institutional historical source",
       "url": "https://farsharotu.org/a-brief-history-of-the-society-farsarotul/",
-      "supports": ["Nicolae Cican", "Spiru Cican", "Nasta Cican", "Dina Cican"],
+      "supports": [
+        "Nicolae Cican",
+        "Spiru Cican",
+        "Nasta Cican",
+        "Dina Cican"
+      ],
       "independence": "institutional historical source; corroborate biographical details where possible"
     },
     {
@@ -17,7 +22,13 @@
       "publisher": "Aromanian Cultural Society Farsharotu",
       "source_type": "institutional archival history",
       "url": "https://farsharotu.org/history-of-the-society-farsarotul/",
-      "supports": ["Nicolae Cican", "Spiru Cican", "Nasta Cican", "Dina Cican", "1903 Society Speranța founding"],
+      "supports": [
+        "Nicolae Cican",
+        "Spiru Cican",
+        "Nasta Cican",
+        "Dina Cican",
+        "1903 Society Speranța founding"
+      ],
       "independence": "institutional archival history; directly references the Society's first-page archive"
     },
     {
@@ -26,7 +37,11 @@
       "publisher": "Aromânii din California",
       "source_type": "scholarly historical study",
       "url": "https://www.aromaniidincalifornia.com/pdf/cv-haralambie-balamaci.pdf",
-      "supports": ["Nicolae (Culicea) Cican", "1901 emigration", "1903 Society Speranța"],
+      "supports": [
+        "Nicolae (Culicea) Cican",
+        "1901 emigration",
+        "1903 Society Speranța"
+      ],
       "independence": "secondary scholarly source; use to locate underlying migration and school records"
     },
     {
@@ -35,7 +50,13 @@
       "publisher": "Information Bulletin / Rev. Fr. Vasile Hategan",
       "source_type": "historical secondary source",
       "url": "https://informationbulletin.wordpress.com/studies-essays-documents/rev-fr-vasile-hategan-%E2%80%9Ethe-romanians-of-new-york-city%E2%80%9C/",
-      "supports": ["Nicolae Cican", "Spirea Cican", "Nasta Cican", "Dina Cican", "1903 founding"],
+      "supports": [
+        "Nicolae Cican",
+        "Spirea Cican",
+        "Nasta Cican",
+        "Dina Cican",
+        "1903 founding"
+      ],
       "independence": "secondary historical account; useful corroboration and variant-spelling lead"
     },
     {
@@ -44,7 +65,10 @@
       "publisher": "AncientFaces",
       "source_type": "secondary genealogy database",
       "url": "https://www.ancientfaces.com/surname/cican-family-history/1384805",
-      "supports": ["Helen Cican", "Frank A. Cican"],
+      "supports": [
+        "Helen Cican",
+        "Frank A. Cican"
+      ],
       "independence": "secondary; use as lead until underlying vital records are located"
     },
     {
@@ -53,7 +77,9 @@
       "publisher": "Ancestry",
       "source_type": "commercial genealogy index",
       "url": "https://www.ancestry.com/last-name-meaning/cican",
-      "supports": ["surname distribution and record-category leads"],
+      "supports": [
+        "surname distribution and record-category leads"
+      ],
       "independence": "index/database; underlying records should be inspected"
     },
     {
@@ -62,17 +88,38 @@
       "publisher": "Forebears",
       "source_type": "surname distribution database",
       "url": "https://forebears.io/surnames/cican",
-      "supports": ["global distribution research lead"],
+      "supports": [
+        "global distribution research lead"
+      ],
       "independence": "aggregated database; not sufficient by itself to identify individual people"
-    }
-    ,{
+    },
+    {
       "source_id": "SRC-BNAR-1547-001",
       "title": "Iliaș Voievod confirms Cican and his son Illea's right to part of Iurghiceni, 26 May 1547",
       "publisher": "Biblioteca Națională a României / Documenta Romaniae Historica",
       "source_type": "original archival document and scholarly edition",
       "url": "https://bibnat.ro/wp-content/uploads/2024/09/Arhiva-istorica-Inventar-Documente-istorice-sec-XV-XVII-actualizat-2024.pdf",
-      "supports": ["Cican", "Illea", "Iurghiceni", "1547 documentary occurrence"],
+      "supports": [
+        "Cican",
+        "Illea",
+        "Iurghiceni",
+        "1547 documentary occurrence"
+      ],
       "independence": "original Moldavian charter, with scholarly edited transcription; highest-priority historical source"
+    },
+    {
+      "source_id": "SRC-BNAR-IURGHICENI-1591-1599-001",
+      "title": "BNaR digitized archival inventory: Iurghiceni documents, 1591–1592 and 1599",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized historical-document catalogue",
+      "url": "https://bibnat.ro/wp-content/uploads/2026/05/Lista-inventar-a-documentelor-digitizate-in-BNaR_mai-2026.pdf",
+      "supports": [
+        "Iurghiceni",
+        "1591–1592 ownership transaction",
+        "1599 court judgment",
+        "historical ownership-chain research"
+      ],
+      "independence": "primary archival catalogue; document contents must be inspected before making person-level or relationship claims"
     }
   ]
 }
