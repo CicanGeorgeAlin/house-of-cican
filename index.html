@@ -6,6 +6,7 @@
 <meta name="description" content="House of Cican — Global Surname Archive. Discover the people, documents, places and history behind the Cican surname.">
 <meta name="theme-color" content="#000000">
 <meta name="robots" content="index,follow">
+<link rel="canonical" href="./">
 <meta property="og:type" content="website">
 <meta property="og:title" content="HOUSE OF CICAN — Global Surname Archive">
 <meta property="og:description" content="The Global Cican Archive — people, documents, places, history and evidence connected to the Cican surname.">
@@ -20,6 +21,16 @@
 <meta name="twitter:description" content="People · Documents · Places · History · Evidence">
 <meta name="twitter:image" content="https://raw.githubusercontent.com/CicanGeorgeAlin/house-of-cican/main/assets/og-house-of-cican.svg">
 <meta name="twitter:image:alt" content="HOUSE OF CICAN — The Global Cican Archive">
+<script type="application/ld+json">
+{
+  "@context":"https://schema.org",
+  "@type":"WebSite",
+  "name":"HOUSE OF CICAN",
+  "description":"The Global Cican Archive — an evidence-first archive of people, documents, places, history and evidence connected to the Cican surname.",
+  "inLanguage":"en",
+  "potentialAction":{"@type":"SearchAction","target":"./archive.html?search={search_term_string}","query-input":"required name=search_term_string"}
+}
+</script>
 <title>HOUSE OF CICAN — Global Surname Archive</title>
 <style>
 :root{--bg:#000;--fg:#fff;--muted:#9b9b9b;--line:#242424}
@@ -35,7 +46,7 @@ h1{font-size:clamp(3rem,11vw,7.5rem);line-height:.88;letter-spacing:-.075em;marg
 .enter:hover{background:#fff;color:#000;box-shadow:0 0 35px rgba(255,255,255,.25)}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#222;width:min(760px,100%);margin-top:70px;border:1px solid #222}
 .stat{background:#000;padding:20px 10px}.stat strong{display:block;font-size:1.1rem}.stat span{display:block;margin-top:7px;color:#777;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase}
-section{width:min(900px,100%);padding:0 22px 80px;margin:auto}section h2{text-align:center;font-size:1.7rem;letter-spacing:-.03em}.section-lead{text-align:center;max-width:650px;margin:14px auto 0;color:#777;line-height:1.7;font-size:.9rem}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:25px}.card{border:1px solid #222;padding:22px;text-align:left;background:#050505}.card b{display:block;letter-spacing:.12em;font-size:.75rem}.card p{color:#888;line-height:1.6;font-size:.9rem;margin-bottom:0}
+section{width:min(900px,100%);padding:0 22px 80px;margin:auto}section h2{text-align:center;font-size:1.7rem;letter-spacing:-.03em}.section-lead{text-align:center;max-width:650px;margin:14px auto 0;color:#777;line-height:1.7;font-size:.9rem}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:25px}.card{border:1px solid #222;padding:22px;text-align:left;background:#050505;color:#fff;text-decoration:none;display:block}.card b{display:block;letter-spacing:.12em;font-size:.75rem}.card p{color:#888;line-height:1.6;font-size:.9rem;margin-bottom:0}
 footer{text-align:center;color:#555;font-size:.7rem;letter-spacing:.12em;padding:30px 20px 45px}
 @media(max-width:620px){.stats{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.kicker{letter-spacing:.3em}.subtitle{letter-spacing:.2em}.lead{font-size:.94rem}}
 </style>
@@ -47,7 +58,7 @@ footer{text-align:center;color:#555;font-size:.7rem;letter-spacing:.12em;padding
 <div class="subtitle">PEOPLE · DOCUMENTS · PLACES · HISTORY · EVIDENCE</div>
 <div class="rule" aria-hidden="true"></div>
 <p class="lead">A living, evidence-first archive dedicated to every person, document, place and story connected to the Cican surname — wherever the evidence leads.</p>
-<a class="enter" href="#archive" aria-label="Enter the House of Cican archive">Enter the Archive</a>
+<a class="enter" href="archive.html" aria-label="Enter the House of Cican archive">Enter the Archive</a>
 <div class="stats" aria-label="Archive priorities">
 <div class="stat"><strong>PEOPLE</strong><span>Find every discoverable Cican</span></div>
 <div class="stat"><strong>DOCUMENTS</strong><span>Follow the evidence</span></div>
@@ -58,7 +69,7 @@ footer{text-align:center;color:#555;font-size:.7rem;letter-spacing:.12em;padding
 <h2>LEAVE NO CICAN BEHIND.</h2>
 <p class="section-lead">We search across countries, languages, generations and records to build the most comprehensive documented history of the Cican surname possible.</p>
 <div class="grid">
-<article class="card"><b>GLOBAL PEOPLE INDEX</b><p>Find, identify and document Cican people wherever they appear in the historical and public record.</p></article>
+<a class="card" href="archive.html"><b>GLOBAL PEOPLE INDEX</b><p>Find, identify and document Cican people wherever they appear in the historical and public record.</p></a>
 <article class="card"><b>EVIDENCE GRAPH</b><p>Follow every person through the evidence: documents, sources, places, dates, events and associated records.</p></article>
 <article class="card"><b>HISTORICAL RECORD</b><p>Preserve the name as history records it — variants, migrations, discoveries, contradictions and competing explanations.</p></article>
 <article class="card"><b>LIVING ARCHIVE</b><p>Give Cicans a place to contribute, correct and preserve their history while respecting the privacy of living people.</p></article>
