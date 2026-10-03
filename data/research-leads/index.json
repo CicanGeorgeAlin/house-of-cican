@@ -97,6 +97,17 @@
       "priority": "Critical",
       "scope": "Iurghiceni continuity: 1591–1592 → 1611 → 1619",
       "next_action": "Transcribe the 1591–1592 and 1611 originals and compare every named person/property fraction with the 1547 Cican–Illea charter. The 1619 originals then provide a later documentary chain: Costin receives Frimu's part (I/24), and Costin/Lupu receive or have confirmed multiple Iurghiceni portions (I/25–I/28). Test whether Frimu in 1611 and Frimu son of Bilan in 1619 are the same person only if the documents provide the necessary identity evidence. Do not infer a Cican relationship from shared locality."
+    },
+    {
+      "lead_id": "CICAN-L-000013",
+      "title": "Cicicani / Ion of Cicicani — 1638 Hotin documentary cluster",
+      "status": "Research lead — separate from 1547 Cican until proven otherwise",
+      "scope": "Cicicani near Forosna in the historical Hotin region; 26 February 1638 record names Tațea, daughter of Ion from Cicicani, as Nasta's maternal grandmother and identifies inherited property in Cicicani.",
+      "evidence": [
+        "DRH A. Moldova XXII, doc. 278, pp. 311–312, as cited by secondary historical studies",
+        "Historical settlement catalogues identify Cicicani near Forosna/Novoselița"
+      ],
+      "next_action": "Recover the 1638 original/copy and all earlier/later Cicicani records; determine whether 'Ion din Cicicani' is a locative designation and whether any documentary bridge exists to the 1547 Cican/Cicican. Do not merge the clusters based on phonetic similarity."
     }
   ]
 }
