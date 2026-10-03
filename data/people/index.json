@@ -8,9 +8,15 @@
       "status": "Confirmed identity",
       "evidence_level": "B",
       "period": "active by 1903",
-      "places": ["United States"],
-      "events": ["founding of Society Farsharotu in 1903"],
-      "source_ids": ["SRC-FARSHAROTU-001"],
+      "places": [
+        "United States"
+      ],
+      "events": [
+        "founding of Society Farsharotu in 1903"
+      ],
+      "source_ids": [
+        "SRC-FARSHAROTU-001"
+      ],
       "notes": "Identified by the Aromanian Cultural Society Farsharotu as a founder; independent scholarly material also describes Nicolae Cican as an early immigrant to America and founder of the society. No relationship to other Cican records is inferred."
     },
     {
@@ -19,9 +25,15 @@
       "status": "Confirmed identity",
       "evidence_level": "B",
       "period": "active by 1903",
-      "places": ["United States"],
-      "events": ["founding of Society Farsharotu in 1903"],
-      "source_ids": ["SRC-FARSHAROTU-001"],
+      "places": [
+        "United States"
+      ],
+      "events": [
+        "founding of Society Farsharotu in 1903"
+      ],
+      "source_ids": [
+        "SRC-FARSHAROTU-001"
+      ],
       "notes": "Named by the Society as a founder. Relationship to other Cican people remains unestablished."
     },
     {
@@ -30,9 +42,15 @@
       "status": "Confirmed identity",
       "evidence_level": "B",
       "period": "active by 1903",
-      "places": ["United States"],
-      "events": ["founding of Society Farsharotu in 1903"],
-      "source_ids": ["SRC-FARSHAROTU-001"],
+      "places": [
+        "United States"
+      ],
+      "events": [
+        "founding of Society Farsharotu in 1903"
+      ],
+      "source_ids": [
+        "SRC-FARSHAROTU-001"
+      ],
       "notes": "Named by the Society as a founder. Relationship to other Cican people remains unestablished."
     },
     {
@@ -41,9 +59,15 @@
       "status": "Confirmed identity",
       "evidence_level": "B",
       "period": "active by 1903",
-      "places": ["United States"],
-      "events": ["founding of Society Farsharotu in 1903"],
-      "source_ids": ["SRC-FARSHAROTU-001"],
+      "places": [
+        "United States"
+      ],
+      "events": [
+        "founding of Society Farsharotu in 1903"
+      ],
+      "source_ids": [
+        "SRC-FARSHAROTU-001"
+      ],
       "notes": "Named by the Society as a founder. Relationship to other Cican people remains unestablished."
     },
     {
@@ -52,8 +76,12 @@
       "status": "Probable",
       "evidence_level": "C",
       "period": "1900–1996",
-      "places": ["Dearborn, Michigan, United States"],
-      "source_ids": ["SRC-ANCIENTFACES-001"],
+      "places": [
+        "Dearborn, Michigan, United States"
+      ],
+      "source_ids": [
+        "SRC-ANCIENTFACES-001"
+      ],
       "notes": "Secondary genealogy source reports birth 11 Jan 1900 and death 16 Dec 1996 in Dearborn. Needs primary/archival confirmation before upgrade."
     },
     {
@@ -62,9 +90,28 @@
       "status": "Probable",
       "evidence_level": "C",
       "period": "1926–2006",
-      "places": ["Dearborn, Michigan, United States"],
-      "source_ids": ["SRC-ANCIENTFACES-001"],
+      "places": [
+        "Dearborn, Michigan, United States"
+      ],
+      "source_ids": [
+        "SRC-ANCIENTFACES-001"
+      ],
       "notes": "Secondary genealogy source reports birth 30 Jan 1926 and death 7 Aug 2006 in Dearborn. Needs primary/archival confirmation."
+    },
+    {
+      "person_id": "CICAN-P-000007",
+      "name": "Cican George Alin",
+      "status": "Documented project owner",
+      "evidence_level": "D",
+      "period": "active 2026",
+      "places": [
+        "Ireland"
+      ],
+      "events": [
+        "creation of House of Cican"
+      ],
+      "source_ids": [],
+      "notes": "Project owner and creator of House of Cican. Included at the creator's explicit request. No broader family relationship is inferred from this project-owner record."
     }
   ]
 }
