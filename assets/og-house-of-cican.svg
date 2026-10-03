@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<defs>
+  <radialGradient id="g" cx="50%" cy="42%" r="58%"><stop offset="0" stop-color="#151515"/><stop offset=".58" stop-color="#050505"/><stop offset="1" stop-color="#000"/></radialGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="630" fill="#000"/>
+<rect width="1200" height="630" fill="url(#g)"/>
+<g opacity=".18" stroke="#fff" fill="none">
+  <path d="M90 145 Q260 55 420 150 T760 140 T1110 120"/>
+  <path d="M70 195 Q280 115 470 205 T800 180 T1130 175"/>
+  <circle cx="150" cy="150" r="3" fill="#fff"/><circle cx="370" cy="110" r="3" fill="#fff"/><circle cx="640" cy="155" r="3" fill="#fff"/><circle cx="930" cy="105" r="3" fill="#fff"/><circle cx="1080" cy="170" r="3" fill="#fff"/>
+</g>
+<g filter="url(#glow)" fill="#fff">
+  <path d="M600 58c-18 24-24 42-24 59 0 14 10 25 24 25s24-11 24-25c0-17-6-35-24-59z" opacity=".95"/>
+  <path d="M600 79v86M600 105l-27-22M600 113l29-26M600 132l-35-3M600 136l34 2M600 151l-25 18M600 151l27 17" stroke="#fff" stroke-width="5" fill="none" stroke-linecap="round"/>
+</g>
+<g fill="#fff" text-anchor="middle" font-family="Georgia,Times New Roman,serif">
+  <text x="600" y="205" font-size="25" letter-spacing="9">HOUSE OF</text>
+  <text x="600" y="305" font-size="116" font-weight="700" letter-spacing="4">CICAN</text>
+  <text x="600" y="344" font-size="19" letter-spacing="7">THE GLOBAL CICAN ARCHIVE</text>
+</g>
+<g fill="#fff" stroke="#fff" stroke-width="1" text-anchor="middle" font-family="Arial,sans-serif">
+  <line x1="170" y1="425" x2="1030" y2="425" opacity=".22"/>
+  <g><circle cx="205" cy="425" r="31" fill="none" stroke-width="2"/><text x="205" y="432" font-size="25" stroke="none">♟</text><text x="205" y="478" font-size="15" letter-spacing="3" stroke="none">PEOPLE</text></g>
+  <g><circle cx="405" cy="425" r="31" fill="none" stroke-width="2"/><text x="405" y="432" font-size="25" stroke="none">▤</text><text x="405" y="478" font-size="15" letter-spacing="3" stroke="none">DOCUMENTS</text></g>
+  <g><circle cx="600" cy="425" r="31" fill="none" stroke-width="2"/><text x="600" y="432" font-size="25" stroke="none">●</text><text x="600" y="478" font-size="15" letter-spacing="3" stroke="none">PLACES</text></g>
+  <g><circle cx="795" cy="425" r="31" fill="none" stroke-width="2"/><text x="795" y="432" font-size="25" stroke="none">◷</text><text x="795" y="478" font-size="15" letter-spacing="3" stroke="none">HISTORY</text></g>
+  <g><circle cx="995" cy="425" r="31" fill="none" stroke-width="2"/><text x="995" y="432" font-size="25" stroke="none">✣</text><text x="995" y="478" font-size="15" letter-spacing="3" stroke="none">EVIDENCE</text></g>
+</g>
+<line x1="270" y1="535" x2="930" y2="535" stroke="#fff" opacity=".25"/>
+<text x="600" y="570" fill="#fff" text-anchor="middle" font-family="Georgia,Times New Roman,serif" font-size="21" letter-spacing="6">LEAVE NO CICAN BEHIND.</text>
+</svg>
