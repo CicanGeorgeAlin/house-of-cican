@@ -1,0 +1,42 @@
+{
+  "schema": "house-of-cican.source-registry.v1",
+  "last_updated": "2026-10-03",
+  "sources": [
+    {
+      "source_id": "SRC-FARSHAROTU-001",
+      "title": "A Brief History of the Society Farsarotul",
+      "publisher": "Aromanian Cultural Society Farsharotu",
+      "source_type": "institutional historical source",
+      "url": "https://farsharotu.org/a-brief-history-of-the-society-farsarotul/",
+      "supports": ["Nicolae Cican", "Spiru Cican", "Nasta Cican", "Dina Cican"],
+      "independence": "primary/institutional community history; requires corroboration for biographical details"
+    },
+    {
+      "source_id": "SRC-ANCIENTFACES-001",
+      "title": "Cican Family History & Genealogy",
+      "publisher": "AncientFaces",
+      "source_type": "secondary genealogy database",
+      "url": "https://www.ancientfaces.com/surname/cican-family-history/1384805",
+      "supports": ["Helen Cican", "Frank A. Cican"],
+      "independence": "secondary; use as lead until underlying vital records are located"
+    },
+    {
+      "source_id": "SRC-ANCESTRY-SURNAME-001",
+      "title": "Cican Family History",
+      "publisher": "Ancestry",
+      "source_type": "commercial genealogy index",
+      "url": "https://www.ancestry.com/last-name-meaning/cican",
+      "supports": ["surname distribution and record-category leads"],
+      "independence": "index/database; underlying records should be inspected"
+    },
+    {
+      "source_id": "SRC-FOREBEARS-001",
+      "title": "Cican Surname Origin, Meaning & Last Name History",
+      "publisher": "Forebears",
+      "source_type": "surname distribution database",
+      "url": "https://forebears.io/surnames/cican",
+      "supports": ["global distribution research lead"],
+      "independence": "aggregated database; not sufficient by itself to identify individual people"
+    }
+  ]
+}
