@@ -109,3 +109,23 @@ The Society's historical account names Dina Cican among the founding group in Ne
 
 ### Evidence and next actions
 These four names are now high-priority historical person records, but the archive does not yet assume that they were relatives or that they connect to the Căpățâneni/Argeș Cican cluster. Next work is to locate the Society's archival references, historical membership material, immigration/arrival records, newspapers and other independent documents for each person.
+
+
+## Autopilot operating standard
+
+The research workflow is controlled by the methodology's autopilot protocol. Research quantity is not the success metric. Evidence quality, identity resolution, source independence, auditability and useful public documentation are the priorities.
+
+Every material research cycle should:
+
+1. discover candidates and documents;
+2. recover or identify underlying sources;
+3. resolve identities without surname-only merges;
+4. record claim-level evidence and contradictions;
+5. preserve rejected leads and explain what would prove unresolved hypotheses;
+6. apply privacy and copyright checks;
+7. publish only publication-ready information;
+8. run repository and website integrity checks;
+9. record material changes;
+10. continue with the highest-value unresolved research lead.
+
+The landing page and visual identity are treated as locked. Improvements during autopilot should primarily concern evidence, data architecture, indexable research content, accessibility, integrity and functionality rather than unnecessary redesign.
