@@ -1,0 +1,29 @@
+{
+  "archive": "House of Cican",
+  "research_leads": [
+    {
+      "id": "CICAN-R-000001",
+      "question": "Document the direct family line connecting Gheorghe Cican, Margareta Cican, Vasile Cican and George-Alin Cican.",
+      "status": "New",
+      "priority": "critical",
+      "source": "Project owner family information",
+      "what_would_prove_it": "Independent civil, parish, archival or other reliable records establishing each relevant relationship."
+    },
+    {
+      "id": "CICAN-R-000002",
+      "question": "Identify and document the historical Cican occurrences associated with Căpățâneni and the wider Curtea de Argeș area.",
+      "status": "New",
+      "priority": "high",
+      "source": "Project owner geographic information",
+      "what_would_prove_it": "Dated archival, parish, civil, property, military, newspaper or other reliable historical records."
+    },
+    {
+      "id": "CICAN-R-000003",
+      "question": "Investigate the earliest defensible documentary occurrences of Cican and relevant variants globally.",
+      "status": "New",
+      "priority": "critical",
+      "source": "House of Cican research mission",
+      "what_would_prove_it": "Original or reliably cited dated documentary evidence, with source provenance and independent verification where possible."
+    }
+  ]
+}
