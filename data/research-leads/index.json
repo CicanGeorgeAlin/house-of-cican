@@ -87,16 +87,16 @@
       "subject": "1547 Iurghiceni property chain",
       "status": "Open",
       "priority": "Critical",
-      "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia, 1547–1599",
-      "next_action": "Inspect the 1591–1592 and 1599 Iurghiceni documents in the BNaR digitized archive and compare all named owners, descendants, property fractions and place spellings with the 1547 Cicican–Illea charter."
+      "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia, 1547–1619",
+      "next_action": "Compare the 1547 Cican–Illea charter with the 1591–1592 Iurghiceni sale, then extend the chain through the explicitly Iurghiceni documents of 1611 and 1619. The 1599 BNaR item at cotă 15a is a separate court judgment and is not currently identified as an Iurghiceni document; inspect it only for potentially relevant names or property references."
     },
     {
       "lead_id": "CICAN-L-000012",
       "subject": "Iurghiceni 1591–1599 ownership continuity",
       "status": "Open",
       "priority": "Critical",
-      "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia; BNaR archival items I/14 (1591–1592) and I/15a (1599)",
-      "next_action": "Obtain and transcribe the 1591–1592 and 1599 originals/translations; extract every named person, kinship term, property fraction and transaction, then test whether any line can be connected to the 1547 Cican–Illea holding. Do not infer continuity from the place name alone."
+      "scope": "Iurghiceni continuity research; BNaR cotă 14 (1591–1592), followed by Iurghiceni documents at cotă 18 (1611) and cotă 24–28 (1619)",
+      "next_action": "Obtain and transcribe the 1591–1592 original, then compare named people, kinship terms and property fractions with the 1547 Cican–Illea charter and the 1611/1619 Iurghiceni records. The 1599 cotă 15a item is not identified as Iurghiceni in the BNaR inventory, so it must not be treated as a continuity document without further evidence."
     }
   ]
 }
