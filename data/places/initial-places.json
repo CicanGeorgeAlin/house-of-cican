@@ -1,0 +1,22 @@
+{
+  "archive": "House of Cican",
+  "places": [
+    {
+      "id": "CICAN-PL-000001",
+      "name": "Căpățâneni",
+      "country": "Romania",
+      "historical_association": "Initial family geographic association supplied by project owner",
+      "status": "research seed",
+      "evidence_level": "D",
+      "notes": "Historical administrative names, parish boundaries, coordinates and documentary associations must be independently researched."
+    },
+    {
+      "id": "CICAN-PL-000002",
+      "name": "Curtea de Argeș area",
+      "country": "Romania",
+      "status": "research seed",
+      "evidence_level": "D",
+      "notes": "Requires historical-geography verification and precise source mapping."
+    }
+  ]
+}
