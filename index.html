@@ -11,24 +11,26 @@
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:#000;color:#fff;font-family:Inter,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;min-height:100vh}
 body:before{content:"";position:fixed;inset:0;pointer-events:none;background:radial-gradient(circle at 50% 38%,rgba(255,255,255,.08),transparent 32%);z-index:-1}
 main{min-height:100vh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:42px 22px;text-align:center}
-.mark{width:74px;height:74px;border:1px solid rgba(255,255,255,.55);border-radius:50%;display:grid;place-items:center;margin-bottom:34px;box-shadow:0 0 35px rgba(255,255,255,.16),0 0 90px rgba(255,255,255,.06)}
-.mark span{font-size:25px;font-weight:800;letter-spacing:-.06em}
 h1{font-size:clamp(3rem,11vw,7.5rem);line-height:.88;letter-spacing:-.075em;margin:0;font-weight:800;text-shadow:0 0 25px rgba(255,255,255,.32),0 0 70px rgba(255,255,255,.12)}
-.kicker{margin:25px 0 0;font-size:clamp(.72rem,1.7vw,1rem);letter-spacing:.34em;color:#ddd;text-transform:uppercase}
-.lead{max-width:700px;margin:24px auto 0;color:#aaa;line-height:1.7;font-size:1rem}
+.kicker{margin:0 0 18px;font-size:clamp(.66rem,1.6vw,.88rem);letter-spacing:.42em;color:#d8d8d8;text-transform:uppercase;font-weight:600}
+.subtitle{margin:22px 0 0;color:#fff;font-size:clamp(.62rem,1.5vw,.8rem);letter-spacing:.28em;text-transform:uppercase;opacity:.82}
+.rule{width:min(330px,70%);height:1px;background:linear-gradient(90deg,transparent,#555,transparent);margin:20px auto 0}
+.lead{max-width:700px;margin:25px auto 0;color:#aaa;line-height:1.7;font-size:1rem}
 .enter{display:inline-flex;align-items:center;justify-content:center;margin-top:36px;padding:15px 34px;border:1px solid #fff;color:#fff;text-decoration:none;text-transform:uppercase;letter-spacing:.2em;font-size:.78rem;font-weight:700;transition:.25s;box-shadow:0 0 0 rgba(255,255,255,0)}
 .enter:hover{background:#fff;color:#000;box-shadow:0 0 35px rgba(255,255,255,.25)}
 .stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:#222;width:min(760px,100%);margin-top:70px;border:1px solid #222}
 .stat{background:#000;padding:20px 10px}.stat strong{display:block;font-size:1.1rem}.stat span{display:block;margin-top:7px;color:#777;font-size:.68rem;letter-spacing:.14em;text-transform:uppercase}
 section{width:min(900px,100%);padding:0 22px 80px;margin:auto}section h2{text-align:center;font-size:1.7rem;letter-spacing:-.03em}.section-lead{text-align:center;max-width:650px;margin:14px auto 0;color:#777;line-height:1.7;font-size:.9rem}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-top:25px}.card{border:1px solid #222;padding:22px;text-align:left;background:#050505}.card b{display:block;letter-spacing:.12em;font-size:.75rem}.card p{color:#888;line-height:1.6;font-size:.9rem;margin-bottom:0}
 footer{text-align:center;color:#555;font-size:.7rem;letter-spacing:.12em;padding:30px 20px 45px}
-@media(max-width:620px){.stats{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.mark{margin-bottom:25px}}
+@media(max-width:620px){.stats{grid-template-columns:1fr}.grid{grid-template-columns:1fr}.kicker{letter-spacing:.3em}.subtitle{letter-spacing:.2em}.lead{font-size:.94rem}}
 </style>
 </head>
 <body>
 <main>
 <div class="kicker">THE GLOBAL CICAN ARCHIVE</div>
 <h1>HOUSE OF<br>CICAN</h1>
+<div class="subtitle">PEOPLE · DOCUMENTS · PLACES · HISTORY · EVIDENCE</div>
+<div class="rule" aria-hidden="true"></div>
 <p class="lead">A living, evidence-first archive dedicated to every person, document, place and story connected to the Cican surname — wherever the evidence leads.</p>
 <a class="enter" href="#archive">Enter the Archive</a>
 <div class="stats" aria-label="Archive priorities">
