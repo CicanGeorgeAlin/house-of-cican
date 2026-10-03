@@ -89,6 +89,14 @@
       "priority": "Critical",
       "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia, 1547–1599",
       "next_action": "Inspect the 1591–1592 and 1599 Iurghiceni documents in the BNaR digitized archive and compare all named owners, descendants, property fractions and place spellings with the 1547 Cicican–Illea charter."
+    },
+    {
+      "lead_id": "CICAN-L-000012",
+      "subject": "Iurghiceni 1591–1599 ownership continuity",
+      "status": "Open",
+      "priority": "Critical",
+      "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia; BNaR archival items I/14 (1591–1592) and I/15a (1599)",
+      "next_action": "Obtain and transcribe the 1591–1592 and 1599 originals/translations; extract every named person, kinship term, property fraction and transaction, then test whether any line can be connected to the 1547 Cican–Illea holding. Do not infer continuity from the place name alone."
     }
   ]
 }
