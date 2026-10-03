@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# House of Cican is a public research archive.
+# Add the site's absolute sitemap URL here once the production domain is confirmed.
