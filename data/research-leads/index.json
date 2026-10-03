@@ -8,7 +8,7 @@
       "status": "Open",
       "priority": "High",
       "scope": "Romania, Turkey, United States, Indonesia, India, Brazil, Cyprus, England, Peru, Slovenia and reported Çiçan variant",
-      "next_action": "Locate underlying civil, census, immigration, directory, archival or institutional records rather than treating surname-distribution counts as people."\n    },\n    {\n      "lead_id": "CICAN-L-000011",\n      "subject": "1547 Iurghiceni property chain",\n      "status": "Open",\n      "priority": "Critical",\n      "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia, 1547–1599",\n      "next_action": "Inspect the 1591–1592 and 1599 Iurghiceni documents in the BNaR digitized archive and compare all named owners, descendants, property fractions and place spellings with the 1547 Cicican–Illea charter."
+      "next_action": "Locate underlying civil, census, immigration, directory, archival or institutional records rather than treating surname-distribution counts as people."
     },
     {
       "lead_id": "CICAN-L-000002",
@@ -49,6 +49,46 @@
       "priority": "High",
       "scope": "Argeș, Gorj, Mehedinți and wider Romania",
       "next_action": "Expand person-level extraction from historical newspapers, civil/parish records, military lists, school records, official gazettes, directories and local archives."
+    },
+    {
+      "lead_id": "CICAN-L-000007",
+      "subject": "Grigore Cican academic/research record",
+      "status": "Open",
+      "priority": "Medium",
+      "scope": "Romania; public academic and research records",
+      "next_action": "Reconcile institutional profiles and publications and retain only public professional information appropriate for a living-person archive."
+    },
+    {
+      "lead_id": "CICAN-L-000008",
+      "subject": "Simona Cican academic/professional record",
+      "status": "Open",
+      "priority": "Medium",
+      "scope": "Romania; public academic and professional records",
+      "next_action": "Reconcile institutional and publication records before creating or merging a person identity; do not aggregate private-person information."
+    },
+    {
+      "lead_id": "CICAN-L-000009",
+      "subject": "Cătălin Daniel Cican sports record",
+      "status": "Open",
+      "priority": "Medium",
+      "scope": "Gorj, Romania; official football registration records",
+      "next_action": "Use official sporting records to establish the documentary identity and avoid merging with similarly named people."
+    },
+    {
+      "lead_id": "CICAN-L-000010",
+      "subject": "Adrian Cican public institutional record",
+      "status": "Open",
+      "priority": "Medium",
+      "scope": "Orșova, Mehedinți, Romania; public institutional records",
+      "next_action": "Reconcile municipal, professional and other public records before merging similarly named Adrian Cican records."
+    },
+    {
+      "lead_id": "CICAN-L-000011",
+      "subject": "1547 Iurghiceni property chain",
+      "status": "Open",
+      "priority": "Critical",
+      "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia, 1547–1599",
+      "next_action": "Inspect the 1591–1592 and 1599 Iurghiceni documents in the BNaR digitized archive and compare all named owners, descendants, property fractions and place spellings with the 1547 Cicican–Illea charter."
     }
   ]
 }
