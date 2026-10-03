@@ -89,3 +89,23 @@ Forebears currently estimates approximately 399 Cican surname bearers across 11 
 
 ### Important research rule
 Repeated surname indexes are not treated as independent evidence. Every candidate must eventually be traced to underlying records where possible, identity-resolved, duplicate-checked and connected to source provenance.
+
+
+## Verified Historical Discovery — Aromanian / United States Cluster
+
+The first person-level historical cluster requiring dedicated records is the Aromanian diaspora around the Society Farsharotu.
+
+### CICAN-P-000001 — Nicolae Cican
+The Society Farsharotu's historical material identifies Nicolae Cican as an early immigrant to America and the initiator/founder of the Society in 1903. A separate scholarly PDF by Haralambie Balamaci states that Nicolae (Culicea) Cican emigrated to America in 1901 after graduating from the Romanian high school in Bitola and founded the Society Speranța in 1903. These sources are treated as independent documentary leads and should be reconciled against the Society archives and original records.
+
+### CICAN-P-000002 — Spiru Cican
+The Society's historical account names Spiru Cican as one of the young men who joined Nicolae Cican in forming the organization in New York in 1903. A 1940s account published by Rev. Vasile Hategan also records Spirea Cican among the participants at the first meeting. The spelling difference is preserved rather than silently normalized.
+
+### CICAN-P-000003 — Nasta Cican
+The Society's historical account names Nasta Cican among the founding group in New York in 1903. Further identity resolution is required.
+
+### CICAN-P-000004 — Dina Cican
+The Society's historical account names Dina Cican among the founding group in New York in 1903. Further identity resolution is required.
+
+### Evidence and next actions
+These four names are now high-priority historical person records, but the archive does not yet assume that they were relatives or that they connect to the Căpățâneni/Argeș Cican cluster. Next work is to locate the Society's archival references, historical membership material, immigration/arrival records, newspapers and other independent documents for each person.
