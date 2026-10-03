@@ -67,3 +67,25 @@ Exact residential addresses, private contact details, sensitive personal informa
 The project aims for maximum discoverability and transparency, not an unsupported claim of absolute completeness. The dashboard should show how many people, sources, documents, countries and localities have actually been discovered and reviewed.
 
 > **The mission is not to find only the Cican name. The mission is to build the evidence graph behind the Cican people.**
+
+
+## Initial Global Discovery — 2026-10-03
+
+The first worldwide sweep has already identified multiple independent research clusters. These are discovery leads, not automatically related families.
+
+### Romania / Argeș
+Public sources identify multiple Cican occurrences in Argeș and the wider region. A 2019 education-project document names teacher Mariana Cican at Școala Gimnazială Nr. 1 Corbeni, and a 2025 public education registry contains Cican G. Mihaela in Mălureni, Argeș. These records require identity-level investigation before being treated as separate permanent people.
+
+### United States / Aromanian diaspora
+The Aromanian Cultural Society Farsharotu documents **Nicolae Cican** as an early immigrant to America and founder of the society in 1903. Its historical newsletter also identifies **Spiru Cican, Nasta Cican and Dina Cican** among the founders. These are high-value historical person records because the source is the organization's own historical publication.
+
+A separate U.S. federal court opinion from 2001 identifies **Gary Michael Cican** in Michigan and mentions **Roselle Cican**. This is a public legal record and will be treated strictly as evidence of documentary occurrence, without reproducing unnecessary sensitive details.
+
+### Türkiye / international public profiles
+Public professional search results currently surface multiple people named Cican in Türkiye, including Süleyman Cican in Diyarbakır. These are living-person research leads and will be handled under the project's privacy standard rather than converted into personal dossiers.
+
+### Global surname coverage
+Forebears currently estimates approximately 399 Cican surname bearers across 11 countries, with Romania as the largest reported concentration and additional reported occurrences in Türkiye, the United States, Indonesia, India, Brazil, Cyprus, England, Peru and Slovenia. This is a surname-distribution lead, not a census and not a list of identified people.
+
+### Important research rule
+Repeated surname indexes are not treated as independent evidence. Every candidate must eventually be traced to underlying records where possible, identity-resolved, duplicate-checked and connected to source provenance.
