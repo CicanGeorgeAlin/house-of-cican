@@ -1,0 +1,47 @@
+{
+  "archive": "House of Cican",
+  "version": "0.1.0",
+  "status": "initial research seed",
+  "people": [
+    {
+      "id": "CICAN-P-000001",
+      "name": "Gheorghe Cican",
+      "relationship_to_project_owner": "grandfather",
+      "surname": "Cican",
+      "evidence_status": "family-supplied",
+      "evidence_level": "D",
+      "geographic_association": "Căpățâneni, Curtea de Argeș area, Romania",
+      "notes": "Initial person supplied by project owner. Dates, places, relationships and documentary evidence require independent research."
+    },
+    {
+      "id": "CICAN-P-000002",
+      "name": "Margareta Cican",
+      "relationship_to_project_owner": "grandmother",
+      "surname": "Cican",
+      "evidence_status": "family-supplied",
+      "evidence_level": "D",
+      "geographic_association": "Căpățâneni, Curtea de Argeș area, Romania",
+      "notes": "Initial person supplied by project owner. Dates, places, relationships and documentary evidence require independent research."
+    },
+    {
+      "id": "CICAN-P-000003",
+      "name": "Vasile Cican",
+      "relationship_to_project_owner": "father",
+      "surname": "Cican",
+      "evidence_status": "family-supplied",
+      "evidence_level": "D",
+      "geographic_association": "Căpățâneni, Curtea de Argeș area, Romania",
+      "notes": "Initial person supplied by project owner. Living-person privacy applies. Dates, places, relationships and documentary evidence require independent research."
+    },
+    {
+      "id": "CICAN-P-000004",
+      "name": "George-Alin Cican",
+      "relationship_to_project_owner": "self",
+      "surname": "Cican",
+      "evidence_status": "family-supplied",
+      "evidence_level": "D",
+      "geographic_association": "Căpățâneni, Curtea de Argeș area, Romania",
+      "notes": "Initial person supplied by project owner. Living-person privacy applies."
+    }
+  ]
+}
