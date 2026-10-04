@@ -102,13 +102,14 @@
     {
       "lead_id": "CICAN-L-000013",
       "title": "Cicicani / Ion of Cicicani — 1638 Hotin documentary cluster",
-      "status": "Research lead — separate from 1547 Cican until proven otherwise",
+      "status": "Partially confirmed",
       "scope": "Cicicani near Forosna in the historical Hotin region; 26 February 1638 record names Tațea, daughter of Ion from Cicicani, as Nasta's maternal grandmother and identifies inherited property in Cicicani.",
       "evidence": [
         "DRH A. Moldova XXII, doc. 278, pp. 311–312, as cited by secondary historical studies",
         "Historical settlement catalogues identify Cicicani near Forosna/Novoselița"
       ],
-      "next_action": "Recover the 1638 original/copy and all earlier/later Cicicani records; determine whether 'Ion din Cicicani' is a locative designation and whether any documentary bridge exists to the 1547 Cican/Cicican. Do not merge the clusters based on phonetic similarity."
+      "next_action": "Recover and compare DRH A, vol. XXIV, doc. 249 (1638) and the 1643/1645 documents; determine whether earlier Cicicani records identify Ion or his descendants and whether any record independently uses Cican/Cicican as a personal surname. Keep this cluster separate from the 1547 Cican/Cicican at Iurghiceni unless an explicit documentary bridge is found.",
+      "notes": "The 26 February 1638 record is independently described in scholarly historical studies as Nasta, daughter of Ivan Vartic and Tațea, daughter of Ion din Cicicani, identifying Cicicani as a property-bearing locality in the historical Hotin region near Forosna/Novoselița. Later 1643 and 1645 records continue the same Cicicani property context through Nasta/Tațea's line. The wording supports a locative designation ('Ion din Cicicani') and property inheritance, not a Cican surname identification."
     },
     {
       "lead_id": "CICAN-L-000014",
