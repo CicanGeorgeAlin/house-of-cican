@@ -301,6 +301,20 @@
       "independence": "Scholarly edition of a primary documentary record.",
       "last_updated": "2026-10-04",
       "notes": "This record does not give Obrejie's patronymic and therefore cannot by itself identify him as the 1639 Obrejie son of Agahia or the deceased son of Miron in the 1644 record. It is useful as a chronological/community continuity marker only."
+    },
+    {
+      "source_id": "SRC-DRHA-XXIV-1638-IURGHICENI-AGAFIA-DOSCESTI-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXIV (1637–1638), doc. 410 — Iurghiceni Doșcești branch and Agafia",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/24_documenta-romaniae-historica-a-moldova-XXIV_1998_1637-1638.pdf",
+      "supports": [
+        "14 July 1638: Iachim Bandur sells to Dumitrașco Buhuş an Iurghiceni holding purchased from Petrea Băltag",
+        "The prior title is traced to Ion and Constantin, sons of Sidor and Agafia, in the upper half of Iurghiceni, Doșcești side",
+        "Agafia is independently documented in the Iurghiceni property network in 1638"
+      ],
+      "independence": "Scholarly edition of a primary documentary record.",
+      "last_updated": "2026-10-04",
+      "notes": "Identity-control evidence. The Agafia in this 1638 Doșcești-side title chain is not to be equated with the Agafia/Agahia named as Obrejie's parent in the 1591–1592 and 1639 Băsărăbești-side records without explicit kinship or property evidence."
     }
   ]
 }
