@@ -146,9 +146,13 @@
         "1619 Costin and Lupu at Iurghiceni",
         "1619 Frimu son of Bilan",
         "1619 Iurghiceni property transactions",
-        "1620 Costin possession at Iurghiceni"
+        "1620 Costin possession at Iurghiceni",
+        "1619 June 20: Costin and Lupu vistiernici receive confirmation of an Iurghiceni holding bought from Iosif, son of Vasile Cergas, for 46 talers",
+        "1619 June 20: Costin vistiernicel from Iurghiceni receives confirmation of an Iurghiceni holding bought from Frimu son of Bilan for 46 silver talers",
+        "1620 July 22: Gaspar confirms Costin of Iurghiceni in possession of his holding"
       ],
-      "independence": "Scholarly documentary edition; use original archival documents for final person-level claims where available."
+      "independence": "Scholarly documentary edition; use original archival documents for final person-level claims where available.",
+      "notes": "The 1619 edition contains multiple closely dated Costin formulations: Costin and Lupu vistiernici in one transaction, and Costin vistiernicel from Iurghiceni in the Frimu son of Bilan transaction. This must be resolved from the underlying documents before treating every Costin reference as one individual."
     },
     {
       "source_id": "SRC-DIR-A-MOLDOVA-1611-1615-INDEX-001",
