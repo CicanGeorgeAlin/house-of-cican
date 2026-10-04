@@ -21,6 +21,24 @@
       "person_ids": [],
       "status": "Documented occurrence; person identity model pending expansion",
       "notes": "The BNaR catalogue uses Cican; the scholarly transcription uses Cicican. Preserve both forms. This is an early documentary occurrence, not proof of the absolute origin or hereditary-surname status of the name."
+    },
+    {
+      "occurrence_id": "CICAN-O-000002",
+      "spelling_as_recorded": [
+        "Cican"
+      ],
+      "date": "1953-07-04",
+      "place": "Wayne County, Michigan, United States",
+      "people_named": [
+        "Anton Cican"
+      ],
+      "document_summary": "Wayne County Death Records index lists Anton Cican with a 4 July 1953 death date.",
+      "source_ids": [
+        "SRC-WAYNE-COUNTY-DEATHS-1950-53-CICAN-ANTON-001"
+      ],
+      "person_ids": [],
+      "status": "Documented occurrence; underlying certificate not yet recovered",
+      "notes": "This is an historical civil-index occurrence and should not be merged with other Anton/Antonio Cican records without identity evidence."
     }
   ]
 }
