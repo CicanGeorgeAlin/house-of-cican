@@ -8,7 +8,8 @@
       "status": "Open",
       "priority": "High",
       "scope": "Romania, Turkey, United States, Indonesia, India, Brazil, Cyprus, England, Peru, Slovenia and reported Çiçan variant",
-      "next_action": "Locate underlying civil, census, immigration, directory, archival or institutional records rather than treating surname-distribution counts as people."
+      "next_action": "Locate underlying civil, census, immigration, directory, archival or institutional records rather than treating surname-distribution counts as people.",
+      "notes": " New count-control source: Namespedia currently reports at least 57 surname uses in at least 3 countries. This is not comparable directly to Forebears' estimated bearer count because database methodology differs; retain as an independent benchmark to investigate."
     },
     {
       "lead_id": "CICAN-L-000002",
