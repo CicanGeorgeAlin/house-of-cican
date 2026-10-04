@@ -42,6 +42,34 @@ Every important claim should be traceable to evidence. Uncertainty remains visib
 See [METHODOLOGY.md](METHODOLOGY.md).
 
 
+## Global Cican People Index — Core Objective
+
+HOUSE OF CICAN has two equal research missions:
+
+1. **Global Cican People Index** — identify and document every discoverable person who carries, historically carried, or is credibly recorded under the Cican surname or a historically relevant spelling variant. The archive is not limited to famous people; ordinary surname bearers are part of the research when lawful, appropriate evidence exists.
+2. **Cican Name & First Attestation Research** — determine the earliest defensible documentary appearance of the Cican name, preserve the exact historical spelling (including forms such as Cican/Cicican), identify the record, date, place, language/script, document type and person, and investigate earlier evidence without assuming that the earliest surviving record is the absolute origin.
+
+### The 399-person figure is a research claim, not a truth
+
+External surname-distribution databases may report approximately 399 Cican bearers. HOUSE OF CICAN does **not** adopt that number as the size of the Cican population. It is an external estimate that must itself be audited.
+
+The archive will maintain a **Cican Count Audit**:
+
+`External estimate → underlying coverage → country records → historical records → duplicate resolution → missing-data assessment → verified documented people`
+
+The objective is not simply to prove an external database wrong. It is to produce a more transparent, evidence-backed assessment and show exactly what is known, unknown and likely missing.
+
+Counts must distinguish:
+
+- **Documented people** — individually supported by evidence.
+- **Historical people** — documentary/historical identities.
+- **Living people** — only where publication is appropriate and privacy-safe.
+- **Unresolved records** — evidence exists but identity is not yet resolved.
+- **Research leads** — possible Cican occurrences requiring verification.
+- **External estimates** — figures such as the 399 estimate, kept separate from the verified archive count.
+
+No surname-distribution number is treated as a census.
+
 ## Phase 1 — Global Cican People Index
 
 The first operational priority is a worldwide, evidence-based index of people who carry or historically carried the Cican surname and relevant documented variants.
