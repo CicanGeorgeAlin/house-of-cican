@@ -563,6 +563,20 @@
       "independence": "General Aromanian onomastic reference; not a biography of Nicolae Cican.",
       "notes": "The reference lists 'Culícea, PM, NF, v. Nicolae' among forms under the Nicolae name group. This supports treating Culicea as a possible Nicolae-derived personal/byname form in Aromanian naming practice, but it does not establish what function 'Culicea' had specifically for Nicolae Cican.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BALAMACI-PLEASA-EMIGRATION-1905-001",
+      "title": "Haralambie Balamaci — Pleasa emigration context and Nicolae (Culicea) Cican",
+      "publisher": "Haralambie Balamaci",
+      "source_type": "secondary historical study",
+      "url": "https://www.aromaniidincalifornia.com/pdf/cv-haralambie-balamaci.pdf",
+      "supports": [
+        "Balamaci states that approximately 160 young people from Pleasa were in America by 1905",
+        "Nicolae (Culicea) Cican is described as a Pleasa person who emigrated to America in 1901 after graduating from the Romanian high school in Bitola"
+      ],
+      "independence": "Secondary historical study drawing on cited earlier works; contextual rather than a primary identity record.",
+      "notes": "Useful for community-level migration context and Nicolae's Pleasa association. It does not identify the 1888 Ghiorgea schoolboy Nicola Cican or provide his parentage.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
