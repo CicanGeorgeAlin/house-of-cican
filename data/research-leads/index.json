@@ -1,6 +1,6 @@
 {
   "schema": "house-of-cican.research-leads.v1",
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-04",
   "leads": [
     {
       "lead_id": "CICAN-L-000001",
@@ -85,10 +85,11 @@
     {
       "lead_id": "CICAN-L-000011",
       "subject": "1547 Iurghiceni property chain",
-      "status": "Open",
+      "status": "Partially confirmed",
       "priority": "Critical",
       "scope": "Iurghiceni on the Bahlui, Hârlău district, Moldavia, 1547–1619",
-      "next_action": "Compare the 1547 Cican–Illea charter with the 1591–1592 Iurghiceni sale, then extend the chain through the explicitly Iurghiceni documents of 1611 and 1619. The 1599 BNaR item at cotă 15a is a separate court judgment and is not currently identified as an Iurghiceni document; inspect it only for potentially relevant names or property references."
+      "next_action": "Recover the 1611 original/transcription and the 1619 originals/transcriptions in full. Compare exact names, patronymics, property fractions, witnesses, boundary descriptions and prior-title language with the 1547 Cican–Illea charter. Search intervening 1548–1610 Iurghiceni records and later 1620–1644 records for explicit descent, inheritance or prior-owner references. Do not merge Frim/Frimu with Cican/Illea without direct evidence.",
+      "notes": "BNaR inventory and the Documenta Romaniae Historica edition independently establish the 26 May 1547 Hârlău charter: Cican/Cicican and his son Illea purchased a defined share of Iurghiceni. BNaR inventory also identifies an Iurghiceni witness/sale record in 1611 involving Frim and later 1619 Iurghiceni records involving Costin/Lupu and Frimu, son of Bilan. These later records establish documentary continuity at Iurghiceni but do not prove a kinship or identity connection to the 1547 Cican–Illea pair."
     },
     {
       "lead_id": "CICAN-L-000012",
