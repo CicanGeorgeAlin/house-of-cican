@@ -133,6 +133,31 @@
         "Cicănești documentary attestation, 11 June 1565"
       ],
       "independence": "official local-history statement; primary charter should be recovered before using it for deeper onomastic or genealogical claims"
+    },
+    {
+      "source_id": "SRC-DIR-A-MOLDOVA-1616-1620-IURGHICENI-001",
+      "title": "Documente privind istoria României, A. Moldova, veacul XVII, vol. IV (1616–1620)",
+      "publisher": "Academia Română",
+      "source_type": "scholarly documentary edition / published historical record index",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/documente-privind-istoria-romaniei_A-Moldova_vol-IV_sec-XVII_1616-1620_1956.pdf",
+      "supports": [
+        "1619 Costin and Lupu at Iurghiceni",
+        "1619 Frimu son of Bilan",
+        "1619 Iurghiceni property transactions",
+        "1620 Costin possession at Iurghiceni"
+      ],
+      "independence": "Scholarly documentary edition; use original archival documents for final person-level claims where available."
+    },
+    {
+      "source_id": "SRC-DIR-A-MOLDOVA-1611-1615-INDEX-001",
+      "title": "Documente privind istoria României, A. Moldova, veacul XVII, vol. III (1611–1615) / documentary index",
+      "publisher": "Academia Română",
+      "source_type": "scholarly documentary edition / historical index",
+      "url": "https://ro.scribd.com/document/518649885/Documente-privind-istoria-Romaniei-A-Moldova-Veacul-XVII-Volumul-3-1611-1615",
+      "supports": [
+        "1611 Iurghiceni / Frim documentary lead"
+      ],
+      "independence": "Scholarly documentary edition/index; BNaR original document remains the preferred primary source."
     }
   ]
 }
