@@ -211,6 +211,17 @@
       ],
       "independence": "Scholarly edition of the documentary record; primary-document transcription.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-DRHA-XXI-1632-GLIGORIE-PALAGHIA-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXI (1632–1633), doc. 22 — Gavril and Gligorie, sons of Palaghia, Iurghiceni",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/21_documenta-romaniae-historica-a-moldova-XXI_1971_1632-1633.pdf",
+      "supports": [
+        "17 April 1632: Gavril and his brother Gligorie, sons of Palaghia and grandchildren of Miron, sell their Iurghiceni hereditary holding to Iachim Bandur"
+      ],
+      "independence": "Primary-document transcription in a scholarly edition.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
