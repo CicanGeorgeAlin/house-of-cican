@@ -57,6 +57,60 @@
       "person_ids": [],
       "status": "Documented historical occurrence; identity relationship to Nicolae Cican unresolved",
       "notes": "Preserve Cicani spelling. Do not merge with Nicolae Cican until the original 1936 item and biographical details are recovered."
+    },
+    {
+      "occurrence_id": "CICAN-O-000004",
+      "spelling_as_recorded": [
+        "Nicola Cican"
+      ],
+      "date": "1888/1889",
+      "place": "Ghiorgea (Corcea), Ottoman Empire",
+      "people_named": [
+        "Nicola Cican"
+      ],
+      "document_summary": "Teodor Burada's published school roll for the Romanian school in Ghiorgea lists Nicola Cican among pupils in the 1888–1889 school year.",
+      "source_ids": [
+        "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001"
+      ],
+      "person_ids": [],
+      "status": "Documented historical occurrence; identity linkage to later Nicolae Cican unresolved",
+      "notes": "Potentially important for Nicolae Cican's pre-America life, but the source gives no age, parentage or other identifier sufficient for a definitive merge."
+    },
+    {
+      "occurrence_id": "CICAN-O-000005",
+      "spelling_as_recorded": [
+        "Dina Cecan"
+      ],
+      "date": "1888/1889",
+      "place": "Ghiorgea (Corcea), Ottoman Empire",
+      "people_named": [
+        "Dina Cecan"
+      ],
+      "document_summary": "The same school roll lists Dina Cecan among pupils in the 1888–1889 school year.",
+      "source_ids": [
+        "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001"
+      ],
+      "person_ids": [],
+      "status": "Documented historical occurrence; relationship/identity unresolved",
+      "notes": "Preserve Cecan spelling exactly. This may be relevant to the Dina Cican documented in 1914–1915, but the evidence is not yet sufficient to merge them."
+    },
+    {
+      "occurrence_id": "CICAN-O-000006",
+      "spelling_as_recorded": [
+        "Pilea Cican"
+      ],
+      "date": "1888/1889",
+      "place": "Ghiorgea (Corcea), Ottoman Empire",
+      "people_named": [
+        "Pilea Cican"
+      ],
+      "document_summary": "The same school roll lists Pilea Cican among pupils in the 1888–1889 school year.",
+      "source_ids": [
+        "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001"
+      ],
+      "person_ids": [],
+      "status": "Documented historical occurrence; identity unresolved",
+      "notes": "New historical Cican occurrence requiring separate identity research."
     }
   ]
 }
