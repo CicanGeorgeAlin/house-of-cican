@@ -97,9 +97,12 @@
       "status": "Partially confirmed",
       "priority": "Critical",
       "scope": "Iurghiceni continuity: 1591–1592 → 1611 → 1619",
-      "next_action": "Recover the full 1591–1592 original and compare its Băsărăbești property description, boundaries, witnesses and prior-title language with the 1547 Cican/Illea charter. Search for Ștefan, Obrejie, priest Gavril, Agafia and Băsărăbești in later Iurghiceni documents. Separately continue the 1611 Frim/Costinovici and 1619 Costin chain.",
-      "notes": "BNaR archival inventory establishes an Iurghiceni-specific sequence: 1591–1592 I/14, 1611 I/18, and later 1619 records. The 1599 I/15-a item is a separate court judgment and should not be treated as Iurghiceni ownership continuity merely because it is adjacent in the inventory. I/14 is especially useful: Ștefan son of Cătrîna, grandson of priest Gavril, sells his Iurghiceni share from the Băsărăbești side to his cousin Obrejie, son of Agafia and grandson of priest Gavril. The verso note 'Cost. Paladi hatm.' is a later archival annotation and must not be used to date the transaction.",
-      "last_verified": "2026-10-04"
+      "next_action": "Compare the full 1591–1592 and 1639 documents for Obrejie/Agafia/Agahia, priest Gavril, Băsărăbești-side property fractions, boundaries, witnesses and prior-title language. Search intervening 1592–1639 records for Obrejie, Agafia/Agahia and priest Gavril. If the property description and kinship language align, upgrade from research lead to probable identity continuity.",
+      "notes": "BNaR archival inventory establishes an Iurghiceni-specific sequence: 1591–1592 I/14, 1611 I/18, and later 1619 records. The 1599 I/15-a item is a separate court judgment and should not be treated as Iurghiceni ownership continuity merely because it is adjacent in the inventory. I/14 is especially useful: Ștefan son of Cătrîna, grandson of priest Gavril, sells his Iurghiceni share from the Băsărăbești side to his cousin Obrejie, son of Agafia and grandson of priest Gavril. The verso note 'Cost. Paladi hatm.' is a later archival annotation and must not be used to date the transaction. Major new continuity clue: DRH A XXV docs. 173 and 187 (15 and 22 July 1639) repeatedly identify Obrejie/Obreje, son of Agahia and nephew of priest Gavril, as acquiring Băsărăbești-family shares of Iurghiceni. The 1591–1592 BNaR record identifies Obrejie, son of Agafia and grandson of priest Gavril, as the cousin of Ștefan son of Cătrîna and buyer of the Băsărăbești-side Iurghiceni share. This is a strong candidate for the same person or the same family branch across 1591–1639, but identity is not yet proven; exact original spellings, ages/chronology and property descriptions must be compared.",
+      "last_verified": "2026-10-04",
+      "source_ids": [
+        "SRC-DIR-A-MOLDOVA-1639-IURGHICENI-OBREJIE-001"
+      ]
     },
     {
       "lead_id": "CICAN-L-000013",
@@ -142,6 +145,23 @@
         "SRC-BNAR-IURGHICENI-LATER-COSTIN-001"
       ],
       "next_action": "Recover the underlying item 3444 before assigning it to any century. Keep it separate from the 1611–1632 Costin identity chain until the document itself is dated. Focus the main chain on 1611, 1619, 1620, 1622 and 1632 primary records.",
+      "created": "2026-10-04",
+      "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000016",
+      "subject": "Iurghiceni Băsărăbești branch: Obrejie son of Agafia/Agahia, 1591–1639",
+      "status": "Active",
+      "priority": "Critical",
+      "scope": "1591–1639",
+      "hypothesis": "The Obrejie son of Agafia/Agahia and nephew/grandson of priest Gavril documented in 1591–1592 may be the same Obrejie who acquired Băsărăbești-family shares in Iurghiceni in 1639.",
+      "notes": "1591–1592 BNaR record: Ștefan son of Cătrîna, grandson of priest Gavril, sells his Iurghiceni share from the Băsărăbești side to his cousin Obrejie, son of Agafia, grandson of priest Gavril. 1639 DRH A XXV docs. 173 and 187: Obrejie/Obreje, son of Agahia and nephew of priest Gavril, acquires Băsărăbești-side Iurghiceni shares. This is a strong continuity hypothesis but not yet a proven single-person identification.",
+      "evidence_level": "B",
+      "source_ids": [
+        "SRC-BNAR-IURGHICENI-1591-1599-001",
+        "SRC-DIR-A-MOLDOVA-1639-IURGHICENI-OBREJIE-001"
+      ],
+      "next_action": "Recover full 1591–1592 text and compare with both 1639 deeds; search intervening documents for Obrejie, Agafia/Agahia and priest Gavril. Compare exact property fractions and boundaries.",
       "created": "2026-10-04",
       "last_updated": "2026-10-04"
     }
