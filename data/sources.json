@@ -331,6 +331,34 @@
       "independence": "External aggregated surname database; useful as a benchmark and research lead, not treated as a census or authoritative population count.",
       "notes": "The current page reports approximately 399 people bearing the surname, with 212 in Romania, 148 in Turkey, 17 in the United States, 9 in Indonesia, 7 in India, and 1 each in Brazil, Cyprus, England, Peru and Slovenia; it separately reports Çiçan and notes that Cican may also occur as a forename. HOUSE OF CICAN records these figures as an external estimate to audit rather than as established fact. Internal consistency check: the visible country incidence values listed on the current page sum to 398, while the headline says approximately 399 and the page says Cican occurs in 11 countries (Romania plus 10 others), whereas the visible table in the captured result lists Romania plus 9 other countries. HOUSE OF CICAN records this discrepancy for verification rather than attempting to reconcile it by assumption.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-WAYNE-COUNTY-DEATHS-1950-53-CICAN-ANTON-001",
+      "title": "Wayne County Death Records, Index 1950–53 — Anton Cican",
+      "publisher": "Wayne County death-record index",
+      "source_type": "historical civil-record index",
+      "url": "https://d2qp1eesgvzzix.cloudfront.net/uploads/files/Wayne-County-Deaths-1950-53.pdf",
+      "supports": [
+        "Anton Cican",
+        "4 July 1953 death-record index occurrence"
+      ],
+      "independence": "County-level historical death index; underlying certificate should be recovered for full identity and biographical detail.",
+      "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-NAMESPEDIA-CICAN-001",
+      "title": "Namespedia — Cican name statistics and candidate-name index",
+      "publisher": "Namespedia",
+      "source_type": "name database / aggregated index",
+      "url": "https://www.namespedia.com/details/Cican",
+      "supports": [
+        "surname distribution research lead",
+        "candidate Cican given-name/surname combinations",
+        "Cican/Cicon/Cycan and other spelling-lead forms"
+      ],
+      "independence": "Aggregated secondary database; not treated as authoritative population count or identity evidence.",
+      "notes": "Current page says surname Cican is used at least 57 times in at least 3 countries and presents candidate names. This conflicts in scale with the Forebears estimate and is therefore useful as a separate benchmark to audit, not as a person count.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
