@@ -97,12 +97,12 @@
     {
       "occurrence_id": "CICAN-O-000006",
       "spelling_as_recorded": [
-        "Pilea Cican"
+        "Pilea Cicani"
       ],
       "date": "1888/1889",
       "place": "Ghiorgea (Corcea), Ottoman Empire",
       "people_named": [
-        "Pilea Cican"
+        "Pilea Cicani"
       ],
       "document_summary": "The same school roll lists Pilea Cican among pupils in the 1888–1889 school year.",
       "source_ids": [
@@ -110,7 +110,7 @@
       ],
       "person_ids": [],
       "status": "Documented historical occurrence; identity unresolved",
-      "notes": "New historical Cican occurrence requiring separate identity research."
+      "notes": "The primary scan preserves the historical spelling Cicani. This is a separate documentary occurrence requiring identity research; no normalization to Cican is applied."
     }
   ]
 }
