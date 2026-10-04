@@ -39,6 +39,24 @@
       "person_ids": [],
       "status": "Documented occurrence; underlying certificate not yet recovered",
       "notes": "This is an historical civil-index occurrence and should not be merged with other Anton/Antonio Cican records without identity evidence."
+    },
+    {
+      "occurrence_id": "CICAN-O-000003",
+      "spelling_as_recorded": [
+        "Nicolae Cicani"
+      ],
+      "date": "1936-10-15",
+      "place": "Frașari, Albania",
+      "people_named": [
+        "Nicolae Cicani"
+      ],
+      "document_summary": "Bibliography records a bust of nationalist fighter Nicolae Cicani from Frașari in Țara lui Mircea, 15 October 1936.",
+      "source_ids": [
+        "SRC-TARA-LUI-MIRCEA-1936-NICOLAE-CICANI-001"
+      ],
+      "person_ids": [],
+      "status": "Documented historical occurrence; identity relationship to Nicolae Cican unresolved",
+      "notes": "Preserve Cicani spelling. Do not merge with Nicolae Cican until the original 1936 item and biographical details are recovered."
     }
   ]
 }
