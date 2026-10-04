@@ -536,6 +536,20 @@
       "independence": "Secondary historical study; not a primary school register.",
       "notes": "Use only as evidence for the later biographical claim that Nicolae Cican graduated from the Romanian high school in Bitola. It does not identify the 1888–1889 Ghiorgea schoolboy Nicola Cican.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BURADA-1888-BITOLA-PRIMARY-NEGCONTROL-001",
+      "title": "Teodor Burada, 1888–1889 Bitola Romanian primary-school pupil list — negative control",
+      "publisher": "Teodor T. Burada",
+      "source_type": "historical educational record / published school roll",
+      "url": "https://miscarea.net/w/wp-content/uploads/2023/03/Teodor-Burada-Cercetari-despre-scolile-romanesti-din-Turcia-1890.pdf",
+      "supports": [
+        "The 1888–1889 Bitola primary-school list contains 40 pupils and does not list Nicola Cican",
+        "Nicola Cican appears instead in the separate Ghiorgea school list for 1888–1889"
+      ],
+      "independence": "Same primary/near-contemporary educational publication as the Ghiorgea roll; used here specifically as a negative identity control.",
+      "notes": "Absence from this particular Bitola primary list is not evidence that Nicola Cican was never in Bitola; it simply prevents merging the two 1888 school lists. The later claim that Nicolae Cican graduated from the Bitola Romanian high school in 1901 concerns a different educational stage.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
