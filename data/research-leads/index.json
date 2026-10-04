@@ -97,8 +97,9 @@
       "status": "Partially confirmed",
       "priority": "Critical",
       "scope": "Iurghiceni continuity: 1591–1592 → 1611 → 1619",
-      "next_action": "Recover the 1591–1592 document text, identify Ștefan son of Cătrîna and all referenced grandparents/cousins, then compare property descriptions and prior-title language with the 1547 charter. Inspect the 1599 court judgment independently for any Iurghiceni/Cican names, without assuming relevance. Then compare 1611 Frim and 1619 Frimu son of Bilan.",
-      "notes": "BNaR's archival inventory establishes an Iurghiceni-specific sequence in the same fonds: 1591–1592, 1611, and 1619 documents. The 1599 item at cotă 15a is separately titled a court judgment by Ieremia Movilă and should not be treated as an Iurghiceni ownership document merely because it is adjacent in the inventory. The 1611 item explicitly concerns people from Iurghiceni and Frim's sale of his ocină; the 1619 items explicitly concern Iurghiceni and Frimu son of Bilan. Continuity of the locality/documentary context is established, but continuity of person or kinship with the 1547 Cican/Illea pair remains unproven."
+      "next_action": "Recover the full 1611 original/transcription and determine the exact form and identity of 'Costinovici' (patronymic/house-name/person). Compare it with the 1619 Costin vistiernic and every Frimu son of Bilan reference. Then trace Costin/Costinovici and Frim's property backward and forward through Iurghiceni records. Separately recover the full 1591–1592 text and map the Cătrîna–Gavril–Ștefan–Agafia–Obrejie branch.",
+      "notes": "BNaR primary catalogue evidence now gives a more precise 1611 relationship: on 16 March 1611, Popa Toader and others from Iurghiceni testify that Frim son of Bilan sold his Iurghiceni ocină to his nephew Costinovici. Published 1619 records then show Costin/Costinovici-context property transactions involving Frimu son of Bilan and Iurghiceni. This establishes a documentary Frim/Frimu–Costin family/property chain, but no current source connects Frim or Costinovici to the 1547 Cican/Cicican and Illea. The 1591–1592 Iurghiceni transaction involving Ștefan son of Cătrîna and his cousin Obrejie remains a separate documented branch unless a primary text provides a bridge.",
+      "last_verified": "2026-10-04"
     },
     {
       "lead_id": "CICAN-L-000013",
@@ -120,6 +121,23 @@
       "scope": "Cicănești, Argeș, 1526–1565 and later",
       "notes": "The official Cicănești local-history page confirms documentary attestation of the settlement on 11 June 1565. A secondary historical/onomastic source states that Cica is attested as a personal name in 1526 and discusses a proposed Cican-derived explanation for the place-name. This does not establish that the 1547 Moldavian Cican/Cicican or the user's family originated in Cicănești.",
       "next_action": "Recover the 1526 personal-name citation and the 1565 primary charter; determine the exact historical spelling and grammatical form of the place-name and personal name; search intervening and surrounding Wallachian records for Cica/Cican/Cicănești variants; compare chronology and geography without assuming identity or origin."
+    },
+    {
+      "lead_id": "CICAN-L-000015",
+      "subject": "Iurghiceni 1611 Frim son of Bilan → Costinovici → 1619 Costin/Frimu property chain",
+      "status": "Active",
+      "priority": "High",
+      "scope": "1611–1645",
+      "hypothesis": "The 1611 sale by Frim son of Bilan to his nephew Costinovici may be connected to the Costin/Frimu property transactions documented in 1619 and later Iurghiceni records.",
+      "notes": "This is a documentary/property-chain hypothesis, not a Cican ancestry claim. Current evidence establishes Frim son of Bilan, his nephew Costinovici, and later Costin/Frimu transactions, but does not connect this branch to Cican/Cicican/Illea.",
+      "evidence_level": "B",
+      "source_ids": [
+        "SRC-BNAR-IURGHICENI-1591-1599-001",
+        "SRC-DIR-A-MOLDOVA-1616-1620-IURGHICENI-001"
+      ],
+      "next_action": "Recover the 1611 original/transcription; resolve Costinovici identity and compare with 1619 Costin vistiernic and Frimu son of Bilan. Extend the chain through 1632–1645 Iurghiceni records and record all explicit kinship/property language.",
+      "created": "2026-10-04",
+      "last_updated": "2026-10-04"
     }
   ]
 }
