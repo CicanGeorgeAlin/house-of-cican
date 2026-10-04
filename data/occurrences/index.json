@@ -171,6 +171,26 @@
       ],
       "status": "Documented secondary historical occurrence",
       "notes": "Provides a dated return-to-Corcea anchor before the 1914 violence documented by contemporary press."
+    },
+    {
+      "occurrence_id": "CICAN-O-000010",
+      "spelling_as_recorded": [
+        "Cican",
+        "Cicican"
+      ],
+      "date": "26 May 1547",
+      "place": "Iurghiceni on the Bahlui, Moldavia; charter issued at Hârlău",
+      "people_named": [
+        "Cican",
+        "Illea"
+      ],
+      "document_summary": "Iliaș Voievod confirms Cican and his son Illea in possession of a share of Iurghiceni. The BNaR catalogue calls the beneficiary Cican; the published DRH transcription uses Cican in the entry and Cicican in the body.",
+      "source_ids": [
+        "SRC-BNAR-1547-CICAN-CICICAN-ORIGINAL-001"
+      ],
+      "person_ids": [],
+      "status": "Primary documentary occurrence; identity and surname function unresolved",
+      "notes": "Earliest securely dated Cican/Cicican occurrence currently established in the archive. Preserve both documentary forms. No connection to modern Cican families is claimed."
     }
   ]
 }
