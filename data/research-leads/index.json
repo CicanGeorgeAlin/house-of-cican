@@ -129,7 +129,7 @@
       "priority": "High",
       "scope": "1611–1645",
       "hypothesis": "The 1611 sale by Frim son of Bilan to his nephew Costinovici may be connected to the Costin/Frimu property transactions documented in 1619 and later Iurghiceni records.",
-      "notes": "BNaR's 1611 inventory explicitly says Frim son of Bilan sold his Iurghiceni ocină to his nephew Costinovici. The 1619 BNaR inventory says Costin vistiernicul of Iurghiceni received an ocină purchased from Frimu son of Bălan for 46 silver talers; the 1620 document confirms Costin's Iurghiceni holding. A 1632 scholarly edition independently records Costin's Iurghiceni holding and local witnesses. These records strengthen the Costin/Frim documentary chain, but do not connect it to Cican/Cicican/Illea. A separate scholarly name index independently identifies Bilan as the father of Frim from Iurghiceni, citing the 1619 documentary volume. This supports treating the 1611 'Frim son of Bilan' and the 1619 'Frimu son of Bilan' as the same named father-son branch unless the original documents reveal otherwise. It still does not establish that Costinovici in 1611 is the later Costin vistiernic.",
+      "notes": "BNaR's 1611 inventory explicitly says Frim son of Bilan sold his Iurghiceni ocină to his nephew Costinovici. The 1619 BNaR inventory says Costin vistiernicul of Iurghiceni received an ocină purchased from Frimu son of Bălan for 46 silver talers; the 1620 document confirms Costin's Iurghiceni holding. A 1632 scholarly edition independently records Costin's Iurghiceni holding and local witnesses. These records strengthen the Costin/Frim documentary chain, but do not connect it to Cican/Cicican/Illea. A separate scholarly name index independently identifies Bilan as the father of Frim from Iurghiceni, citing the 1619 documentary volume. This supports treating the 1611 'Frim son of Bilan' and the 1619 'Frimu son of Bilan' as the same named father-son branch unless the original documents reveal otherwise. It still does not establish that Costinovici in 1611 is the later Costin vistiernic. The BNaR catalogue explicitly styles the 1611 nephew as 'Costinovici, vistier'. The 1619 documents style the later beneficiary 'Costin vistiernic' / 'Costin vistiernicel'. This makes the office/title comparison a concrete identity test, but the name-form difference remains unresolved.",
       "evidence_level": "B",
       "source_ids": [
         "SRC-BNAR-IURGHICENI-1591-1599-001",
@@ -137,7 +137,7 @@
         "SRC-DRHA-XXI-1632-IURGHICENI-COSTIN-001",
         "SRC-DIR-INDEX-NAMES-1995-IURGHICENI-001"
       ],
-      "next_action": "Recover the full 1611 original/transcription; resolve the exact identity/title of Costinovici. Then compare the 1619 Iurghiceni documents and 1620 confirmation. Use the 1995 index as a finding aid, not as a substitute for the underlying records.",
+      "next_action": "Compare the 1611 'Costinovici, vistier' wording with every 1619 occurrence of Costin vistiernic/vistiernicel, including dates, co-beneficiary Lupu, property descriptions and any patronymic/kinship language. Do not equate Costinovici and Costin solely from office or locality.",
       "created": "2026-10-04",
       "last_updated": "2026-10-04"
     }
