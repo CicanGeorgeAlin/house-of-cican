@@ -129,13 +129,14 @@
       "priority": "High",
       "scope": "1611–1645",
       "hypothesis": "The 1611 sale by Frim son of Bilan to his nephew Costinovici may be connected to the Costin/Frimu property transactions documented in 1619 and later Iurghiceni records.",
-      "notes": "This is a documentary/property-chain hypothesis, not a Cican ancestry claim. Current evidence establishes Frim son of Bilan, his nephew Costinovici, and later Costin/Frimu transactions, but does not connect this branch to Cican/Cicican/Illea.",
+      "notes": "BNaR's 1611 inventory explicitly says Frim son of Bilan sold his Iurghiceni ocină to his nephew Costinovici. The 1619 BNaR inventory says Costin vistiernicul of Iurghiceni received an ocină purchased from Frimu son of Bălan for 46 silver talers; the 1620 document confirms Costin's Iurghiceni holding. A 1632 scholarly edition independently records Costin's Iurghiceni holding and local witnesses. These records strengthen the Costin/Frim documentary chain, but do not connect it to Cican/Cicican/Illea.",
       "evidence_level": "B",
       "source_ids": [
         "SRC-BNAR-IURGHICENI-1591-1599-001",
-        "SRC-DIR-A-MOLDOVA-1616-1620-IURGHICENI-001"
+        "SRC-DIR-A-MOLDOVA-1616-1620-IURGHICENI-001",
+        "SRC-DRHA-XXI-1632-IURGHICENI-COSTIN-001"
       ],
-      "next_action": "Recover the 1611 original/transcription; resolve Costinovici identity and compare with 1619 Costin vistiernic and Frimu son of Bilan. Extend the chain through 1632–1645 Iurghiceni records and record all explicit kinship/property language.",
+      "next_action": "Recover and compare the 1611 original/transcription with the 1619 I/27 document and 1620 I/28; resolve whether Costinovici and Costin vistiernicul are the same individual or related individuals. Extend through 1622 and 1632 records. Search backward for Frim son of Bilan's title, parentage and acquisition language.",
       "created": "2026-10-04",
       "last_updated": "2026-10-04"
     }
