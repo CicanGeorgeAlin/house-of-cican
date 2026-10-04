@@ -591,6 +591,22 @@
       "independence": "Independent academic study; secondary source.",
       "notes": "Useful geographic control: it distinguishes N. Cican's Corița/Korçë representation from a separate Pleasa representative. This prevents interpreting every reference to Nicolae Cican as proof that he personally originated in Pleasa.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-1547-CICAN-CICICAN-ORIGINAL-001",
+      "title": "BNaR I/5, 26 May 1547 — Iliaș Voievod confirms Cican and son Illea at Iurghiceni",
+      "publisher": "Biblioteca Națională a României / Documenta Romaniae Historica",
+      "source_type": "primary charter with published transcription",
+      "url": "https://oldsite.bibnat.ro/Arhiva-istorica-s195-ro.htm",
+      "supports": [
+        "26 May 1547 original Slavonic charter at Hârlău",
+        "BNaR catalogue heading identifies the beneficiary as (Cican) and his son",
+        "Published DRH transcription renders the beneficiary as Cican in the entry and Cicican in the body, with son Illea",
+        "Property share in Iurghiceni on the Bahlui, purchased for 60 Tatar zlotys from Toader son of Maria"
+      ],
+      "independence": "Primary charter preserved by BNaR, plus published scholarly transcription.",
+      "notes": "This is the archive's current earliest securely dated Cican/Cicican documentary evidence. Exact variant forms must be preserved. The record does not establish that this 1547 person is ancestral to later Cicans or that Cicican is an inherited surname.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
