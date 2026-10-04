@@ -359,6 +359,24 @@
       "independence": "Aggregated secondary database; not treated as authoritative population count or identity evidence.",
       "notes": "Current page says surname Cican is used at least 57 times in at least 3 countries and presents candidate names. This conflicts in scale with the Forebears estimate and is therefore useful as a separate benchmark to audit, not as a person count.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-ANCESTRY-CICAN-129-2026-001",
+      "title": "Ancestry — Cican Family History record index",
+      "publisher": "Ancestry",
+      "source_type": "genealogical database / aggregated record index",
+      "url": "https://www.ancestry.com/last-name-meaning/cican",
+      "supports": [
+        "129 indexed Cican records",
+        "birth/marriage/death records",
+        "military records",
+        "immigration records",
+        "census/voter records",
+        "U.S./Canada historical distribution"
+      ],
+      "independence": "Commercial genealogical aggregation; counts are database holdings, not population estimates and not independent identity proof.",
+      "notes": "Current page reports 129 records: 52 birth/marriage/death, 15 military, 40 immigration, 22 census/voter. Use as a discovery/record-location benchmark and verify underlying records before person identification.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
