@@ -1,6 +1,6 @@
 {
   "schema": "house-of-cican.source-registry.v1",
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-04",
   "sources": [
     {
       "source_id": "SRC-FARSHAROTU-001",
@@ -109,17 +109,19 @@
     },
     {
       "source_id": "SRC-BNAR-IURGHICENI-1591-1599-001",
-      "title": "BNaR digitized archival inventory: Iurghiceni documents, 1591–1592 and 1599",
+      "title": "BNaR digitized archival inventory: Iurghiceni and related documents, 1591–1619",
       "publisher": "Biblioteca Națională a României",
       "source_type": "archival inventory / digitized historical-document catalogue",
       "url": "https://bibnat.ro/wp-content/uploads/2026/05/Lista-inventar-a-documentelor-digitizate-in-BNaR_mai-2026.pdf",
       "supports": [
         "Iurghiceni",
         "1591–1592 ownership transaction",
-        "1599 court judgment",
+        "1599 separate court-judgment item",
+        "1611 Frim sale/witness record",
+        "1619 Costin/Lupu/Frimu Iurghiceni records",
         "historical ownership-chain research"
       ],
-      "independence": "primary archival catalogue; document contents must be inspected before making person-level or relationship claims"
+      "independence": "Primary archival catalogue; individual document contents must be inspected before making person-level or relationship claims."
     }
   ]
 }
