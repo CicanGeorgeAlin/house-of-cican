@@ -270,9 +270,10 @@
       "source_ids": [
         "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001",
         "SRC-UN-POPOR-CARE-SE-STINGE-1915-CICAN-001",
-        "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001"
+        "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001",
+        "SRC-BEZA-CICAN-BITOLA-GRADUATE-001"
       ],
-      "notes": "Burada's 1890 study explains that the Pleasa Romanian school operated seasonally in Ghiorgea (Corcea), and that a Romanian school was established permanently in Ghiorgea; the 1888–1889 roll lists Nicola Cican, Dina Cecan and Pilea Cicani. A later Farsharotu biography states that Nicolae Cican graduated from the Romanian high school in Monastir before emigrating around the turn of the century. Therefore the 1888–1889 record is consistent with a documented educational trajectory in the same regional Romanian-school network, but it is not by itself proof that schoolboy Nicola Cican is the later Nicolae Cican. Search priority: recover Monastir school registers/secondary-school records, migration or family records, and any biographical source giving Nicolae's age/parents.",
+      "notes": "Primary Burada evidence is now pinned precisely: the 1888–1889 roll is explicitly the school of Ghiorgea/Corcea, and lists Nicola Cican, Dina Cecan and Pilea Cicani. Separately, George Beza's secondary study says Nicolae Cican was a graduate of the Romanian high school at Bitola (Monastir). These are two distinct educational records in the same regional Romanian-school network, not one school. The key unresolved test is whether the Ghiorgea pupil Nicola Cican later appears in the Bitola high-school record as the same person. Do not merge without a direct register, age/parentage bridge, or equivalent independent identifier.",
       "last_updated": "2026-10-04"
     }
   ]
