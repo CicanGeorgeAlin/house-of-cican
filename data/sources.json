@@ -408,6 +408,21 @@
       "independence": "Official national-library archival inventory; primary-source custody metadata.",
       "notes": "The March 2026 inventory independently confirms the archival item: Iliaș Voivode confirms Cican and his son rights to part of Iurghiceni, dated 1547. This strengthens source provenance for the earliest-attestation claim.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-ROMANUL-1914-NICOLAE-CICAN-001",
+      "title": "Românul, 1914 — report on the burning of Nicolae Cican's house in Corcea",
+      "publisher": "Românul / Biblioteca Centrală Universitară Cluj digital collection",
+      "source_type": "contemporary newspaper",
+      "url": "https://documente.bcucluj.ro/web/bibdigit/periodice/romanul/1914/BCUCLUJ_FP_P2581_1914_0091.pdf",
+      "supports": [
+        "Nicolae Cican in Corcea in March 1914",
+        "contemporary report that his house was burned and he escaped alive",
+        "historical context for his 1914 return and public activity"
+      ],
+      "independence": "Contemporary newspaper report; details should be compared with diplomatic correspondence and later scholarship.",
+      "notes": "The contemporary report places Nicolae Cican in Corcea during the March 1914 violence and states that his substantial house was burned while he and his family survived.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
