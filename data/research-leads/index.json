@@ -200,13 +200,13 @@
     {
       "lead_id": "CICAN-L-000019",
       "title": "Nicolae Cican Romanian return and WWI military record recovery",
-      "status": "New",
+      "status": "Partially confirmed",
       "priority": "High",
       "scope": "Recover primary Romanian military and wartime records for Nicolae Cican after his return from America, including enlistment, unit, service, death date/place and burial if available.",
       "source_ids": [
         "SRC-BALAMACI-001"
       ],
-      "notes": "Secondary scholarly source states he returned to Romania around 1913/1914, enlisted in the Romanian Army and died during World War I. Treat these as documented secondary claims pending primary verification. A contemporary 1914 newspaper now independently corroborates Nicolae Cican's presence in Corcea and survival of the March 1914 house burning; military service and death still require primary records.",
+      "notes": "Secondary scholarly source states he returned to Romania around 1913/1914, enlisted in the Romanian Army and died during World War I. Treat these as documented secondary claims pending primary verification. A contemporary 1914 newspaper now independently corroborates Nicolae Cican's presence in Corcea and survival of the March 1914 house burning; military service and death still require primary records. A contemporary 20 February 1918 newspaper now gives a specific death date (19 February 1918), place (Chișinău) and rank (sub-lieutenant), and identifies him as Romanian from Macedonia. Primary military personnel/casualty documentation remains the next verification target.",
       "last_updated": "2026-10-04"
     },
     {
