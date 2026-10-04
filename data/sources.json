@@ -577,6 +577,20 @@
       "independence": "Secondary historical study drawing on cited earlier works; contextual rather than a primary identity record.",
       "notes": "Useful for community-level migration context and Nicolae's Pleasa association. It does not identify the 1888 Ghiorgea schoolboy Nicola Cican or provide his parentage.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-PIRVU-AROMANIAN-CONGRESS-CICAN-CORCEA-001",
+      "title": "Alin Pîrvu, doctoral study — Aromanian congress delegates, N. Cican for Corița and T. Teja for Pleasa",
+      "publisher": "Alin Pîrvu / Romanian Ministry of Education repository",
+      "source_type": "academic historical study",
+      "url": "https://rei.gov.ro/teza-doctorat-document/8310856516a9f089d1d-22.-LUCRARE-drd.-ALIN-PIRVU.pdf",
+      "supports": [
+        "An Aromanian congress delegation list identifies N. Cican with Corița/Korçë",
+        "The same list identifies T. Teja with Pleasa"
+      ],
+      "independence": "Independent academic study; secondary source.",
+      "notes": "Useful geographic control: it distinguishes N. Cican's Corița/Korçë representation from a separate Pleasa representative. This prevents interpreting every reference to Nicolae Cican as proof that he personally originated in Pleasa.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
