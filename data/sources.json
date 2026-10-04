@@ -423,6 +423,21 @@
       "independence": "Contemporary newspaper report; details should be compared with diplomatic correspondence and later scholarship.",
       "notes": "The contemporary report places Nicolae Cican in Corcea during the March 1914 violence and states that his substantial house was burned while he and his family survived.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-TARA-LUI-MIRCEA-1936-NICOLAE-CICANI-001",
+      "title": "Țara lui Mircea, 15 October 1936 — bust of nationalist fighter Nicolae Cicani",
+      "publisher": "Țara lui Mircea",
+      "source_type": "historical press bibliography / image reference",
+      "url": "https://dinitrandu.com/wp-content/uploads/2020/08/Pariza-Aromanii-in-presa-dobrogeana-.-BIBLIOGRAFIE-SPECIALA.pdf",
+      "supports": [
+        "Nicolae Cicani of Frașari",
+        "1936 memorial/bust reference",
+        "historical spelling variant Cicani"
+      ],
+      "independence": "Bibliographic secondary source pointing to a 1936 periodical item; original issue should be recovered for full context.",
+      "notes": "The bibliography records a bust of nationalist fighter Nicolae Cicani from the commune of Frașari, published in Țara lui Mircea, year 2, no. 40, 15 October 1936. It is not merged with Nicolae Cican without identity evidence.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
