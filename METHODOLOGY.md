@@ -88,3 +88,17 @@ After material updates, test JSON parsing, internal links, referenced data files
 
 ### Research change log
 Material research changes should record what was searched, what was found, what was rejected, what was added or changed, and why.
+
+## Cican Count Audit
+
+External surname counts are benchmarks, not census facts. The current Forebears Cican page reports approximately 399 surname bearers and separately treats the Çiçan variant; it also distinguishes surname from forename uses. HOUSE OF CICAN records this as an external claim and audits it rather than adopting it as the archive's population count.
+
+The count audit must distinguish: (1) documented person identities, (2) documentary name occurrences not yet resolved to people, (3) unresolved candidate people, (4) historical people, (5) living people that are appropriate to publish, and (6) external estimates. A source's country total must never be converted directly into a person list.
+
+## First-Attestation Protocol
+
+The archive must distinguish the earliest discovered **name occurrence**, earliest discovered **person**, and earliest evidence that the name functioned as an inherited surname. For every early occurrence preserve exact spelling, script/language, date, place, document type, source, folio/page where available, transcription and confidence. An earlier occurrence may move the benchmark backward; absence of an earlier record does not prove the name did not exist earlier.
+
+## Occurrence-First Data Model
+
+A documentary occurrence may exist before a unique person can be established. Occurrences should therefore be tracked independently from person identities: **OCCURRENCE → DOCUMENT → SOURCE → CANDIDATE PERSON(S)**. Multiple occurrences may later resolve to one person, while one surname spelling may represent multiple people. This prevents both undercounting and false merges.
