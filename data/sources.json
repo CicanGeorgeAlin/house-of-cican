@@ -235,6 +235,19 @@
       ],
       "independence": "Scholarly documentary edition. The paired entries provide a strong textual variant/identity clue for Grigore/Gligorie, subject to checking the printed pagination and original documents.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-IURGHICENI-LATER-COSTIN-001",
+      "title": "BNaR digitized inventory: later Iurghiceni property records including Costin, Vasco and Iacob",
+      "type": "archival inventory / finding aid",
+      "url": "https://bibnat.ro/wp-content/uploads/2025/03/Lista-inventar-a-documentelor-digitizate-in-BNaR_martie-2025.pdf",
+      "supports": [
+        "BNaR inventory item 3357: multiple Iurghiceni villagers attest to the part of Costin's holding",
+        "BNaR inventory item 3444: undated archival record concerning the Iurghiceni property shares of brothers Vasco, Costin and Iacob",
+        "BNaR inventory includes later Iurghiceni records from 1635 onward, useful for continuity testing"
+      ],
+      "independence": "Archival finding aid; individual undated entries require recovery of the underlying scans before chronological placement.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
