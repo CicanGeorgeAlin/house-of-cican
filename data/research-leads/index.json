@@ -246,6 +246,19 @@
       ],
       "notes": "The institutional biography says Nicolae had many brothers and sisters and graduated from the Romanian high school in Monastir. No sibling names are given in this source.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000023",
+      "title": "Nicolae Cican Bitola 1909 geographic-origin reconciliation",
+      "status": "New",
+      "priority": "High",
+      "scope": "Recover original records around the July 1909 Romanian Ottoman Congress in Bitola and reconcile Nicolae Cican's Monastir education, Bitola activity, Corcea residence, and geographic-origin descriptions.",
+      "source_ids": [
+        "SRC-BALAMACI-1909-BITOLA-NICOLAE-CICAN-001",
+        "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001"
+      ],
+      "notes": "Current evidence places Nicolae in Bitola in 1909 and Corcea by 1913. These locations are not converted into birthplace claims without direct evidence.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
