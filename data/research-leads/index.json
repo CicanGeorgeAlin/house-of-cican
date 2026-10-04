@@ -259,6 +259,21 @@
       ],
       "notes": "Current evidence places Nicolae in Bitola in 1909 and Corcea by 1913. These locations are not converted into birthplace claims without direct evidence.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000024",
+      "title": "1888–1889 Corcea school Cican/Cecan identity bridge",
+      "status": "New",
+      "priority": "Critical",
+      "scope": "1888–1915",
+      "hypothesis": "The 1888–1889 Romanian school roll in Ghiorgea (Corcea) may contain the future Nicolae Cican and possibly the Dina Cican/Cecan documented in 1914–1915, but this must be tested through age, schooling, family and subsequent records.",
+      "source_ids": [
+        "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001",
+        "SRC-UN-POPOR-CARE-SE-STINGE-1915-CICAN-001",
+        "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001"
+      ],
+      "notes": "The school roll lists Nicola Cican, Dina Cecan and Pilea Cican among pupils in 1888–1889. The later 1914–1915 sources document Nicolae Cican and Dina Cican in Corcea, and the 1915 source explicitly identifies Spiru Cican as Nicolae's brother. This is a potentially major bridge, but no merge is permitted until ages, parentage, education progression and later records align.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
