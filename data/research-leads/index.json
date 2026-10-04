@@ -220,6 +220,20 @@
       ],
       "notes": "The spelling Cicani is preserved. Possible overlap is intriguing because the archive already has Nicolae Cican records, but no merge is permitted without biographical and chronological bridge evidence.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000021",
+      "title": "Nicolae–Spiru Cican sibling bridge and Corcea household",
+      "status": "Partially confirmed",
+      "priority": "High",
+      "scope": "Use the 1915 testimony and independent Farsharotu records to reconstruct the Nicolae–Spiru household, verify Dina's relationship separately, and recover original 1914/1915 testimony where possible.",
+      "source_ids": [
+        "SRC-UN-POPOR-CARE-SE-STINGE-1915-CICAN-001",
+        "SRC-FARSHAROTU-001",
+        "SRC-FARSHAROTU-HISTORY-001"
+      ],
+      "notes": "The 1915 source explicitly calls Spiru Cican Nicolae Cican's brother and tenant. It also contains Dina Cican's testimony, but does not by itself establish Dina's exact relationship to Nicolae or Spiru.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
