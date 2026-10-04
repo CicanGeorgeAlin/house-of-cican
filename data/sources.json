@@ -621,6 +621,22 @@
       "independence": "Archive synthesis based on the cited primary and scholarly sources; not an independent historical source.",
       "notes": "This is an internal audit marker, not evidence of absolute first occurrence. Future earlier evidence can move the benchmark backward.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-IURGHICENI-1547-1591-CONTINUITY-AUDIT-001",
+      "title": "BNaR inventory sequence for Iurghiceni-related 16th-century records, 1547–1591",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / continuity audit",
+      "url": "https://bibnat.ro/wp-content/uploads/2024/09/Arhiva-istorica-Inventar-Documente-istorice-sec-XV-XVII-actualizat-2024.pdf",
+      "supports": [
+        "I/5: 26 May 1547 Cican and son at Iurghiceni",
+        "I/6: 25 March 1558 Bahlui property confirmation to Giurgea and relatives, not identified as Cican",
+        "I/10: 2 August 1575 Iurghiceni property confirmation to Burlan and Nikita, sons of Drăgan",
+        "I/14: 1591–1592 Ștefan son of Cătrîna sells his Iurghiceni share"
+      ],
+      "independence": "Official BNaR archival inventory; it does not by itself establish family continuity between these entries.",
+      "notes": "Used as a negative/continuity-control source. The inventory shows intervening Iurghiceni records but does not name Cican/Cicican in the 1558 or 1575 entries. Property continuity requires the underlying documents and boundary comparison.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
