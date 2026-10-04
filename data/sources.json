@@ -184,6 +184,17 @@
       ],
       "independence": "Scholarly documentary edition reproducing/transcribing archival records; useful for tracing later Iurghiceni property context, but does not establish a Cican connection.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-DIR-INDEX-NAMES-1995-IURGHICENI-001",
+      "title": "Documente privind istoria României A Moldova, 1384–1625: Index de nume de persoane (1995)",
+      "type": "scholarly documentary index",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/dl.asp?filename=documente-privind-istoria-romaniei_A-Moldova_sec-XIV-XVII_1384-1625-indice-nume-persoane_1995.pdf",
+      "supports": [
+        "Index entry identifies Bilan as father of Frim from Iurghiceni, with a 1619 reference in Documente privind istoria României, A Moldova, vol. IV"
+      ],
+      "independence": "Scholarly index to the documentary edition; secondary index evidence confirming the named relationship and locality, to be checked against the underlying document.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
