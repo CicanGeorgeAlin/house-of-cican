@@ -393,6 +393,21 @@
       "independence": "French genealogical surname index; use as a discovery benchmark and verify underlying civil records before identity claims.",
       "notes": "Current page shows one birth for the surname in France since 1890, dated within 1941–1965, and lists departmental/locality leads. It does not expose the person's name on the public summary page.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-ARCHIVE-INVENTORY-1547-2026-001",
+      "title": "BNaR Historical Archive Inventory — 1547 Cican/Iurghiceni document",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "official archival inventory",
+      "url": "https://bibnat.ro/wp-content/uploads/2026/03/Lista-inventar-a-documentelor-digitizate-in-BNaR_martie-2026.pdf",
+      "supports": [
+        "1547 Iurghiceni Cican document",
+        "original Slavonic document",
+        "BNaR inventory item 3301 / historical archival series entry"
+      ],
+      "independence": "Official national-library archival inventory; primary-source custody metadata.",
+      "notes": "The March 2026 inventory independently confirms the archival item: Iliaș Voivode confirms Cican and his son rights to part of Iurghiceni, dated 1547. This strengthens source provenance for the earliest-attestation claim.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
