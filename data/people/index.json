@@ -1,6 +1,6 @@
 {
   "schema": "house-of-cican.person-index.v1",
-  "last_updated": "2026-10-03",
+  "last_updated": "2026-10-04",
   "records": [
     {
       "person_id": "CICAN-P-000001",
@@ -12,12 +12,15 @@
         "United States"
       ],
       "events": [
-        "founding of Society Farsharotu in 1903"
+        "founding of Society Farsharotu in 1903",
+        "returned to Romania by 1913/1914; documented in a 1914 Romanian diplomatic memorandum as Nicolae Cican, merchant and former American resident",
+        "enlisted in the Romanian Army and died during World War I"
       ],
       "source_ids": [
-        "SRC-FARSHAROTU-001"
+        "SRC-FARSHAROTU-001",
+        "SRC-BALAMACI-001"
       ],
-      "notes": "Identified by the Aromanian Cultural Society Farsharotu as a founder; independent scholarly material also describes Nicolae Cican as an early immigrant to America and founder of the society. No relationship to other Cican records is inferred."
+      "notes": "Identified by the Aromanian Cultural Society Farsharotu as a founder; independent scholarly material also describes Nicolae Cican as an early immigrant to America and founder of the society. No relationship to other Cican records is inferred. A scholarly Balamaci source reports that Nicolae Cican had spent 12–13 years in America, returned to Romania, lost his home and funds in 1914, later enlisted in the Romanian Army and died during World War I. Exact enlistment unit, death date and place require primary military/casualty records."
     },
     {
       "person_id": "CICAN-P-000002",
