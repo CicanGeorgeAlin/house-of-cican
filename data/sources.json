@@ -315,6 +315,22 @@
       "independence": "Scholarly edition of a primary documentary record.",
       "last_updated": "2026-10-04",
       "notes": "Identity-control evidence. The Agafia in this 1638 Doșcești-side title chain is not to be equated with the Agafia/Agahia named as Obrejie's parent in the 1591–1592 and 1639 Băsărăbești-side records without explicit kinship or property evidence."
+    },
+    {
+      "source_id": "SRC-FOREBEARS-CICAN-399-2026-001",
+      "title": "Forebears — Cican surname distribution and estimated incidence",
+      "publisher": "Forebears",
+      "source_type": "surname distribution database",
+      "url": "https://forebears.io/surnames/cican",
+      "supports": [
+        "External estimate of approximately 399 Cican surname bearers",
+        "Country distribution reported by the database",
+        "Separate Çiçan variant count",
+        "Distinction between surname and forename uses in its database"
+      ],
+      "independence": "External aggregated surname database; useful as a benchmark and research lead, not treated as a census or authoritative population count.",
+      "notes": "The current page reports approximately 399 people bearing the surname, with 212 in Romania, 148 in Turkey, 17 in the United States, 9 in Indonesia, 7 in India, and 1 each in Brazil, Cyprus, England, Peru and Slovenia; it separately reports Çiçan and notes that Cican may also occur as a forename. HOUSE OF CICAN records these figures as an external estimate to audit rather than as established fact.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
