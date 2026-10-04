@@ -695,6 +695,21 @@
       "independence": "Published documentary edition; the underlying princely order is primary evidence, while this online copy is a secondary access point.",
       "notes": "This is a critical bridge for the archival strategy. It does not name Cican/Cicican, but proves that an inventory of older deeds existed/was expected for boundary reconstruction in 1643. The 1673 I/227–I/229 cluster can therefore be pursued as a possible later preservation/listing of such title documents.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-IURGHICENI-1497-1547-GAP-001",
+      "title": "BNaR archival sequence I/3–I/5: 1497–1547 gap control for Iurghiceni",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "official archival inventory / search control",
+      "url": "https://bibnat.ro/wp-content/uploads/2024/04/Lista-inventar-a-documentelor-digitizate-in-BNaR_ianuarie_2024.pdf",
+      "supports": [
+        "I/3: 1497 Stefan cel Mare document concerning a different property purchase by Drăguș Carîmbu",
+        "I/4: 1498 Milcinești boundary charter",
+        "I/5: 26 May 1547 Iliaș confirms Cican and his son at Iurghiceni"
+      ],
+      "independence": "Official BNaR inventory; absence between catalogued items is not proof of documentary absence from Moldova.",
+      "notes": "The BNaR sequence around the Cican charter does not provide an earlier Iurghiceni/Cican item: the immediately preceding catalogued records are 1497 and 1498 records for other places, followed by I/5 in 1547. This strengthens the archival-search benchmark but does not prove 1547 was the first ever Cican occurrence.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
