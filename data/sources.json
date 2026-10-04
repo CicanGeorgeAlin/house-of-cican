@@ -471,6 +471,22 @@
       "independence": "Contemporary published testimony/report; strong identity-context evidence, but exact publication provenance and underlying original testimony should be documented further.",
       "notes": "The source reproduces Nicolae Cican's signed statement after his house was burned, identifies him as a banker, and explicitly states that Spiru Cican was his brother and tenant. This is high-value bridge evidence for the Nicolae/Spiru cluster and should be kept distinct from any unsupported relationship among other 1903 Cicans.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001",
+      "title": "Nicolae Cican — Initiator and Founder of the Society Farsarotul",
+      "publisher": "Aromanian Cultural Society Farsharotu",
+      "source_type": "institutional historical biography",
+      "url": "https://farsharotu.org/nicolae-cican-initiator-and-founder-of-the-society-farsarotul/",
+      "supports": [
+        "Nicolae Cican education in Monastir/Bitola",
+        "turn-of-century migration to America",
+        "1903 founding of Sperantsa",
+        "Nicolae Cican's large family with many brothers and sisters"
+      ],
+      "independence": "Institutional historical biography attributed to Nick Balamaci Sr., Secretary of the Society Farsarotul, with article dated 1942 and republished in the 1987 newsletter.",
+      "notes": "The biography states that Nicolae Cican graduated from the Romanian high school in Monastir and emigrated to America around the turn of the century. It also says he had many brothers and sisters, but does not name them. This is a family-size lead, not proof that any other Cican record is his sibling.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
