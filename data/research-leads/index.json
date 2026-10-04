@@ -94,10 +94,11 @@
     {
       "lead_id": "CICAN-L-000012",
       "subject": "Iurghiceni 1591–1599 ownership continuity",
-      "status": "Active — documentary continuity established, Cican link unresolved",
+      "status": "Partially confirmed",
       "priority": "Critical",
       "scope": "Iurghiceni continuity: 1591–1592 → 1611 → 1619",
-      "next_action": "Transcribe the 1591–1592 and 1611 originals and compare every named person/property fraction with the 1547 Cican–Illea charter. The 1619 originals then provide a later documentary chain: Costin receives Frimu's part (I/24), and Costin/Lupu receive or have confirmed multiple Iurghiceni portions (I/25–I/28). Test whether Frimu in 1611 and Frimu son of Bilan in 1619 are the same person only if the documents provide the necessary identity evidence. Do not infer a Cican relationship from shared locality."
+      "next_action": "Recover the 1591–1592 document text, identify Ștefan son of Cătrîna and all referenced grandparents/cousins, then compare property descriptions and prior-title language with the 1547 charter. Inspect the 1599 court judgment independently for any Iurghiceni/Cican names, without assuming relevance. Then compare 1611 Frim and 1619 Frimu son of Bilan.",
+      "notes": "BNaR's archival inventory establishes an Iurghiceni-specific sequence in the same fonds: 1591–1592, 1611, and 1619 documents. The 1599 item at cotă 15a is separately titled a court judgment by Ieremia Movilă and should not be treated as an Iurghiceni ownership document merely because it is adjacent in the inventory. The 1611 item explicitly concerns people from Iurghiceni and Frim's sale of his ocină; the 1619 items explicitly concern Iurghiceni and Frimu son of Bilan. Continuity of the locality/documentary context is established, but continuity of person or kinship with the 1547 Cican/Illea pair remains unproven."
     },
     {
       "lead_id": "CICAN-L-000013",
