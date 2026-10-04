@@ -129,14 +129,15 @@
       "priority": "High",
       "scope": "1611–1645",
       "hypothesis": "The 1611 sale by Frim son of Bilan to his nephew Costinovici may be connected to the Costin/Frimu property transactions documented in 1619 and later Iurghiceni records.",
-      "notes": "BNaR's 1611 inventory explicitly says Frim son of Bilan sold his Iurghiceni ocină to his nephew Costinovici. The 1619 BNaR inventory says Costin vistiernicul of Iurghiceni received an ocină purchased from Frimu son of Bălan for 46 silver talers; the 1620 document confirms Costin's Iurghiceni holding. A 1632 scholarly edition independently records Costin's Iurghiceni holding and local witnesses. These records strengthen the Costin/Frim documentary chain, but do not connect it to Cican/Cicican/Illea.",
+      "notes": "BNaR's 1611 inventory explicitly says Frim son of Bilan sold his Iurghiceni ocină to his nephew Costinovici. The 1619 BNaR inventory says Costin vistiernicul of Iurghiceni received an ocină purchased from Frimu son of Bălan for 46 silver talers; the 1620 document confirms Costin's Iurghiceni holding. A 1632 scholarly edition independently records Costin's Iurghiceni holding and local witnesses. These records strengthen the Costin/Frim documentary chain, but do not connect it to Cican/Cicican/Illea. A separate scholarly name index independently identifies Bilan as the father of Frim from Iurghiceni, citing the 1619 documentary volume. This supports treating the 1611 'Frim son of Bilan' and the 1619 'Frimu son of Bilan' as the same named father-son branch unless the original documents reveal otherwise. It still does not establish that Costinovici in 1611 is the later Costin vistiernic.",
       "evidence_level": "B",
       "source_ids": [
         "SRC-BNAR-IURGHICENI-1591-1599-001",
         "SRC-DIR-A-MOLDOVA-1616-1620-IURGHICENI-001",
-        "SRC-DRHA-XXI-1632-IURGHICENI-COSTIN-001"
+        "SRC-DRHA-XXI-1632-IURGHICENI-COSTIN-001",
+        "SRC-DIR-INDEX-NAMES-1995-IURGHICENI-001"
       ],
-      "next_action": "Recover and compare the 1611 original/transcription with the 1619 I/27 document and 1620 I/28; resolve whether Costinovici and Costin vistiernicul are the same individual or related individuals. Extend through 1622 and 1632 records. Search backward for Frim son of Bilan's title, parentage and acquisition language.",
+      "next_action": "Recover the full 1611 original/transcription; resolve the exact identity/title of Costinovici. Then compare the 1619 Iurghiceni documents and 1620 confirmation. Use the 1995 index as a finding aid, not as a substitute for the underlying records.",
       "created": "2026-10-04",
       "last_updated": "2026-10-04"
     }
