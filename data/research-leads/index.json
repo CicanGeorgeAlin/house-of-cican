@@ -181,6 +181,18 @@
       ],
       "notes": "Ancestry currently reports 52 birth/marriage/death, 15 military, 40 immigration, and 22 census/voter records. Treat this as a holdings/discovery benchmark, not a population count. Avoid copying living-person sensitive data.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000018",
+      "title": "France Cican surname record recovery",
+      "status": "New",
+      "priority": "Medium",
+      "scope": "Recover the underlying French civil-status record represented by Filae's public Cican surname summary, establish the person's identity only if independently supported, and map the locality evidence.",
+      "source_ids": [
+        "SRC-FILAE-CICAN-FRANCE-001"
+      ],
+      "notes": "Public summary currently indicates one birth since 1890, within 1941–1965, plus 20 civil-status and 2 family-tree collections. No person name is exposed on the summary page.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
