@@ -297,6 +297,20 @@
       ],
       "notes": "Current source-registry audit: Burada's 1888 school roll uses 'Nicola Cican'; the 1915 contemporary first-person document uses 'Nicola Cican'; Farsharotu's historical page uses 'Nicolae Cican'; Balamaci's secondary study uses 'Nicolae (Culicea) Cican'. 'Culicea' currently appears only in the secondary Balamaci source in the registry. Therefore it must be treated as an unexplained biographical identifier, not as evidence linking the 1888 and later records. Next step: locate the original/earlier source behind the Culicea form or another contemporary document using it. Balamaci's original 1901 passage itself—not merely a later summary—uses 'Nicolae (Culicea) Cican' and calls him a 'plisot', i.e. associated with Pleasa. This gives 'Culicea' a contemporary-source context and makes Pleasa a priority for the identity investigation, but it still does not explain whether Culicea is a byname or other identifier. New contextual evidence: Dumitru Carabaș's Aromanian personal-name reference lists 'Culicea' under the Nicolae name group ('Culícea, PM, NF, v. Nicolae'). This supports the possibility that 'Culicea' is a Nicolae-derived personal/byname form rather than a separate surname, but the source is general onomastics and does not identify Nicolae Cican specifically. Therefore it is contextual evidence only.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000026",
+      "title": "1547 Cican/Cicican name-function and Illea family bridge",
+      "status": "New",
+      "priority": "Critical",
+      "scope": "1547–1591",
+      "hypothesis": "The 1547 Cican/Cicican and his son Illea may leave further documentary traces in Iurghiceni or neighboring Moldavian records, potentially clarifying whether Cican/Cicican functioned as a personal name, hereditary surname, patronymic or byname.",
+      "source_ids": [
+        "SRC-BNAR-1547-CICAN-CICICAN-ORIGINAL-001",
+        "SRC-BNAR-IURGHICENI-1591-1599-001"
+      ],
+      "notes": "The 1547 charter names Cican/Cicican and son Illea and confirms a property share in Iurghiceni. The 1591–1592 Iurghiceni chain begins a later Băsărăbești branch but currently provides no proven link to the 1547 family. Priority is to search 1547–1590 records for Illea, Cican/Cicican variants, the same property fraction/boundaries, and related witnesses. Do not infer hereditary surname continuity from the 1547 occurrence alone.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
