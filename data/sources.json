@@ -122,6 +122,17 @@
         "historical ownership-chain research"
       ],
       "independence": "Primary archival catalogue; individual document contents must be inspected before making person-level or relationship claims."
+    },
+    {
+      "source_id": "SRC-CJARGES-CICANESTI-HISTORY-001",
+      "title": "Cicănești — Date istorice",
+      "publisher": "Consiliul Județean Argeș / Primăria Cicănești",
+      "source_type": "official local-history page",
+      "url": "https://www.cjarges.ro/en/web/cicanesti/date-istorice",
+      "supports": [
+        "Cicănești documentary attestation, 11 June 1565"
+      ],
+      "independence": "official local-history statement; primary charter should be recovered before using it for deeper onomastic or genealogical claims"
     }
   ]
 }
