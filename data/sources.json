@@ -550,6 +550,19 @@
       "independence": "Same primary/near-contemporary educational publication as the Ghiorgea roll; used here specifically as a negative identity control.",
       "notes": "Absence from this particular Bitola primary list is not evidence that Nicola Cican was never in Bitola; it simply prevents merging the two 1888 school lists. The later claim that Nicolae Cican graduated from the Bitola Romanian high school in 1901 concerns a different educational stage.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-CARABAS-AROMANIAN-NAMES-CULICEA-001",
+      "title": "Dumitru Carabaș, Aromânii din România — Nume de persoane: Culicea",
+      "publisher": "Dumitru Carabaș",
+      "source_type": "onomastic study / secondary reference",
+      "url": "https://ro.scribd.com/document/958136394/Aromanii-Din-Romania-Nume-de-Persoane",
+      "supports": [
+        "Culicea is listed among Aromanian name forms referenced to Nicolae"
+      ],
+      "independence": "General Aromanian onomastic reference; not a biography of Nicolae Cican.",
+      "notes": "The reference lists 'Culícea, PM, NF, v. Nicolae' among forms under the Nicolae name group. This supports treating Culicea as a possible Nicolae-derived personal/byname form in Aromanian naming practice, but it does not establish what function 'Culicea' had specifically for Nicolae Cican.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
