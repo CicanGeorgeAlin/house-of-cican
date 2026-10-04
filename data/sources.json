@@ -487,6 +487,23 @@
       "independence": "Institutional historical biography attributed to Nick Balamaci Sr., Secretary of the Society Farsarotul, with article dated 1942 and republished in the 1987 newsletter.",
       "notes": "The biography states that Nicolae Cican graduated from the Romanian high school in Monastir and emigrated to America around the turn of the century. It also says he had many brothers and sisters, but does not name them. This is a family-size lead, not proof that any other Cican record is his sibling.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BALAMACI-1909-BITOLA-NICOLAE-CICAN-001",
+      "title": "Haralambie Balamaci study — Nicolae Cican at the 1909 Bitola Congress",
+      "publisher": "Aromânii din California / Haralambie Balamaci",
+      "source_type": "scholarly historical study",
+      "url": "https://www.aromaniidincalifornia.com/pdf/cv-haralambie-balamaci.pdf",
+      "supports": [
+        "Nicolae Cican as Society Farsarotul officer in 1908",
+        "1909 return to the Ottoman Empire",
+        "10–11 July 1909 Romanian Ottoman Congress at Bitola",
+        "1913 return to Corcea",
+        "banker and emigration agent in Corcea"
+      ],
+      "independence": "Secondary scholarly study; use to locate original congress and biographical records.",
+      "notes": "The study places Nicolae Cican at the 1909 Bitola congress and later in Corcea. These locations are not treated as birthplace claims.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
