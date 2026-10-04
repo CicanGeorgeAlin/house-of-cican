@@ -651,6 +651,20 @@
       "independence": "Independent published documentary edition; used here as a negative control, not as evidence connecting the 1547 Cican share.",
       "notes": "The 1575 transactions identify a different property chain involving Drăghici son of Sofrin. No Cican/Cicican or Illea appears in the indexed entry. This does not prove the 1547 share disappeared; it only means the located 1575 entries do not establish continuity.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-CICAN-PRE1547-SEARCH-AUDIT-001",
+      "title": "Pre-1547 Cican/Cicican search audit in indexed Moldavian documentary material",
+      "publisher": "House of Cican research audit using BNaR and Documenta Romaniae Historica indexes",
+      "source_type": "research audit / negative-control search",
+      "url": "https://bibnat.ro/Arhiva-istorica-s195-ro.htm",
+      "supports": [
+        "BNaR inventory entries immediately preceding I/5 include 1497 and 1498 documents, but the 1498 entry is a Milcinești boundary record and does not identify Cican/Cicican",
+        "Searches for Cican/Cicican with Iurghiceni and pre-1547 Moldavian material did not locate a defensible earlier attestation"
+      ],
+      "independence": "Research audit; not primary evidence of absence.",
+      "notes": "The 1498 BNaR item is not an earlier Cican record. Absence from indexed/searchable material is not proof that no earlier occurrence exists.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
