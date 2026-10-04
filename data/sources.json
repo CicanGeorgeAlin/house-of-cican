@@ -238,16 +238,17 @@
     },
     {
       "source_id": "SRC-BNAR-IURGHICENI-LATER-COSTIN-001",
-      "title": "BNaR digitized inventory: later Iurghiceni property records including Costin, Vasco and Iacob",
+      "title": "BNaR finding aids: later Iurghiceni records involving Costin; Vasco–Costin–Iacob",
       "type": "archival inventory / finding aid",
       "url": "https://bibnat.ro/wp-content/uploads/2025/03/Lista-inventar-a-documentelor-digitizate-in-BNaR_martie-2025.pdf",
       "supports": [
-        "BNaR inventory item 3357: multiple Iurghiceni villagers attest to the part of Costin's holding",
-        "BNaR inventory item 3444: undated archival record concerning the Iurghiceni property shares of brothers Vasco, Costin and Iacob",
-        "BNaR inventory includes later Iurghiceni records from 1635 onward, useful for continuity testing"
+        "BNaR item 3357: multiple Iurghiceni villagers attest to Costin's holding",
+        "BNaR item 3444 (inventory cotă I/135): 'Părțile de moșie din Iurghiceni ale fraților Vasco, Costin, Iacob, ce trebuie să se aleagă…'; the verso is noted as 'Constantin Paladi hatman'",
+        "BNaR item 3445: Iurghiceni shares from the Băsărăbești side"
       ],
       "independence": "Archival finding aid; individual undated entries require recovery of the underlying scans before chronological placement.",
-      "last_updated": "2026-10-04"
+      "last_updated": "2026-10-04",
+      "notes": "Important chronological correction: item 3444 is NOT safe to use as evidence for the 1611–1632 Costin. BNaR marks its date as [s.d.] and the verso names Constantin Paladi hatman. Independent historical literature identifies hatman Constantin Paladi as a late-18th/early-19th-century figure who died in 1831. Therefore item 3444 is currently a much later finding aid/document and must be kept separate from the 17th-century Costin until its exact date and provenance are established. Item 3357 also requires recovery and dating before use."
     }
   ]
 }
