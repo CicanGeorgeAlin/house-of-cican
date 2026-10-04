@@ -1,0 +1,26 @@
+{
+  "schema": "house-of-cican.occurrences.v1",
+  "last_updated": "2026-10-04",
+  "records": [
+    {
+      "occurrence_id": "CICAN-O-000001",
+      "spelling_as_recorded": [
+        "Cican",
+        "Cicican"
+      ],
+      "date": "1547-05-26",
+      "place": "Iurghiceni, on the Bahlui, Moldavia",
+      "people_named": [
+        "Cican",
+        "Illea"
+      ],
+      "document_summary": "Iliaș Voievode confirms Cican and his son Illea's right to part of Iurghiceni.",
+      "source_ids": [
+        "SRC-BNAR-1547-001"
+      ],
+      "person_ids": [],
+      "status": "Documented occurrence; person identity model pending expansion",
+      "notes": "The BNaR catalogue uses Cican; the scholarly transcription uses Cicican. Preserve both forms. This is an early documentary occurrence, not proof of the absolute origin or hereditary-surname status of the name."
+    }
+  ]
+}
