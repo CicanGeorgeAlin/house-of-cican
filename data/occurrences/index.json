@@ -131,6 +131,46 @@
       ],
       "status": "Documented secondary biographical occurrence",
       "notes": "This establishes a dated graduation/emigration claim for the later Nicolae Cican, but does not yet prove that he is the Nicola Cican listed in the 1888–1889 Ghiorgea school roll."
+    },
+    {
+      "occurrence_id": "CICAN-O-000008",
+      "spelling_as_recorded": [
+        "Nicolae Cican"
+      ],
+      "date": "10–11 July 1909",
+      "place": "Bitola (Monastir), Ottoman Empire",
+      "people_named": [
+        "Nicolae Cican"
+      ],
+      "document_summary": "Balamaci's study states that Nicolae Cican, then president/secretary of Society Farsarotul, returned to Bitola for the Ottoman Romanians' Congress held 10–11 July 1909 and then returned to America.",
+      "source_ids": [
+        "SRC-BALAMACI-001"
+      ],
+      "person_ids": [
+        "CICAN-P-000001"
+      ],
+      "status": "Documented secondary historical occurrence",
+      "notes": "This is an important geographical continuity point: the later Nicolae Cican demonstrably returned to Bitola in 1909. It does not establish the identity of the 1888 schoolboy."
+    },
+    {
+      "occurrence_id": "CICAN-O-000009",
+      "spelling_as_recorded": [
+        "Nicolae Cican"
+      ],
+      "date": "1913",
+      "place": "Corcea (Korçë), Ottoman Empire",
+      "people_named": [
+        "Nicolae Cican"
+      ],
+      "document_summary": "Balamaci states that Nicolae Cican returned to Corcea in 1913, where he worked as a banker and emigration agent.",
+      "source_ids": [
+        "SRC-BALAMACI-001"
+      ],
+      "person_ids": [
+        "CICAN-P-000001"
+      ],
+      "status": "Documented secondary historical occurrence",
+      "notes": "Provides a dated return-to-Corcea anchor before the 1914 violence documented by contemporary press."
     }
   ]
 }
