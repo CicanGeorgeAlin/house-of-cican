@@ -275,6 +275,19 @@
       "independence": "Scholarly edition of primary documentary record.",
       "last_updated": "2026-10-04",
       "notes": "This source is important for deduplication. The 1637 record explicitly distinguishes Obrejie son of Miron from Obrejie son of Lupu. Neither is identified as the son of Agahia/Agafia. Therefore the 1639 Obrejie son of Agahia should not be merged with either 1637 Obrejie without additional evidence."
+    },
+    {
+      "source_id": "SRC-DRHA-XXVII-1644-MIRON-OBREJIE-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXVII (1643–1644), doc. 459 — Miron of Iurghiceni and deceased son Obrejie",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/27_documenta-romaniae-historica-a-moldova-XXVII_2005_1643-1644.pdf",
+      "supports": [
+        "28 November 1644: Miron of Iurghiceni donates his share of Iurghiceni for the soul of his deceased son Obrejie",
+        "The record identifies a distinct Miron–Obrejie parent-child relationship at Iurghiceni in 1644"
+      ],
+      "independence": "Scholarly edition of a primary documentary record.",
+      "last_updated": "2026-10-04",
+      "notes": "This Obrejie is not automatically the 1639 Obrejie son of Agahia, nor the 1637 Obrejie son of Miron or son of Lupu. The record instead establishes a separate Miron–Obrejie family clue requiring identity comparison."
     }
   ]
 }
