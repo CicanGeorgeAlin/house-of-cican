@@ -111,6 +111,26 @@
       "person_ids": [],
       "status": "Documented historical occurrence; identity unresolved",
       "notes": "The primary scan preserves the historical spelling Cicani. This is a separate documentary occurrence requiring identity research; no normalization to Cican is applied."
+    },
+    {
+      "occurrence_id": "CICAN-O-000007",
+      "spelling_as_recorded": [
+        "Nicolae (Culicea) Cican"
+      ],
+      "date": "1901",
+      "place": "Bitola (Monastir), Ottoman Empire",
+      "people_named": [
+        "Nicolae Cican"
+      ],
+      "document_summary": "Haralambie Balamaci's scholarly biography states that Nicolae (Culicea) Cican emigrated to America in 1901 after graduating that year from the Romanian high school in Bitola.",
+      "source_ids": [
+        "SRC-BALAMACI-001"
+      ],
+      "person_ids": [
+        "CICAN-P-000001"
+      ],
+      "status": "Documented secondary biographical occurrence",
+      "notes": "This establishes a dated graduation/emigration claim for the later Nicolae Cican, but does not yet prove that he is the Nicola Cican listed in the 1888–1889 Ghiorgea school roll."
     }
   ]
 }
