@@ -155,14 +155,15 @@
       "priority": "Critical",
       "scope": "1591–1639",
       "hypothesis": "The Obrejie son of Agafia/Agahia and nephew/grandson of priest Gavril documented in 1591–1592 may be the same Obrejie who acquired Băsărăbești-family shares in Iurghiceni in 1639.",
-      "notes": "1591–1592 BNaR record: Ștefan son of Cătrîna, grandson of priest Gavril, sells his Iurghiceni share from the Băsărăbești side to his cousin Obrejie, son of Agafia, grandson of priest Gavril. 1639 DRH A XXV docs. 173 and 187: Obrejie/Obreje, son of Agahia and nephew of priest Gavril, acquires Băsărăbești-side Iurghiceni shares. This is a strong continuity hypothesis but not yet a proven single-person identification. New identity-control result: the 26 May 1637 DRH A XXIII doc. 110 explicitly names two different Iurghiceni men called Obrejie—Obrejie son of Miron and Obrejie son of Lupu. Neither is identified as Obrejie son of Agahia/Agafia. This confirms that the name Obrejie alone is insufficient for merging the 1591–1592 and 1639 records and strengthens the need for patronymic/kinship/property matching.",
+      "notes": "1591–1592 BNaR record: Ștefan son of Cătrîna, grandson of priest Gavril, sells his Iurghiceni share from the Băsărăbești side to his cousin Obrejie, son of Agafia, grandson of priest Gavril. 1639 DRH A XXV docs. 173 and 187: Obrejie/Obreje, son of Agahia and nephew of priest Gavril, acquires Băsărăbești-side Iurghiceni shares. This is a strong continuity hypothesis but not yet a proven single-person identification. New identity-control result: the 26 May 1637 DRH A XXIII doc. 110 explicitly names two different Iurghiceni men called Obrejie—Obrejie son of Miron and Obrejie son of Lupu. Neither is identified as Obrejie son of Agahia/Agafia. This confirms that the name Obrejie alone is insufficient for merging the 1591–1592 and 1639 records and strengthens the need for patronymic/kinship/property matching. Further control point: a 28 November 1644 record identifies Miron of Iurghiceni as father of a deceased son Obrejie whose share was donated for his soul. This does not establish that this Obrejie was the 1639 son of Agahia; it is retained as a separate identity clue. The 1637 records likewise distinguish Obrejie son of Lupu and Obrejie son of Miron. The archive therefore treats the name Obrejie as a high-collision name at Iurghiceni.",
       "evidence_level": "B",
       "source_ids": [
         "SRC-BNAR-IURGHICENI-1591-1599-001",
         "SRC-DIR-A-MOLDOVA-1639-IURGHICENI-OBREJIE-001",
-        "SRC-DRHA-XXIII-1637-IURGHICENI-OBREJIE-001"
+        "SRC-DRHA-XXIII-1637-IURGHICENI-OBREJIE-001",
+        "SRC-DRHA-XXVII-1644-MIRON-OBREJIE-001"
       ],
-      "next_action": "Recover full 1591–1592 text and compare with both 1639 deeds; search 1592–1639 for Obrejie, Agafia/Agahia and priest Gavril, with special attention to patronymics, kinship, Băsărăbești property fractions, boundaries and witnesses. Treat the 1637 Obrejie son of Miron and Obrejie son of Lupu as separate identities unless an explicit bridge is found.",
+      "next_action": "Search the 1592–1644 corridor for exact combinations of Obrejie/Obreje + Agafia/Agahia + priest Gavril, while separately mapping Obrejie son of Miron and Obrejie son of Lupu. Compare property fractions, boundaries, witnesses and kinship language before any merge.",
       "created": "2026-10-04",
       "last_updated": "2026-10-04"
     }
