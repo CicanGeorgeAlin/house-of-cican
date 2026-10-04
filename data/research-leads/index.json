@@ -196,6 +196,18 @@
       ],
       "notes": "Public summary currently indicates one birth since 1890, within 1941–1965, plus 20 civil-status and 2 family-tree collections. No person name is exposed on the summary page.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000019",
+      "title": "Nicolae Cican Romanian return and WWI military record recovery",
+      "status": "New",
+      "priority": "High",
+      "scope": "Recover primary Romanian military and wartime records for Nicolae Cican after his return from America, including enlistment, unit, service, death date/place and burial if available.",
+      "source_ids": [
+        "SRC-BALAMACI-001"
+      ],
+      "notes": "Secondary scholarly source states he returned to Romania around 1913/1914, enlisted in the Romanian Army and died during World War I. Treat these as documented secondary claims pending primary verification.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
