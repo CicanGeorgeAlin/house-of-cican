@@ -681,6 +681,20 @@
       "independence": "Official BNaR archival inventory; the inventory descriptions do not themselves identify Cican in these entries.",
       "notes": "This cluster is potentially valuable for backward reconstruction because it explicitly says the 1673 boundary/share lists derive from purchase deeds. The underlying undated list may preserve older deeds, but Cican/Illea has not yet been recovered from the list itself. Treat as a high-value retrieval target, not as evidence of Cican continuity.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-DRH-A27-1643-IURGHICENI-OLD-ACTS-001",
+      "title": "22 July 1643 order to bring old Iurghiceni deeds for boundary investigation",
+      "publisher": "Documenta Romaniae Historica, Seria A, Moldova, vol. XXVII (1643–1644)",
+      "source_type": "published primary-document edition",
+      "url": "https://ro.scribd.com/document/330082377/Documenta-Romaniae-Historica-Seria-A-Moldova-Volumul-27-1643-1644-pdf",
+      "supports": [
+        "Vasile Lupu orders the inhabitants of Iurghiceni and Tălhărești to bring all old documents to a boundary investigation of parts of those villages",
+        "The order demonstrates that older title documents for Iurghiceni were still being used/expected in 1643"
+      ],
+      "independence": "Published documentary edition; the underlying princely order is primary evidence, while this online copy is a secondary access point.",
+      "notes": "This is a critical bridge for the archival strategy. It does not name Cican/Cicican, but proves that an inventory of older deeds existed/was expected for boundary reconstruction in 1643. The 1673 I/227–I/229 cluster can therefore be pursued as a possible later preservation/listing of such title documents.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
