@@ -222,6 +222,18 @@
       ],
       "independence": "Primary-document transcription in a scholarly edition.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-DIR-A-MOLDOVA-1622-COSTIN-GRIGORE-VARIANT-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. V (1621–1625): 6 January 1622 paired Costin–Grigore/Gligorie records",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/documente-privind-istoria-romaniei_A-Moldova_vol-V_sec-XVII_1621-1625_1957.pdf",
+      "supports": [
+        "6 January 1622: one entry identifies Grigore and Costin vistiernicel from Iurghiceni in a Rădeni holding purchased from Umbrar",
+        "6 January 1622, doc. 129: Ștefan Tomșa confirms Gligorie and his brother Costin vistiernicei from Iurghiceni in the same Rădeni/Umbrar purchase context"
+      ],
+      "independence": "Scholarly documentary edition. The paired entries provide a strong textual variant/identity clue for Grigore/Gligorie, subject to checking the printed pagination and original documents.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
