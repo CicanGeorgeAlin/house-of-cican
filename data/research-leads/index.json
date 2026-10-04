@@ -271,9 +271,10 @@
         "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001",
         "SRC-UN-POPOR-CARE-SE-STINGE-1915-CICAN-001",
         "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001",
-        "SRC-BEZA-CICAN-BITOLA-GRADUATE-001"
+        "SRC-BEZA-CICAN-BITOLA-GRADUATE-001",
+        "SRC-BURADA-1888-BITOLA-PRIMARY-NEGCONTROL-001"
       ],
-      "notes": "External source check confirms the later Nicolae Cican timeline independently: Balamaci states he graduated from the Romanian high school in Bitola in 1901 and emigrated that year; the same study records him returning to Bitola for the Ottoman Romanian Congress on 10–11 July 1909 and returning again to Corcea in 1913. Burada's 1888–1889 Ghiorgea school list independently contains Nicola Cican. No source located in this pass provides age, parentage or another direct identifier connecting the 1888 Nicola Cican to the 1901 Nicolae Cican. Identity remains unresolved.",
+      "notes": "External source check confirms the later Nicolae Cican timeline independently: Balamaci states he graduated from the Romanian high school in Bitola in 1901 and emigrated that year; the same study records him returning to Bitola for the Ottoman Romanian Congress on 10–11 July 1909 and returning again to Corcea in 1913. Burada's 1888–1889 Ghiorgea school list independently contains Nicola Cican. No source located in this pass provides age, parentage or another direct identifier connecting the 1888 Nicola Cican to the 1901 Nicolae Cican. Identity remains unresolved. Negative-control check: Burada's separate 1888–1889 Bitola primary-school list has 40 pupils and does not include Nicola Cican; his name occurs in the Ghiorgea school list. This is not evidence against the later 1901 Bitola high-school graduation claim because the records concern different schools/educational stages. It does, however, prevent merging the 1888 Ghiorgea pupil with an assumed 1888 Bitola pupil.",
       "last_updated": "2026-10-04"
     }
   ]
