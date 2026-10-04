@@ -288,6 +288,19 @@
       "independence": "Scholarly edition of a primary documentary record.",
       "last_updated": "2026-10-04",
       "notes": "This Obrejie is not automatically the 1639 Obrejie son of Agahia, nor the 1637 Obrejie son of Miron or son of Lupu. The record instead establishes a separate Miron–Obrejie family clue requiring identity comparison."
+    },
+    {
+      "source_id": "SRC-DRHA-XXVIII-1645-OBREJIE-MIRON-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXVIII (1645–1646), doc. 43 — Obrejie and Miron of Iurghiceni",
+      "type": "scholarly primary-source edition",
+      "url": "https://bp-soroca.md/soroca/Documenta%20Romaniae%20Historica.%20A.%20Moldova.%20Vol.%20XXVIII.%20%281645%20-%201646%29.%202006.pdf",
+      "supports": [
+        "31 March 1645: Obrejie and Miron of Iurghiceni appear as named local witnesses to the transfer of a Iurghiceni holding by Pavăl Băzarca and Cozma Duma",
+        "The record places Obrejie and Miron together in the same Iurghiceni community in 1645"
+      ],
+      "independence": "Scholarly edition of a primary documentary record.",
+      "last_updated": "2026-10-04",
+      "notes": "This record does not give Obrejie's patronymic and therefore cannot by itself identify him as the 1639 Obrejie son of Agahia or the deceased son of Miron in the 1644 record. It is useful as a chronological/community continuity marker only."
     }
   ]
 }
