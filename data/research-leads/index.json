@@ -123,11 +123,13 @@
       "status": "New",
       "priority": "High",
       "scope": "Cicănești, Argeș, 1526–1565 and later",
-      "notes": "The official Cicănești local-history page confirms documentary attestation of the settlement on 11 June 1565. A secondary historical/onomastic source states that Cica is attested as a personal name in 1526 and discusses a proposed Cican-derived explanation for the place-name. This does not establish that the 1547 Moldavian Cican/Cicican or the user's family originated in Cicănești. Current BNaR inventory work also confirms the 1547 archival item exists in the national-library holdings; preserve this as provenance, not as a new occurrence.",
+      "notes": "The official Cicănești local-history page confirms documentary attestation of the settlement on 11 June 1565. A secondary historical/onomastic source states that Cica is attested as a personal name in 1526 and discusses a proposed Cican-derived explanation for the place-name. This does not establish that the 1547 Moldavian Cican/Cicican or the user's family originated in Cicănești. Current BNaR inventory work also confirms the 1547 archival item exists in the national-library holdings; preserve this as provenance, not as a new occurrence. The 1547 BNaR primary charter is now independently verified through the National Library inventory: the original Slavonic document of 26 May 1547 confirms (Cican) and his son Illea over a share of Iurghiceni. The published DRH text renders the beneficiary as Cican in the entry but Cicican in the body. This is now the archive's earliest securely dated Cican/Cicican occurrence. It does not establish surname heredity or continuity to later Cicans.",
       "next_action": "Recover the 1526 personal-name citation and the 1565 primary charter; determine the exact historical spelling and grammatical form of the place-name and personal name; search intervening and surrounding Wallachian records for Cica/Cican/Cicănești variants; compare chronology and geography without assuming identity or origin.",
       "source_ids": [
-        "SRC-BNAR-ARCHIVE-INVENTORY-1547-2026-001"
-      ]
+        "SRC-BNAR-ARCHIVE-INVENTORY-1547-2026-001",
+        "SRC-BNAR-1547-CICAN-CICICAN-ORIGINAL-001"
+      ],
+      "last_updated": "2026-10-04"
     },
     {
       "lead_id": "CICAN-L-000015",
