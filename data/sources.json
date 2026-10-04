@@ -158,6 +158,18 @@
         "1611 Iurghiceni / Frim documentary lead"
       ],
       "independence": "Scholarly documentary edition/index; BNaR original document remains the preferred primary source."
+    },
+    {
+      "source_id": "SRC-DRHA-XXIV-1638-CICICANI-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXIV — 1638 Cicicani/Tăcoteni property record",
+      "publisher": "Academia Română",
+      "source_type": "scholarly documentary edition",
+      "url": "https://ethnology.ich.md/wp-content/uploads/2014/04/REV.-Vol._XIII-XIV.pdf",
+      "supports": [
+        "1638 Nasta/Tațea/Ion din Cicicani genealogy and property context",
+        "Cicicani locality near historical Hotin/Forosna"
+      ],
+      "independence": "Secondary scholarly discussion quoting/citing DRH A XXIV, doc. 249; recover the DRH primary edition for definitive transcription."
     }
   ]
 }
