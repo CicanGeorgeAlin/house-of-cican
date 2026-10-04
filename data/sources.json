@@ -665,6 +665,22 @@
       "independence": "Research audit; not primary evidence of absence.",
       "notes": "The 1498 BNaR item is not an earlier Cican record. Absence from indexed/searchable material is not proof that no earlier occurrence exists.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-I227-I228-I229-I231-1673-PROPERTY-REGISTER-001",
+      "title": "BNaR I/227–I/231: 1673 Iurghiceni documentary/property register",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / property-register cluster",
+      "url": "https://bibnat.ro/wp-content/uploads/2026/03/Lista-inventar-a-documentelor-digitizate-in-BNaR_martie-2026.pdf",
+      "supports": [
+        "I/227: list of Iurghiceni estate documents, undated",
+        "I/228: list of 19 purchase deeds for Iurghiceni and Doroșcani, only the first dated, the others undated",
+        "I/229a-b: 1673 situation of Iurghiceni and stake/boundary lists based on purchase deeds",
+        "I/231a-c: lists of shares selected for all răzeși when Iurghiceni was delimited"
+      ],
+      "independence": "Official BNaR archival inventory; the inventory descriptions do not themselves identify Cican in these entries.",
+      "notes": "This cluster is potentially valuable for backward reconstruction because it explicitly says the 1673 boundary/share lists derive from purchase deeds. The underlying undated list may preserve older deeds, but Cican/Illea has not yet been recovered from the list itself. Treat as a high-value retrieval target, not as evidence of Cican continuity.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
