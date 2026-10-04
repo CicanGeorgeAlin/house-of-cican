@@ -520,6 +520,20 @@
       "independence": "Published near-contemporary educational record compiled by Teodor Burada from school information; identity linkage to later adult records requires age, family and subsequent-document comparison.",
       "notes": "The publication states the Ghiorgea school had 73 pupils and gives the names of pupils for the 1888–1889 school year. The list includes Pilea Cican, Nicola Cican and Dina Cecan. Ghiorgea is the historical form used for Corcea/modern Korçë. The archive preserves these as documentary occurrences and does not automatically identify them with the later Nicolae Cican, Spiru Cican or Dina Cican of the 1903/1914 records.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BEZA-CICAN-BITOLA-GRADUATE-001",
+      "title": "George Beza, Aromânii în România secolului XX — note on Society Farsarotul and Nicolae Cican",
+      "publisher": "George Beza",
+      "source_type": "secondary historical study",
+      "url": "https://ro.scribd.com/document/416932376/George-Beza-Armanii-in-Romania-Secolului-XX-pdf",
+      "supports": [
+        "Nicolae Cican described as a graduate of the Romanian high school in Bitola (Monastir)",
+        "Society Farsarotul founded in 1903 by Nicolae Cican"
+      ],
+      "independence": "Secondary historical study; not a primary school register.",
+      "notes": "Use only as evidence for the later biographical claim that Nicolae Cican graduated from the Romanian high school in Bitola. It does not identify the 1888–1889 Ghiorgea schoolboy Nicola Cican.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
