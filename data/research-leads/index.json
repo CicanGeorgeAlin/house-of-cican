@@ -169,6 +169,18 @@
       "next_action": "Compare the 1591–1592 Băsărăbești-side deed and 1639 Băsărăbești-side deeds at the property-title level. Treat Agafia/Agahia as a collision-prone given-name form and require patronymic, kinship, or property continuity before upgrading the Obrejie hypothesis.",
       "created": "2026-10-04",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000017",
+      "title": "Ancestry Cican 129-record benchmark and underlying U.S./Canada record recovery",
+      "status": "New",
+      "priority": "High",
+      "scope": "Recover and reconcile the underlying 129 indexed Cican records reported by Ancestry, prioritizing immigration, census/voter, military, and vital records; identify distinct persons and link only with evidence.",
+      "source_ids": [
+        "SRC-ANCESTRY-CICAN-129-2026-001"
+      ],
+      "notes": "Ancestry currently reports 52 birth/marriage/death, 15 military, 40 immigration, and 22 census/voter records. Treat this as a holdings/discovery benchmark, not a population count. Avoid copying living-person sensitive data.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
