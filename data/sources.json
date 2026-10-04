@@ -607,6 +607,20 @@
       "independence": "Primary charter preserved by BNaR, plus published scholarly transcription.",
       "notes": "This is the archive's current earliest securely dated Cican/Cicican documentary evidence. Exact variant forms must be preserved. The record does not establish that this 1547 person is ancestral to later Cicans or that Cicican is an inherited surname.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-EARLY-CICAN-1547-BENCHMARK-AUDIT-001",
+      "title": "House of Cican earliest-attestation audit — 1547 benchmark",
+      "publisher": "House of Cican research audit",
+      "source_type": "research audit",
+      "url": "https://cicangeorgealin.github.io/house-of-cican/cican-timeline.html",
+      "supports": [
+        "1547 remains the earliest securely dated Cican/Cicican documentary occurrence currently established in the archive",
+        "No earlier candidate has yet met the archive's documentary verification threshold"
+      ],
+      "independence": "Archive synthesis based on the cited primary and scholarly sources; not an independent historical source.",
+      "notes": "This is an internal audit marker, not evidence of absolute first occurrence. Future earlier evidence can move the benchmark backward.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
