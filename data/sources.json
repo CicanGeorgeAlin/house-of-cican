@@ -438,6 +438,22 @@
       "independence": "Bibliographic secondary source pointing to a 1936 periodical item; original issue should be recovered for full context.",
       "notes": "The bibliography records a bust of nationalist fighter Nicolae Cicani from the commune of Frașari, published in Țara lui Mircea, year 2, no. 40, 15 October 1936. It is not merged with Nicolae Cican without identity evidence.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-ROMANIA-NOUA-1918-NICOLAE-CICAN-001",
+      "title": "România Nouă, 20 February 1918 — death of sub-lieutenant Nicolae Cican in Chișinău",
+      "publisher": "România Nouă / Biblioteca Centrală Universitară Cluj digital collection",
+      "source_type": "contemporary newspaper",
+      "url": "https://dspace.bcucluj.ro/bitstream/123456789/139575/1/BCUCLUJ_FP_P_I_551_1918_0002_0026.pdf",
+      "supports": [
+        "Nicolae Cican, Romanian from Macedonia",
+        "sub-lieutenant rank",
+        "death in Chișinău on 19 February 1918",
+        "funeral announcement on 20 February 1918"
+      ],
+      "independence": "Contemporary newspaper report; strongest current documentary evidence for exact death date/place and military rank, pending military personnel/casualty record.",
+      "notes": "Issue dated 20 February 1918 states that sub-lieutenant Nicolae Cican, a Romanian from Macedonia, died suddenly in Chișinău the previous day and that his funeral would occur that afternoon.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
