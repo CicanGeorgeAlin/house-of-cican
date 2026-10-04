@@ -261,6 +261,20 @@
       ],
       "independence": "Scholarly edition of primary documentary records.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-DRHA-XXIII-1637-IURGHICENI-OBREJIE-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXIII (1637–1638), doc. 110 — two Obrejie identities at Iurghiceni",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/23_documenta-romaniae-historica-a-moldova-XXIII_1996_1637-1638.pdf",
+      "supports": [
+        "26 May 1637: Obrejie of Iurghiceni, son of Miron, appears with other Iurghiceni răzeși in a collective testimony",
+        "26 May 1637: a separate Obrejie, son of Lupu, is also named from Iurghiceni in the same record",
+        "1637 demonstrates that multiple distinct Obrejie identities existed at Iurghiceni"
+      ],
+      "independence": "Scholarly edition of primary documentary record.",
+      "last_updated": "2026-10-04",
+      "notes": "This source is important for deduplication. The 1637 record explicitly distinguishes Obrejie son of Miron from Obrejie son of Lupu. Neither is identified as the son of Agahia/Agafia. Therefore the 1639 Obrejie son of Agahia should not be merged with either 1637 Obrejie without additional evidence."
     }
   ]
 }
