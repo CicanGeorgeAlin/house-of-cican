@@ -276,6 +276,22 @@
       ],
       "notes": "External source check confirms the later Nicolae Cican timeline independently: Balamaci states he graduated from the Romanian high school in Bitola in 1901 and emigrated that year; the same study records him returning to Bitola for the Ottoman Romanian Congress on 10–11 July 1909 and returning again to Corcea in 1913. Burada's 1888–1889 Ghiorgea school list independently contains Nicola Cican. No source located in this pass provides age, parentage or another direct identifier connecting the 1888 Nicola Cican to the 1901 Nicolae Cican. Identity remains unresolved. Negative-control check: Burada's separate 1888–1889 Bitola primary-school list has 40 pupils and does not include Nicola Cican; his name occurs in the Ghiorgea school list. This is not evidence against the later 1901 Bitola high-school graduation claim because the records concern different schools/educational stages. It does, however, prevent merging the 1888 Ghiorgea pupil with an assumed 1888 Bitola pupil.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000025",
+      "title": "Nicola / Nicolae / Nicolae (Culicea) Cican name-form reconciliation",
+      "status": "New",
+      "priority": "High",
+      "scope": "1888–1918",
+      "hypothesis": "The forms Nicola Cican, Nicolae Cican and Nicolae (Culicea) Cican may represent the same historical person, but the archive must establish the naming conventions and source context before treating them as equivalent.",
+      "source_ids": [
+        "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001",
+        "SRC-BALAMACI-001",
+        "SRC-FARSHAROTU-001",
+        "SRC-UN-POPOR-CARE-SE-STINGE-1915-CICAN-001"
+      ],
+      "notes": "1888 Burada records 'Nicola Cican'; Balamaci uses 'Nicolae (Culicea) Cican'; the Farsharotu history uses 'Nicola Cican'; the 1915 testimony is signed 'Nicola Cican'. This pattern is consistent with historical name-form variation but does not itself prove that every occurrence is one person. 'Culicea' must also be treated as an exact source form until its function (byname, nickname, patronymic, etc.) is established.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
