@@ -329,7 +329,7 @@
         "Distinction between surname and forename uses in its database"
       ],
       "independence": "External aggregated surname database; useful as a benchmark and research lead, not treated as a census or authoritative population count.",
-      "notes": "The current page reports approximately 399 people bearing the surname, with 212 in Romania, 148 in Turkey, 17 in the United States, 9 in Indonesia, 7 in India, and 1 each in Brazil, Cyprus, England, Peru and Slovenia; it separately reports Çiçan and notes that Cican may also occur as a forename. HOUSE OF CICAN records these figures as an external estimate to audit rather than as established fact.",
+      "notes": "The current page reports approximately 399 people bearing the surname, with 212 in Romania, 148 in Turkey, 17 in the United States, 9 in Indonesia, 7 in India, and 1 each in Brazil, Cyprus, England, Peru and Slovenia; it separately reports Çiçan and notes that Cican may also occur as a forename. HOUSE OF CICAN records these figures as an external estimate to audit rather than as established fact. Internal consistency check: the visible country incidence values listed on the current page sum to 398, while the headline says approximately 399 and the page says Cican occurs in 11 countries (Romania plus 10 others), whereas the visible table in the captured result lists Romania plus 9 other countries. HOUSE OF CICAN records this discrepancy for verification rather than attempting to reconcile it by assumption.",
       "last_updated": "2026-10-04"
     }
   ]
