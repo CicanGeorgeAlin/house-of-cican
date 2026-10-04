@@ -504,6 +504,22 @@
       "independence": "Secondary scholarly study; use to locate original congress and biographical records.",
       "notes": "The study places Nicolae Cican at the 1909 Bitola congress and later in Corcea. These locations are not treated as birthplace claims.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BURADA-1890-GHIORGHEA-SCHOOL-CICAN-001",
+      "title": "Teodor Burada, Cercetări despre școlile românești din Turcia — Ghiorgea school roll, 1888–1889",
+      "publisher": "Teodor T. Burada / Romanian school history study",
+      "source_type": "historical educational record / published school roll",
+      "url": "https://miscarea.net/w/wp-content/uploads/2023/03/Teodor-Burada-Cercetari-despre-scolile-romanesti-din-Turcia-1890.pdf",
+      "supports": [
+        "Nicola Cican listed among pupils at the Romanian school in Ghiorgea (Corcea) for 1888–1889",
+        "Dina Cecan listed among pupils at the same school",
+        "Pilea Cican listed among pupils at the same school",
+        "documentary presence of Cican/Cecan variants in Corcea before Nicolae Cican's later American career"
+      ],
+      "independence": "Published near-contemporary educational record compiled by Teodor Burada from school information; identity linkage to later adult records requires age, family and subsequent-document comparison.",
+      "notes": "The publication states the Ghiorgea school had 73 pupils and gives the names of pupils for the 1888–1889 school year. The list includes Pilea Cican, Nicola Cican and Dina Cecan. Ghiorgea is the historical form used for Corcea/modern Korçë. The archive preserves these as documentary occurrences and does not automatically identify them with the later Nicolae Cican, Spiru Cican or Dina Cican of the 1903/1914 records.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
