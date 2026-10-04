@@ -200,6 +200,17 @@
       ],
       "independence": "Scholarly index to the documentary edition; secondary index evidence confirming the named relationship and locality, to be checked against the underlying document.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-DIR-A-MOLDOVA-1621-1625-COSTIN-GLIGORIE-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. V (1621–1625), doc. 129 — Gligorie and his brother Costin of Iurghiceni",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/documente-privind-istoria-romaniei_A-Moldova_vol-V_sec-XVII_1621-1625_1957.pdf",
+      "supports": [
+        "6 January 1622: Ștefan Tomșa confirms Gligorie and his brother Costin, vistiernicei from Iurghiceni, their jointly purchased share of Arvasia, daughter of Marco, granddaughter of Gage, bought from Umbrar vataf of Rădeni for 35 silver talers"
+      ],
+      "independence": "Scholarly edition of the documentary record; primary-document transcription.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
