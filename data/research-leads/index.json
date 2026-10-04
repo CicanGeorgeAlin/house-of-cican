@@ -208,6 +208,18 @@
       ],
       "notes": "Secondary scholarly source states he returned to Romania around 1913/1914, enlisted in the Romanian Army and died during World War I. Treat these as documented secondary claims pending primary verification. A contemporary 1914 newspaper now independently corroborates Nicolae Cican's presence in Corcea and survival of the March 1914 house burning; military service and death still require primary records.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000020",
+      "title": "Nicolae Cicani of Frașari — variant identity investigation",
+      "status": "New",
+      "priority": "High",
+      "scope": "Recover the original 1936 Țara lui Mircea item and determine whether Nicolae Cicani of Frașari is identical to, related to, or separate from the documented Nicolae Cican of the Farsharotu/Corcea records.",
+      "source_ids": [
+        "SRC-TARA-LUI-MIRCEA-1936-NICOLAE-CICANI-001"
+      ],
+      "notes": "The spelling Cicani is preserved. Possible overlap is intriguing because the archive already has Nicolae Cican records, but no merge is permitted without biographical and chronological bridge evidence.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
