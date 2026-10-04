@@ -234,6 +234,18 @@
       ],
       "notes": "The 1915 source explicitly calls Spiru Cican Nicolae Cican's brother and tenant. It also contains Dina Cican's testimony, but does not by itself establish Dina's exact relationship to Nicolae or Spiru.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "lead_id": "CICAN-L-000022",
+      "title": "Nicolae Cican unnamed siblings and Monastir family reconstruction",
+      "status": "New",
+      "priority": "High",
+      "scope": "Recover records in Monastir/Bitola and the family's original region to identify Nicolae Cican's unnamed brothers and sisters, without assuming any existing Cican record is one of them.",
+      "source_ids": [
+        "SRC-FARSHAROTU-NICOLAE-FOUNDER-1987-001"
+      ],
+      "notes": "The institutional biography says Nicolae had many brothers and sisters and graduated from the Romanian high school in Monastir. No sibling names are given in this source.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
