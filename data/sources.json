@@ -249,6 +249,18 @@
       "independence": "Archival finding aid; individual undated entries require recovery of the underlying scans before chronological placement.",
       "last_updated": "2026-10-04",
       "notes": "Important chronological correction: item 3444 is NOT safe to use as evidence for the 1611–1632 Costin. BNaR marks its date as [s.d.] and the verso names Constantin Paladi hatman. Independent historical literature identifies hatman Constantin Paladi as a late-18th/early-19th-century figure who died in 1831. Therefore item 3444 is currently a much later finding aid/document and must be kept separate from the 17th-century Costin until its exact date and provenance are established. Item 3357 also requires recovery and dating before use."
+    },
+    {
+      "source_id": "SRC-DIR-A-MOLDOVA-1639-IURGHICENI-OBREJIE-001",
+      "title": "Documenta Romaniae Historica A. Moldova, vol. XXV (1639–1640), docs. 173 and 187 — Obrejie and the Băsărăbești share of Iurghiceni",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/25_documenta-romaniae-historica-a-moldova-XXV_2003_1639-1640.pdf",
+      "supports": [
+        "15 July 1639: Irina, daughter of Mărica Nehoe and granddaughter of Băsărabă, and Niță vătaf sell to Obrejie, son of Agahia and nephew of priest Gavril, their Iurghiceni share from the Băsărăbești family for 50 zlotys",
+        "22 July 1639: Vasile son of Andrieca and Costantin son of Ana, grandsons of Borcea, sell to Obreje, son of Agahia, their Iurghiceni share from the Băsărăbești family for 35 zlotys"
+      ],
+      "independence": "Scholarly edition of primary documentary records.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
