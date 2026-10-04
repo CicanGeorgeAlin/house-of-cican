@@ -171,6 +171,19 @@
         "Cicicani locality near historical Hotin/Forosna"
       ],
       "independence": "Secondary scholarly discussion quoting/citing DRH A XXIV, doc. 249; recover the DRH primary edition for definitive transcription."
+    },
+    {
+      "source_id": "SRC-DRHA-XXI-1632-IURGHICENI-COSTIN-001",
+      "title": "Documenta Romaniae Historica A Moldova, vol. XXI (1632–1633): Iurghiceni Costin and local ownership records",
+      "type": "scholarly primary-source edition",
+      "url": "https://biblioteca-digitala.ro/reviste/carte/iini/21_documenta-romaniae-historica-a-moldova-XXI_1971_1632-1633.pdf",
+      "supports": [
+        "17 April 1632: villagers of Iurghiceni give Costin's ocină to Bandur pârcălab for his tax",
+        "17 April 1632: Iurghiceni local witnesses include Băsărab, Miron, Onciul, Obrejie, Andronic and Vasile Văsian",
+        "17 April 1632: Andronic and Irimia pledge their Iurghiceni holding"
+      ],
+      "independence": "Scholarly documentary edition reproducing/transcribing archival records; useful for tracing later Iurghiceni property context, but does not establish a Cican connection.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
