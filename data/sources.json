@@ -377,6 +377,22 @@
       "independence": "Commercial genealogical aggregation; counts are database holdings, not population estimates and not independent identity proof.",
       "notes": "Current page reports 129 records: 52 birth/marriage/death, 15 military, 40 immigration, 22 census/voter. Use as a discovery/record-location benchmark and verify underlying records before person identification.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-FILAE-CICAN-FRANCE-001",
+      "title": "Filae — Cican surname records in France",
+      "publisher": "Filae",
+      "source_type": "genealogical surname index",
+      "url": "https://www.filae.com/nom-de-famille/CICAN.html",
+      "supports": [
+        "1 indexed birth in France since 1890",
+        "1941–1965 birth period",
+        "20 civil-status collections and 2 family-tree collections shown on current surname page",
+        "French locality distribution leads"
+      ],
+      "independence": "French genealogical surname index; use as a discovery benchmark and verify underlying civil records before identity claims.",
+      "notes": "Current page shows one birth for the surname in France since 1890, dated within 1941–1965, and lists departmental/locality leads. It does not expose the person's name on the public summary page.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
