@@ -454,6 +454,23 @@
       "independence": "Contemporary newspaper report; strongest current documentary evidence for exact death date/place and military rank, pending military personnel/casualty record.",
       "notes": "Issue dated 20 February 1918 states that sub-lieutenant Nicolae Cican, a Romanian from Macedonia, died suddenly in Chișinău the previous day and that his funeral would occur that afternoon.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-UN-POPOR-CARE-SE-STINGE-1915-CICAN-001",
+      "title": "Un popor care se stinge, 1915 — Nicolae Cican and Spiru Cican in Corcea",
+      "publisher": "Historical publication / digitized 1915 source",
+      "source_type": "contemporary historical testimony / published report",
+      "url": "https://dinitrandu.com/wp-content/uploads/2018/08/Un-popor-care-se-stinge-1915.pdf",
+      "supports": [
+        "Nicolae Cican as a banker in Corcea",
+        "Nicolae Cican's burned house and signed testimony",
+        "Spiru Cican as Nicolae's brother and tenant",
+        "Dina Cican contemporary testimony",
+        "financial/property loss context"
+      ],
+      "independence": "Contemporary published testimony/report; strong identity-context evidence, but exact publication provenance and underlying original testimony should be documented further.",
+      "notes": "The source reproduces Nicolae Cican's signed statement after his house was burned, identifies him as a banker, and explicitly states that Spiru Cican was his brother and tenant. This is high-value bridge evidence for the Nicolae/Spiru cluster and should be kept distinct from any unsupported relationship among other 1903 Cicans.",
+      "last_updated": "2026-10-04"
     }
   ]
 }
