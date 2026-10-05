@@ -825,6 +825,17 @@
       ],
       "notes": "This sequence materially improves the chronological control of the Bandur/Buhuș title chain. The BNaR inventory confirms digitization of the key 1638 and 1640 documents, but the public inventory itself does not expose manuscript images. Exact parcel continuity with the 1547 Cican/Cicican–Illea share remains unproven.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1575-DRAGHICI-TOADER-001",
+      "title": "BNaR I/9–I/10, 2 August 1575: Drăghici's Iurghiceni estate",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized original documents",
+      "supports": [
+        "I/9: Petru Vv. confirms Condrea half of Drăghici's estate, purchased for 60 Tatar zlotys; the land is stated to have been acquired from Ștefan Vv. cel Bătrân by Drăghici's grandfather Toader",
+        "I/10: Petru (Șchiopul) confirms Burlan and Nikita, sons of Drăgan, half of Drăghici's estate in Iurghiceni on the Bahlui"
+      ],
+      "notes": "This is a major post-1547 Iurghiceni ownership control. It proves an Iurghiceni estate held by Drăghici was being divided in 1575 and that its title was traced to an earlier acquisition by his grandfather Toader from Ștefan cel Bătrân. It does NOT establish that this Toader was Toader son of Maria from the 1547 Cican/Cicican transaction, nor that Drăghici's estate included Cican/Illea's 1/20 share. Exact parcel/boundary comparison is required.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
