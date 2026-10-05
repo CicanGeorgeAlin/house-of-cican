@@ -1019,6 +1019,18 @@
       ],
       "notes": "This is now the highest-priority recovery target for the missing 1547-to-later title interval. The undated deeds may preserve substantially older purchase instruments, but their dates, parties and contents cannot be inferred from the catalogue heading. Recovering the manuscript/list contents is required before assigning any deed to the Cican/Illea parcel.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I227-I228-CROSSWALK-001",
+      "title": "BNaR I/227–I/228 crosswalk: Iurghiceni title-document list and 19 purchase deeds",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival catalogue crosswalk",
+      "supports": [
+        "I/227 is a list of documents belonging to the Iurghiceni estate",
+        "I/228 is a list of 19 purchase deeds for Iurghiceni and Doroșcani",
+        "The two adjacent records should be treated as a linked title-evidence inventory when reconstructing the 1673 estate"
+      ],
+      "notes": "Catalogue adjacency is not proof that I/227's listed documents correspond one-to-one with I/228's 19 deeds. It is a research crosswalk only. Contents of both manuscript records must be recovered before assigning identities, dates or parcel continuity.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
