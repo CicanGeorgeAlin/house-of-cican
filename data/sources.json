@@ -982,6 +982,17 @@
       ],
       "notes": "Critical identity correction: the 28 November 1644 act calls Miron's son Obrejie 'răposatul' (deceased). Therefore the Obrejie named with Miron in 1645 cannot be automatically identified as that deceased son. Treat the 1645 Obrejie as a distinct living person unless a later/earlier document proves otherwise.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXI-1632-OBREJIE-MIRON-VILLAGERS-001",
+      "title": "DRH A Moldova XXI docs. 20–22, 17 April 1632: Obrejie among Iurghiceni villagers and Miron branch",
+      "publisher": "Documenta Romaniae Historica, A. Moldova, vol. XXI",
+      "source_type": "published primary-document evidence",
+      "supports": [
+        "The Iurghiceni villagers named as giving Costin's share to Bandur include Băsărab, Miron, Onciul, Obrejie, Andronic and Vasile Văsiian",
+        "Gavril and Gligorie, sons of Palaghia and grandsons of Miron, sell their Iurghiceni share to Iachim Bandur"
+      ],
+      "notes": "This establishes an Obrejie and a Miron in the same 1632 Iurghiceni village network, but the text does not state that the Obrejie is Miron's son. The 1637 act independently identifies a different, specific Obrejie as son of Miron. These identities remain unmerged unless explicitly bridged.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
