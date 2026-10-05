@@ -783,6 +783,19 @@
       ],
       "notes": "Benea is a potentially important name collision with Zaharia Benea/Banea in the 1638 Iurghiceni title chain. The present evidence does not establish that the 1669 Benea is the same person, family branch, or creditor line as the 1638 Zaharia Benea/Banea. The Vasco branch is also not connected to Cican/Illea.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1640-IURGHICENI-BENEA-BALTAG-001",
+      "title": "Documenta Romaniae Historica, A. Moldova, vol. XXIV, 27 July 1640: Iurghiceni title dispute",
+      "publisher": "Academia Republicii Socialiste România / archival edition",
+      "source_type": "critical documentary edition of primary judicial act",
+      "supports": [
+        "Băltag's Iurghiceni acquisition is stated in court as purchased from Benea and other relatives",
+        "Bandur's widow alleged the 1638 transaction was a pledge rather than a sale",
+        "Dumitru Buhuș produced Bandur's deed and other princely/official documents",
+        "The court rejected the widow's claim and left her without legal standing"
+      ],
+      "notes": "This is materially stronger than the 1638 transaction alone because a 1640 judicial proceeding tests the title chain and explicitly identifies Benea and relatives as the prior sellers to Băltag. It still does not connect Benea/Baltag/Bandur to the 1547 Cican/Cicican–Illea parcel.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
