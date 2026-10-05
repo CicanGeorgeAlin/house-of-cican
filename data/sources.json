@@ -871,6 +871,17 @@
       ],
       "notes": "The two records are a research collision, not a proven continuous family branch. Patronymics, chronology, parcel fractions and boundaries must be compared before merging Vasco identities. No connection to the 1547 Cican/Cicican–Illea share is established.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1497-1547-EARLY-CONTROL-002",
+      "title": "BNaR early Iurghiceni control sequence, 1497–1547",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / documentary control",
+      "supports": [
+        "I/3 (1497) and I/4 (1498) are earlier records in the same archival series but concern other properties/localities rather than a Cican Iurghiceni share",
+        "I/5 (26 May 1547) is the first currently identified Iurghiceni charter in this sequence naming Cican/Cicican and his son Illea"
+      ],
+      "notes": "The sequence provides a catalogue-level negative control for the 1497–1547 interval. It does not prove that no earlier Iurghiceni Cican existed; uncatalogued or differently indexed records may remain.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
