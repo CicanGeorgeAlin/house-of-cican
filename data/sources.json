@@ -759,6 +759,19 @@
       ],
       "notes": "The 17 April 1632 cluster is a major property-chain control for Iurghiceni. It demonstrates that shares were being described by fractions and inherited family branches decades before the 1673 register. It does not identify Cican/Cicican or Illea and therefore does not establish continuity with the 1547 charter. The documentary edition identifies the acts as nos. 20–22; secondary searchable reproduction preserves the original text and archival shelfmarks.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1638-IURGHICENI-BANDUR-BALTAG-001",
+      "title": "Documenta Romaniae Historica, A. Moldova, vol. XXIV (1637–1638), Iurghiceni title chain",
+      "publisher": "Academia Republicii Socialiste România / archival edition",
+      "source_type": "critical documentary edition of primary acts",
+      "supports": [
+        "26 April 1638: Bandur's Iurghiceni property is described as purchased by Bandur from Baltag",
+        "14 July 1638: Iachim Bandur sells the Iurghiceni property to Dumitru Buhuș",
+        "The 14 July act identifies Baltag's purchase from Ion and Constantin, sons of Sidor and Agafia, plus Zaharia Benea/Banea and his nephews Vasile and Tudora",
+        "The property is identified as the upper half of Iurghiceni, the Doșcești portion, excluding a smaller Flora portion on the Bahlui"
+      ],
+      "notes": "This is a documentary title chain, not a genealogical chain. It reaches one generation of named prior sellers before Baltag and provides precise fractional/geographic property identifiers. It does not connect any of these owners to the 1547 Cican/Cicican and Illea charter.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
