@@ -1,6 +1,6 @@
 {
   "schema": "house-of-cican.source-registry.v1",
-  "last_updated": "2026-10-04",
+  "last_updated": "2026-10-05",
   "sources": [
     {
       "source_id": "SRC-FARSHAROTU-001",
@@ -710,6 +710,24 @@
       "independence": "Official BNaR inventory; absence between catalogued items is not proof of documentary absence from Moldova.",
       "notes": "The BNaR sequence around the Cican charter does not provide an earlier Iurghiceni/Cican item: the immediately preceding catalogued records are 1497 and 1498 records for other places, followed by I/5 in 1547. This strengthens the archival-search benchmark but does not prove 1547 was the first ever Cican occurrence.",
       "last_updated": "2026-10-04"
+    },
+    {
+      "source_id": "SRC-BNAR-I127-I128-I137-I146-I150-I151-IURGHICENI-RETRIEVAL-001",
+      "title": "BNaR I/127–I/151: additional undated Iurghiceni documentary cluster",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / retrieval targets",
+      "url": "https://bibnat.ro/wp-content/uploads/2026/01/Lista-inventar-a-documentelor-digitizate-in-BNaR_ianuarie-2026.pdf",
+      "supports": [
+        "I/127: Andonic and Acsinia, children of Dumitrașco from Iurghiceni, sell their estate",
+        "I/128: Maximiam the ban pledges a part of Iurghiceni estate to logofăt Buhuş",
+        "I/137: list of confirmations/documents concerning Iurghiceni estate",
+        "I/146: Ilie son of Vasile from Iurghiceni sells his hereditary share in Iurghiceni",
+        "I/150: Stefav Voievod empowers Nicolae Buhuş to send someone to Iurghiceni",
+        "I/151: Ștefan Voievod notice concerning Iurghiceni"
+      ],
+      "independence": "Official BNaR inventory. These entries are retrieval targets and do not establish Cican continuity.",
+      "notes": "These entries may contain recited older purchase deeds or ownership history. The undated status prevents chronological placement without inspecting the underlying documents. I/137 is especially relevant because it is explicitly a list of documentary confirmations for the Iurghiceni estate.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
