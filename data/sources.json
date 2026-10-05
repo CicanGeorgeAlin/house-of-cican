@@ -1007,6 +1007,18 @@
       ],
       "notes": "This dossier is being filtered for explicit inheritance/predecessor language that could identify a continuous parcel or family line. Catalogue metadata alone does not establish a Cican/Illea connection.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I228-19-DEEDS-OLDEST-DATED-001",
+      "title": "BNaR I/228: 19 Iurghiceni/Doroșcani purchase deeds, only the first dated",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival primary-document list",
+      "supports": [
+        "I/228 is a two-folio original Romanian archival document dated 22 April 1673",
+        "It lists 19 purchase deeds (zapise) for Iurghiceni and Doroșcani",
+        "Only the first deed is dated; the remaining 18 are undated"
+      ],
+      "notes": "This is now the highest-priority recovery target for the missing 1547-to-later title interval. The undated deeds may preserve substantially older purchase instruments, but their dates, parties and contents cannot be inferred from the catalogue heading. Recovering the manuscript/list contents is required before assigning any deed to the Cican/Illea parcel.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
