@@ -808,6 +808,23 @@
       ],
       "notes": "Inventory metadata is used here as an archival control, not as a substitute for recovering the full manuscript text. The present investigation requires the actual underlying acts or critical edition before identifying exact kinship or boundary continuity.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1634-1640-DIGITIZED-CHAIN-001",
+      "title": "BNaR digitized Iurghiceni chain: I/62, I/68, I/70–I/73, I/76, I/78",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory with digitization status",
+      "supports": [
+        "I/62: 14 July 1634 testimony of 14 boyars that Iachim Banduru sold Buhuș a part of Iurghiceni",
+        "I/68: c.1635 note in Slavonic and Romanian concerning shares and inhabitants of Iurghiceni",
+        "I/70: 26 May 1637 deed in which Iurghiceni răzeși pledge land to Buhuș",
+        "I/71: 2 April 1638 princely order concerning Buhuș holding pledged Iurghiceni shares",
+        "I/72: 20 April 1638 order to select pledged Iurghiceni shares for Buhuș",
+        "I/73: 26 April 1638 confirmation to Buhuș of a part of Iurghiceni bought from Bandur",
+        "I/76-a/b: 1638 Bandur-to-Buhuș Iurghiceni transaction, original Slavonic plus Romanian translation",
+        "I/78-a/b: 27 July 1640 confirmation to Buhuș of the Iurghiceni part bought from Bandur after litigation, with Romanian translation"
+      ],
+      "notes": "This sequence materially improves the chronological control of the Bandur/Buhuș title chain. The BNaR inventory confirms digitization of the key 1638 and 1640 documents, but the public inventory itself does not expose manuscript images. Exact parcel continuity with the 1547 Cican/Cicican–Illea share remains unproven.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
