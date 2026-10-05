@@ -961,6 +961,16 @@
       "supports": ["Miron is explicitly of Iurghiceni", "Miron had a deceased son named Obrejie", "Miron donates his Iurghiceni share, including specified house-place, pond-place, arable, hay and apiary components"],
       "notes": "This is stronger than a secondary citation and supplies parcel-feature terminology for a future property continuity test. It does not establish that the deceased Obrejie is the 1637 Obrejie son of Miron beyond the explicit father-son wording in the 1644 act.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXVIII-1645-OBREJIE-MIRON-001",
+      "title": "DRH A Moldova XXVIII, 21 August 1645: Obrejie and Miron of Iurghiceni",
+      "publisher": "Documenta Romaniae Historica, A. Moldova, vol. XXVIII",
+      "source_type": "published primary-document evidence",
+      "supports": [
+        "Obrejie and Miron are jointly named as witnesses from Iurghiceni in an August 1645 transaction"
+      ],
+      "notes": "This is a valuable corroborating local-person pair one year after the 1644 Miron donation for his deceased son Obrejie. It does not by itself prove the 1645 Obrejie is the deceased son named in 1644, but it strengthens the Miron-Obrejie branch identity hypothesis.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
