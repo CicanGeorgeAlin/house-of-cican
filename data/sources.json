@@ -944,6 +944,23 @@
       ],
       "notes": "This directly proves that the two Obrejie identities must not be merged. It also strengthens the hypothesis that the 1632 Iurghiceni Obrejie in the Costin tax/share act may be Obrejie son of Miron, but that identity remains unproven without an explicit bridge.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1637-OBREJIE-MIRON-LUPU-PRIMARY-001",
+      "title": "DRH A Moldova XXIV doc. 110, 26 May 1637: Obrejie son of Miron and Obrejie son of Lupu",
+      "publisher": "Documenta Romaniae Historica, A. Moldova, vol. XXIV",
+      "source_type": "published primary-document edition",
+      "supports": ["Obrejie of Iurghiceni, son of Miron", "Obrejie, son of Lupu of Iurghiceni", "popa Toader of Iurghiceni"],
+      "notes": "Primary-text recovery confirms two distinct contemporary Obrejie men. This is an identity-control source, not a Cican continuity source.",
+      "last_updated": "2026-10-05"
+    },
+    {
+      "source_id": "SRC-DRH-A-MOLDOVA-XXVII-1644-MIRON-OBREJIE-PRIMARY-001",
+      "title": "DRH A Moldova XXVII doc. 459, 28 November 1644: Miron of Iurghiceni donates his share for deceased son Obrejie",
+      "publisher": "Documenta Romaniae Historica, A. Moldova, vol. XXVII",
+      "source_type": "published primary-document edition",
+      "supports": ["Miron is explicitly of Iurghiceni", "Miron had a deceased son named Obrejie", "Miron donates his Iurghiceni share, including specified house-place, pond-place, arable, hay and apiary components"],
+      "notes": "This is stronger than a secondary citation and supplies parcel-feature terminology for a future property continuity test. It does not establish that the deceased Obrejie is the 1637 Obrejie son of Miron beyond the explicit father-son wording in the 1644 act.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
