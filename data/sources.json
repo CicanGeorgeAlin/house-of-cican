@@ -772,6 +772,17 @@
       ],
       "notes": "This is a documentary title chain, not a genealogical chain. It reaches one generation of named prior sellers before Baltag and provides precise fractional/geographic property identifiers. It does not connect any of these owners to the 1547 Cican/Cicican and Illea charter.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1669-BENEA-VASCO-001",
+      "title": "BNaR I/214, 30 November 1669: Constantin son of Vasile, grandson of Vasco cel Bătrîn",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory entry for original Romanian deed",
+      "supports": [
+        "Constantin, son of Vasile of Iurghiceni and grandson of Vasco cel Bătrîn, sells an Iurghiceni share to Ianache vornicul",
+        "The share had been pledged to Benea by Constantin's uncle David"
+      ],
+      "notes": "Benea is a potentially important name collision with Zaharia Benea/Banea in the 1638 Iurghiceni title chain. The present evidence does not establish that the 1669 Benea is the same person, family branch, or creditor line as the 1638 Zaharia Benea/Banea. The Vasco branch is also not connected to Cican/Illea.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
