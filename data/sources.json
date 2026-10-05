@@ -1031,6 +1031,18 @@
       ],
       "notes": "Catalogue adjacency is not proof that I/227's listed documents correspond one-to-one with I/228's 19 deeds. It is a research crosswalk only. Contents of both manuscript records must be recovered before assigning identities, dates or parcel continuity.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1660-1673-OBREJA-DAUGHTERS-001",
+      "title": "1660–1673 Obreja-daughter property continuity: I/154, I/208 and I/234",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival primary-document holdings / digitized originals",
+      "supports": [
+        "I/154, 16 September 1660: Dumitrașcu with wife Anița and Toader with wife Todosca, identified as daughters of Obreja, sell half of their father's share in Iurghiceni to Nicolae Buhuș",
+        "I/208: Tudosie Dubău certifies the selection and staking of the Iurghiceni share sold by Obreja's daughters to Buhuș",
+        "I/234, 1673: Todosca and Anița, daughters of Obrejie, are identified in an exchange involving a 127-stânjeni Băsărăbești-pillar share"
+      ],
+      "notes": "This is a strong person/property continuity bridge for the specific women Anița and Todosca across 1660–1673. It does not identify their father Obreja with any previously catalogued Obrejie man and does not connect this branch to Cican/Illea.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
