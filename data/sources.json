@@ -796,6 +796,18 @@
       ],
       "notes": "This is materially stronger than the 1638 transaction alone because a 1640 judicial proceeding tests the title chain and explicitly identifies Benea and relatives as the prior sellers to Băltag. It still does not connect Benea/Baltag/Bandur to the 1547 Cican/Cicican–Illea parcel.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1638-1640-TITLE-CHAIN-CROSSCHECK-001",
+      "title": "BNaR Iurghiceni documentary inventory cross-check, 1638–1640 title-chain records",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory cross-check",
+      "supports": [
+        "BNaR catalog preserves separate 1638 Iurghiceni transactions involving Iachim Bandur and later Dumitru Buhuș",
+        "BNaR catalog preserves a 1640 Iurghiceni judicial/ownership record involving Buhuș and the Bandur estate",
+        "The 1638–1640 cluster is suitable for tracing title documents and parcel identity before attempting any Cican/Illea continuity claim"
+      ],
+      "notes": "Inventory metadata is used here as an archival control, not as a substitute for recovering the full manuscript text. The present investigation requires the actual underlying acts or critical edition before identifying exact kinship or boundary continuity.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
