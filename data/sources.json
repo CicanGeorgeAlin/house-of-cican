@@ -971,6 +971,17 @@
       ],
       "notes": "This is a valuable corroborating local-person pair one year after the 1644 Miron donation for his deceased son Obrejie. It does not by itself prove the 1645 Obrejie is the deceased son named in 1644, but it strengthens the Miron-Obrejie branch identity hypothesis.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXVIII-1645-MIRON-OBREJIE-CORRECTION-001",
+      "title": "1645 Miron–Obrejie evidence: identity-control correction",
+      "publisher": "Documenta Romaniae Historica, A. Moldova, vol. XXVIII",
+      "source_type": "published primary-document evidence",
+      "supports": [
+        "22 April 1645: Miron of Iurghiceni is independently active in a dispute over damage caused by his horses",
+        "21 August 1645: an act names Obrejie and Miron of Iurghiceni together as witnesses"
+      ],
+      "notes": "Critical identity correction: the 28 November 1644 act calls Miron's son Obrejie 'răposatul' (deceased). Therefore the Obrejie named with Miron in 1645 cannot be automatically identified as that deceased son. Treat the 1645 Obrejie as a distinct living person unless a later/earlier document proves otherwise.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
