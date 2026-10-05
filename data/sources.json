@@ -896,6 +896,20 @@
       ],
       "notes": "This dossier is the strongest later source family for translating historical fractional ownership into identifiable parcels. It may preserve the documentary ancestry of later shares, but the inventory metadata alone does not establish that any listed share descends from the 1547 Cican/Cicican–Illea 1/20. Manuscript contents must be recovered before making that connection.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1676-1680-BASARAB-CHAIN-001",
+      "title": "BNaR I/245–I/259, 1676–1680 Iurghiceni/Băsărăbești transaction chain",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized primary-document holdings",
+      "supports": [
+        "1676 I/245: Ionașco Cămăraș and Toader Vîrnav recover Iurghiceni/Doroșcani shares after a pledge to Constantin Ciuta",
+        "1677 I/246: Ionașco, son-in-law of Pantiliti, and Anușca daughter of Pantelei sell a share from the Băsărab pillar in Iurghiceni",
+        "1677 I/247: Vasile Clineș and wife sell one-quarter of Pantelei's share from the Băsărab pillar",
+        "1679 I/249: Crăciun and relatives sell one-third of paternal inheritance from the Băsărăbești pillar",
+        "1680 I/256 and I/258: Irina daughter of Obreja and Urîta daughter of Nastasia, granddaughter of Obreja, sell inherited Iurghiceni shares"
+      ],
+      "notes": "This chain materially strengthens the Băsărăbești/share-fraction continuity test. It does not establish a connection to Cican/Illea.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
