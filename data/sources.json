@@ -860,6 +860,17 @@
       ],
       "notes": "These neighbouring catalogue items form a high-value branch map around the Iurghiceni title-confirmation list at cotă 138. Catalogue metadata alone does not establish whether any branch contains the 1547 Cican/Cicican–Illea share. The exact parcel boundaries and underlying deeds must be recovered before identities or continuity are asserted.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-VASCO-COSTIN-IACOB-1669-CONTROL-001",
+      "title": "BNaR Iurghiceni branch control: Vasco-Costin-Iacob shares and 1669 Vasco descendant transaction",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory cross-reference",
+      "supports": [
+        "BNaR no. 3444/cotă 135 records shares of brothers Vasco, Costin and Iacob in Iurghiceni",
+        "BNaR I/214 (30 Nov 1669) records Constantin son of Vasile of Iurghiceni, grandson of Vasco cel Bătrîn, selling an Iurghiceni share"
+      ],
+      "notes": "The two records are a research collision, not a proven continuous family branch. Patronymics, chronology, parcel fractions and boundaries must be compared before merging Vasco identities. No connection to the 1547 Cican/Cicican–Illea share is established.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
