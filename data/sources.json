@@ -680,7 +680,8 @@
       ],
       "independence": "Official BNaR archival inventory; the inventory descriptions do not themselves identify Cican in these entries.",
       "notes": "This cluster is potentially valuable for backward reconstruction because it explicitly says the 1673 boundary/share lists derive from purchase deeds. The underlying undated list may preserve older deeds, but Cican/Illea has not yet been recovered from the list itself. Treat as a high-value retrieval target, not as evidence of Cican continuity.",
-      "last_updated": "2026-10-04"
+      "last_updated": "2026-10-05",
+      "verification_update": "BNaR digitization inventories dated January 2025 and March 2026 independently list I/227 and I/228 among digitized documents. This confirms scan availability/status in the BNaR digitized-document program, but the public inventory does not expose the scan contents; no Cican/Illea name has therefore been extracted from I/227 or I/228 yet."
     },
     {
       "source_id": "SRC-DRH-A27-1643-IURGHICENI-OLD-ACTS-001",
