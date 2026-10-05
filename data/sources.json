@@ -729,6 +729,24 @@
       "independence": "Official BNaR inventory. These entries are retrieval targets and do not establish Cican continuity.",
       "notes": "These entries may contain recited older purchase deeds or ownership history. The undated status prevents chronological placement without inspecting the underlying documents. I/137 is especially relevant because it is explicitly a list of documentary confirmations for the Iurghiceni estate.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1657-1669-PROPERTY-DOSSIER-001",
+      "title": "BNaR Iurghiceni property dossier, 1657–1669: Buhuş acquisitions, local owners and boundary records",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized primary-document holdings",
+      "url": "https://bibnat.ro/wp-content/uploads/2026/03/Lista-inventar-a-documentelor-digitizate-in-BNaR_martie-2026.pdf",
+      "supports": [
+        "1657 Ionașco Bandurul gives Nicolae Buhuş his Iurghiceni share",
+        "1657 Gheorghe Ștefan Voievod confirms Nicolae Buhuş's Iurghiceni share",
+        "1660–1663 Irimia son of Mănăilă sells his Iurghiceni share to Buhuş",
+        "1661 preotul Simion sells multiple Iurghiceni ancestral/property portions to Nicolae Buhuş",
+        "1669 Iachim sells his Iurghiceni share to Dumitrașcu Buhuş",
+        "1669 Constantin son of Vasile of Iurghiceni, grandson of Vasco cel bătrân, appears in an Iurghiceni property transaction",
+        "1669 Tudosie Dubău records selection and boundary work concerning Iurghiceni"
+      ],
+      "independence": "Official BNaR digitized-document inventory; inventory descriptions are evidence of document existence/content summaries, not substitutes for inspecting the underlying manuscripts.",
+      "notes": "This cluster materially strengthens the property-chain investigation between the 1547 Cican/Illea purchase and the 1673 register. It does not identify Cican/Illea in these later records and must not be treated as proof of continuity. Particularly useful targets are I/141–I/142 (1657), I/151 and I/153–I/156 (1660–1661), and I/214 (1669).",
+      "last_updated": "2026-10-05"
     }
   ]
 }
