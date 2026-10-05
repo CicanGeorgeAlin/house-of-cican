@@ -836,6 +836,17 @@
       ],
       "notes": "This is a major post-1547 Iurghiceni ownership control. It proves an Iurghiceni estate held by Drăghici was being divided in 1575 and that its title was traced to an earlier acquisition by his grandfather Toader from Ștefan cel Bătrân. It does NOT establish that this Toader was Toader son of Maria from the 1547 Cican/Cicican transaction, nor that Drăghici's estate included Cican/Illea's 1/20 share. Exact parcel/boundary comparison is required.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-TITLE-LIST-COTA-138-001",
+      "title": "BNaR inventory no. 3447, cotă 138: Listă de întărituri de documente referitoare la moșia Iurghiceni",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival finding aid / digitized archive document",
+      "supports": [
+        "BNaR preserves a dedicated list of title-confirmation documents concerning the Iurghiceni estate",
+        "Inventory number 3447 and archival quota 138 identify the item"
+      ],
+      "notes": "This is a high-priority finding aid for reconstructing older Iurghiceni title history. The catalogue entry itself does not expose the list's internal contents, so no underlying deed date or Cican connection is claimed until the document is recovered and read.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
