@@ -882,6 +882,20 @@
       ],
       "notes": "The sequence provides a catalogue-level negative control for the 1497–1547 interval. It does not prove that no earlier Iurghiceni Cican existed; uncatalogued or differently indexed records may remain.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1673-FRACTION-BOUNDARY-CHAIN-001",
+      "title": "BNaR I/227–I/239, 1673 Iurghiceni title, share-selection and boundary dossier",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized primary-document holdings",
+      "supports": [
+        "I/227: list of Iurghiceni estate documents",
+        "I/228: list of 19 purchase deeds for Iurghiceni and Doroșcani",
+        "I/229a-b: Iurghiceni situation and lists of property shares/boundaries",
+        "I/231a-c: lists of shares selected for the various răzeși when Iurghiceni was delimited",
+        "I/232, I/235 and I/239: further selection, staking and boundary records"
+      ],
+      "notes": "This dossier is the strongest later source family for translating historical fractional ownership into identifiable parcels. It may preserve the documentary ancestry of later shares, but the inventory metadata alone does not establish that any listed share descends from the 1547 Cican/Cicican–Illea 1/20. Manuscript contents must be recovered before making that connection.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
