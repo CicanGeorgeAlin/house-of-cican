@@ -747,6 +747,18 @@
       "independence": "Official BNaR digitized-document inventory; inventory descriptions are evidence of document existence/content summaries, not substitutes for inspecting the underlying manuscripts.",
       "notes": "This cluster materially strengthens the property-chain investigation between the 1547 Cican/Illea purchase and the 1673 register. It does not identify Cican/Illea in these later records and must not be treated as proof of continuity. Particularly useful targets are I/141–I/142 (1657), I/151 and I/153–I/156 (1660–1661), and I/214 (1669).",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXI-IURGHICENI-1632-001",
+      "title": "Documenta Romaniae Historica, A. Moldova, vol. XXI (1632–1633): Iurghiceni documents, 17 April 1632",
+      "publisher": "Academia Republicii Socialiste România / archival edition",
+      "source_type": "critical documentary edition of primary acts",
+      "supports": [
+        "Andronic and Irimia pledge their Iurghiceni share to Iachim Bandur",
+        "Iurghiceni villagers attest to giving Costin's share to Bandur for payment of Costin's tax",
+        "Gavril and Gligorie, sons of Palaghia and grandsons of Miron, sell their share from a fourth part of Iurghiceni to Iachim Bandur for 20 zlotys"
+      ],
+      "notes": "The 17 April 1632 cluster is a major property-chain control for Iurghiceni. It demonstrates that shares were being described by fractions and inherited family branches decades before the 1673 register. It does not identify Cican/Cicican or Illea and therefore does not establish continuity with the 1547 charter. The documentary edition identifies the acts as nos. 20–22; secondary searchable reproduction preserves the original text and archival shelfmarks.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
