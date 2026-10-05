@@ -1043,6 +1043,19 @@
       ],
       "notes": "This is a strong person/property continuity bridge for the specific women Anița and Todosca across 1660–1673. It does not identify their father Obreja with any previously catalogued Obrejie man and does not connect this branch to Cican/Illea.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I153-I156-1660-OBREJA-CONTEXT-001",
+      "title": "BNaR I/153–I/156, September 1660–1661: adjacent Iurghiceni family/share transactions around Obreja's daughters",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival primary-document holdings",
+      "supports": [
+        "I/153: 1660 Iurghiceni share sale by Dumitrașcu and Toader",
+        "I/154: 16 September 1660 Anița and Todosca, daughters of Obreja, sell half of their father's Iurghiceni share",
+        "I/155: 1660 sale by children of Lepădata and Vasile son of Marica, grandson of Lepădata",
+        "I/156: 1661 priest Simion sells a composite Iurghiceni property including portions associated with his father popa Toader and other named predecessors"
+      ],
+      "notes": "The adjacent sequence is a high-value contextual cluster for identifying parcel neighbors, witnesses and predecessor titles. Catalogue metadata does not yet establish that I/153 or I/155 concerns the same parcel as I/154.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
