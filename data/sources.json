@@ -993,6 +993,20 @@
       ],
       "notes": "This establishes an Obrejie and a Miron in the same 1632 Iurghiceni village network, but the text does not state that the Obrejie is Miron's son. The 1637 act independently identifies a different, specific Obrejie as son of Miron. These identities remain unmerged unless explicitly bridged.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1660-1669-INHERITANCE-FILTER-001",
+      "title": "BNaR I/153–I/214, 1660–1669: Iurghiceni inheritance and share-transfer filter",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized primary-document holdings",
+      "supports": [
+        "I/153–I/156: multiple 1660–1661 sales of Iurghiceni shares to Nicolae Buhuș, with family members and predecessors named",
+        "I/162: 1661 sale by Macsimian banul and wife Agahia, daughter of Lupul of Iurghiceni",
+        "I/167: 1662 transfer involving children of Irina from Iurghiceni",
+        "I/186 and I/214: 1669 Iurghiceni share transfers, including Constantin son of Vasile, grandson of Vasco cel Bătrân",
+        "I/208–I/213: 1669 boundary, village and dispute records useful for reconstructing inherited shares"
+      ],
+      "notes": "This dossier is being filtered for explicit inheritance/predecessor language that could identify a continuous parcel or family line. Catalogue metadata alone does not establish a Cican/Illea connection.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
