@@ -932,6 +932,18 @@
       ],
       "notes": "Potentially important identity/kinship bridge within the Obrejie-Miron cluster, but the 1637 Obrejie son of Lupu, the 1632 Obrejie associated with Miron, and the deceased Obrejie son of Miron in 1644 are not merged. Exact documentary wording and intervening records are required.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1637-OBREJIE-MIRON-LUPU-001",
+      "title": "DRH A Moldova XXIV doc. 110, 26 May 1637: two distinct Obrejie witnesses from Iurghiceni",
+      "publisher": "Documenta Romaniae Historica, A. Moldova, vol. XXIV",
+      "source_type": "published primary-document edition",
+      "supports": [
+        "Obrejie of Iurghiceni, son of Miron, appears as a witness",
+        "Obrejie, son of Lupu, from the same locality, appears separately in the same act",
+        "The act also names popa Toader of Iurghiceni and other răzeși"
+      ],
+      "notes": "This directly proves that the two Obrejie identities must not be merged. It also strengthens the hypothesis that the 1632 Iurghiceni Obrejie in the Costin tax/share act may be Obrejie son of Miron, but that identity remains unproven without an explicit bridge.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
