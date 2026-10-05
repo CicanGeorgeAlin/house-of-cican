@@ -847,6 +847,19 @@
       ],
       "notes": "This is a high-priority finding aid for reconstructing older Iurghiceni title history. The catalogue entry itself does not expose the list's internal contents, so no underlying deed date or Cican connection is claimed until the document is recovered and read.",
       "last_updated": "2026-10-05"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-COTA-134-137-BRANCHES-001",
+      "title": "BNaR Iurghiceni dossier, cotă 134–137: Grigorcea/Filip, Vasco-Costin-Iacob, Băsărăbești shares and fragmentary property list",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival inventory / digitized holdings",
+      "supports": [
+        "cotă 134: Grigorcea son of Sava, grandson of Iosip of Tătărani, transfers his Iurghiceni share to priest Filip",
+        "cotă 135: shares of brothers Vasco, Costin and Iacob in Iurghiceni",
+        "cotă 136: Băsărăbești shares belonging to Iurghiceni",
+        "cotă 137: fragmentary list of Iurghiceni property shares"
+      ],
+      "notes": "These neighbouring catalogue items form a high-value branch map around the Iurghiceni title-confirmation list at cotă 138. Catalogue metadata alone does not establish whether any branch contains the 1547 Cican/Cicican–Illea share. The exact parcel boundaries and underlying deeds must be recovered before identities or continuity are asserted.",
+      "last_updated": "2026-10-05"
     }
   ]
 }
