@@ -1339,6 +1339,18 @@
       ],
       "notes": "The next historical layer is a pre-1636 record identifying Băltag's acquisition, inheritance, fraction, or boundaries in Iurghiceni. Search must prioritize exact property language and predecessor names rather than surname recurrence. No pre-1636 Băltag/Cican connection is established by this target.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXI-1632-BANDUR-PRE-BALTAG-NEGATIVE-CONTROL-001",
+      "title": "1632 Iurghiceni Bandur acquisitions as a pre-Băltag negative control",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXI",
+      "source_type": "published primary-document negative control",
+      "supports": [
+        "17 April 1632: Andronic and Irimia pledge their Iurghiceni share to Iachim Bandur",
+        "17 April 1632: Gavril and Gligorie, sons of Palaghia and grandsons of Miron, sell their Iurghiceni share to Iachim Bandur for 20 zlotys",
+        "The published 1632 transactions do not name Băltag in these Bandur acquisitions"
+      ],
+      "notes": "This is a negative control for the pre-1636 search. It proves Iachim Bandur was already building an Iurghiceni property portfolio in 1632, but it does not provide Băltag's earlier title. Absence of Băltag from these particular transactions is not evidence that he lacked Iurghiceni property elsewhere.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
