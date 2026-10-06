@@ -1351,6 +1351,17 @@
       ],
       "notes": "This is a negative control for the pre-1636 search. It proves Iachim Bandur was already building an Iurghiceni property portfolio in 1632, but it does not provide Băltag's earlier title. Absence of Băltag from these particular transactions is not evidence that he lacked Iurghiceni property elsewhere.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1638-BENEA-BALTAG-UNDERLYING-DEED-TARGET-001",
+      "title": "Underlying Benea-and-relatives to Petrea Băltag acquisition deed target",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIV",
+      "source_type": "high-priority title-chain research target",
+      "supports": [
+        "The 14 July 1638 Iurghiceni deed states that Petrea Băltag acquired the Bandur parcel from Benea and other relatives",
+        "The 27 July 1640 judgment independently repeats the Benea → Băltag → Bandur → Buhuș title sequence"
+      ],
+      "notes": "The underlying Benea-to-Băltag purchase instrument itself is the critical missing predecessor. It should be sought by exact seller group, Iurghiceni parcel description, Doșcești/Flora wording, fraction and named neighbours. If recovered, it may establish an earlier date and predecessor chain. No Cican/Illea connection is assumed.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
