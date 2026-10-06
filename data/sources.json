@@ -1214,6 +1214,18 @@
       ],
       "notes": "These records provide measurable parcel anchors and a field boundary operation immediately following the deed-derived selection records. They should be compared with I/228 purchase-deed descriptions. They do not establish a Cican/Illea connection by themselves.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I228-I229B-CONTENT-ACCESS-BOUNDARY-001",
+      "title": "I/228 to I/229b crosswalk confirmed at catalogue level; individual deed contents not exposed",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "official archival catalogue",
+      "supports": [
+        "BNaR I/228 is a two-folio original Romanian list dated 22 April 1673 containing 19 purchase deeds for Iurghiceni and Doroșcani; only the first is dated",
+        "BNaR I/229b is a two-folio original Romanian list of the stâlpi/parts of Buhuș's Iurghiceni share, explicitly derived from the purchase deeds she possessed",
+        "The current public catalogue metadata does not expose the individual names, fractions, boundaries, or deed-by-deed mapping within I/228/I/229b"
+      ],
+      "notes": "This is an access boundary, not negative evidence. No individual deed is mapped to a stâlp until manuscript content or an authoritative transcription is obtained. The 1547 Cican/Illea 1/20 remains an open parcel-continuity target.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
