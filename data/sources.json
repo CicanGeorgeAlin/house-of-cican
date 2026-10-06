@@ -1272,6 +1272,17 @@
       ],
       "notes": "This source is a control for the Miron branch, not a bridge to the 1660 father of Anița and Todosca. The archive must require an explicit inheritance, patronymic, spouse, child, or parcel connection before merging the identities.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXVIII-1645-BANDUR-IURGHICENI-CONTROL-001",
+      "title": "1645 Iachim Bandur and Todosia Iurghiceni control",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXVIII",
+      "source_type": "published primary documents",
+      "supports": [
+        "31 March 1645: Pavăl Băzarca and Cozma Duma identify the property/authority of Iachim Bandur of Iurghiceni in a transaction involving Buhuș",
+        "21 August 1645: Stratona, daughter of Ana of Iurghiceni, sells a part of Iurghiceni to Todosia, wife of Bandur"
+      ],
+      "notes": "These records strengthen the independent existence and active Iurghiceni property network of Iachim Bandur and his wife Todosia in 1645. They do not identify Iachim with Ionașco Bandurul, and they do not connect the Bandur branch to Cican/Illea. The Todosia in 1645 must also not be confused with Todosca, daughter of Obreja, in 1660.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
