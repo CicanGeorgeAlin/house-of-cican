@@ -1306,6 +1306,17 @@
       ],
       "notes": "This is the clearest surviving statement of the immediate predecessor sequence for the 1638 Doșcești parcel. The 1638 deed names Zaharia Benea and nephews Vasile and Tudora among the sellers; the 1640 judgment compresses the predecessor group as Benea and other relatives. It does not identify the 1547 Cican/Illea share.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIII-1636-BALTAG-IURGHICENI-CONTROL-001",
+      "title": "13 August 1636: Băltag's Iurghiceni share documented before the Bandur purchase",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIII",
+      "source_type": "published primary document",
+      "supports": [
+        "13 August 1636: Vasile Lupu authorizes Dumitru Buhuș to collect revenues at Tălhărești and Iurghiceni, explicitly including 'partea lui Băltag' in Iurghiceni",
+        "The same record separately names parts of the Bemești and Fetion holdings in Iurghiceni"
+      ],
+      "notes": "This is a pre-1638 control proving that a Băltag share existed in Iurghiceni before Iachim Bandur's 1638 purchase from Petrea Băltag. It does not by itself prove that the 1636 Băltag share is the exact Doșcești parcel sold to Bandur in 1638; the fraction and boundaries must be compared.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
