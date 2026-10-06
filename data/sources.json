@@ -1283,6 +1283,18 @@
       ],
       "notes": "These records strengthen the independent existence and active Iurghiceni property network of Iachim Bandur and his wife Todosia in 1645. They do not identify Iachim with Ionașco Bandurul, and they do not connect the Bandur branch to Cican/Illea. The Todosia in 1645 must also not be confused with Todosca, daughter of Obreja, in 1660.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXVII-1640-BANDUR-BALTAG-BENEA-TITLE-001",
+      "title": "1640 judgment explicitly reconstructs the Iurghiceni title through Benea",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXVII",
+      "source_type": "published primary document",
+      "supports": [
+        "27 July 1640: Bânduroae, widow of Iachim Bandur, disputes Buhuș's Iurghiceni share",
+        "The judgment states that Buhuș bought the share from Iachim Bandur, who had bought it from Petrea Băltag, and that Băltag had bought it from Benea and other relatives",
+        "Buhuș produced Bandur's deed and princely documents, and the court rejected the widow's claim"
+      ],
+      "notes": "This is the strongest title-chain formulation currently recovered for the 1638 Iurghiceni Doșcești parcel: Benea and relatives → Petrea Băltag → Iachim Bandur → Buhuș. It confirms Benea as a direct predecessor in the judicially examined title chain. It does not identify Ionașco Bandurul with Iachim Bandur and does not connect the parcel to Cican/Illea.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
