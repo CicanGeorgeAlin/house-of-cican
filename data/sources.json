@@ -1328,6 +1328,17 @@
       ],
       "notes": "The 1636 and 1638 records are now registered as a specific parcel-bridge test. The evidence currently proves only that Băltag had an Iurghiceni share in 1636 and that a Băltag-derived parcel was sold to Bandur in 1638. Exact identity requires matching fraction, boundaries, neighbours, or another explicit title reference.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXII-1630-1635-IURGHICENI-BALTAG-SEARCH-001",
+      "title": "Pre-1636 Băltag/Iurghiceni backward-search target",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXII and earlier Moldova volumes",
+      "source_type": "research target",
+      "supports": [
+        "1636 establishes a Băltag Iurghiceni share before the 1638 sale chain",
+        "1638–1640 establish the later Băltag→Bandur→Buhuș title chain"
+      ],
+      "notes": "The next historical layer is a pre-1636 record identifying Băltag's acquisition, inheritance, fraction, or boundaries in Iurghiceni. Search must prioritize exact property language and predecessor names rather than surname recurrence. No pre-1636 Băltag/Cican connection is established by this target.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
