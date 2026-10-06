@@ -1317,6 +1317,17 @@
       ],
       "notes": "This is a pre-1638 control proving that a Băltag share existed in Iurghiceni before Iachim Bandur's 1638 purchase from Petrea Băltag. It does not by itself prove that the 1636 Băltag share is the exact Doșcești parcel sold to Bandur in 1638; the fraction and boundaries must be compared.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIII-1636-XXIV-1638-BALTAG-BRIDGE-TEST-001",
+      "title": "1636 Băltag share to 1638 Doșcești parcel bridge test",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIII–XXIV",
+      "source_type": "cross-document parcel continuity target",
+      "supports": [
+        "13 August 1636: Iurghiceni contains a part identified as Băltag's",
+        "26 April and 14 July 1638: the Băltag-derived property transferred through Iachim Bandur is identified as the upper half/Doșcești portion, excluding a smaller Flora portion on the Bahlui"
+      ],
+      "notes": "The 1636 and 1638 records are now registered as a specific parcel-bridge test. The evidence currently proves only that Băltag had an Iurghiceni share in 1636 and that a Băltag-derived parcel was sold to Bandur in 1638. Exact identity requires matching fraction, boundaries, neighbours, or another explicit title reference.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
