@@ -1261,6 +1261,17 @@
       ],
       "notes": "This is an identity/locality control only. It does not identify this Obrejie as the father of Anița and Todosca, nor as Obrejie son of Miron or Obrejie son of Lupu. The 1660 father remains unresolved.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1637-OBREJIE-MIRON-PROPERTY-CONTROL-001",
+      "title": "1637 Obrejie son of Miron property identity control",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIV",
+      "source_type": "published primary document",
+      "supports": [
+        "26 May 1637: Obrejie of Iurghiceni is explicitly identified as son of Miron",
+        "The same act distinguishes him from Obrejie son of Lupu and records local Iurghiceni property activity"
+      ],
+      "notes": "This source is a control for the Miron branch, not a bridge to the 1660 father of Anița and Todosca. The archive must require an explicit inheritance, patronymic, spouse, child, or parcel connection before merging the identities.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
