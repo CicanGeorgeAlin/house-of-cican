@@ -1068,6 +1068,19 @@
       ],
       "notes": "High-value control for the composite-title method. The named popa Toader is not identified with Toader son of Maria from 1547; no Cican/Illea continuity is established.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1661-PREDECESSOR-RECURSION-TARGET-001",
+      "title": "1661 I/156 recursive predecessor targets",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "research target derived from primary-document inventory",
+      "supports": [
+        "popa Toader component",
+        "Răzmeriță son of Todora component",
+        "Neștiana daughter of Marica component",
+        "Ionașco Bandurul component"
+      ],
+      "notes": "These four named components are the next backward-search targets. Priority is to locate earlier deeds naming their acquisition, inheritance, siblings, parents or parcel boundaries. No identity merge with the 1547 Cican transaction is permitted.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
