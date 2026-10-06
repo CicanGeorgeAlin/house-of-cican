@@ -1175,6 +1175,19 @@
       ],
       "notes": "These 1639 transactions concern Bălești, not Iurghiceni. They therefore provide a family/network control for Zaharia Benea and Buhuș but do not establish continuity of the 1638 Iurghiceni Doșcești parcel. No Cican/Illea link is established.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I228-UNDATED-DEEDS-RECURSION-001",
+      "title": "I/228: eighteen undated purchase deeds as the principal recursive title target",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival catalogue and research target",
+      "supports": [
+        "I/228 is an original Romanian two-folio list dated 22 April 1673",
+        "The list contains 19 purchase deeds for Iurghiceni and Doroșcani",
+        "BNaR explicitly states that only the first deed is dated and the other 18 are undated",
+        "I/229b states that the stakes/parts of Buhușoaia's Iurghiceni property were derived from the purchase deeds she possessed"
+      ],
+      "notes": "The date 1673 belongs to the list, not necessarily to the eighteen undated underlying purchases. Their contents could preserve substantially earlier title evidence. I/228 is therefore a priority target for recovering predecessor chains and testing whether any later parcel can be traced toward the 1547 Cican/Illea 1/20 share. Adjacency to I/227 is only a crosswalk, not proof of one-to-one correspondence.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
