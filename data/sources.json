@@ -1128,6 +1128,18 @@
       ],
       "notes": "These records are useful controls around the 1657 Bandur→Buhuș transfer, but neither catalogue title names Ionașco Bandurul. I/146 may preserve an independent Iurghiceni owner and must not be merged with the Bandur share. I/151 may be relevant to Buhuș's later administration of Iurghiceni but requires manuscript text to establish the purpose and property involved.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1638-1640-BANDUR-DOSCESTI-PARCEL-001",
+      "title": "Iachim Bandur–Buhuș Doșcești parcel chain, Iurghiceni 1638–1640",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIV; archival evidence",
+      "source_type": "published primary-document chain",
+      "supports": [
+        "26 April 1638: princely authorization identifies a part of Iurghiceni previously belonging to Bandur, described as the Doșcești portion and purchased by Bandur from Baltag",
+        "14 July 1638: Iachim Bandur sells Buhuș the ocină purchased from Petrea Baltag; the text identifies the upper half of Iurghiceni, the Doșcești portion, excluding a smaller Flora portion on the Bahlui",
+        "27 July 1640: judicial decision states Buhuș bought the Iurghiceni share from Iachim Bandur, who had bought it from Petrea Baltag; Bânduroae, Iachim Bandur's widow, was the opposing claimant"
+      ],
+      "notes": "This establishes a strong parcel/title chain for Iachim Bandur and Buhuș. It does not identify Iachim Bandur with Ionașco Bandurul of 1657/1661, and it does not connect the parcel to Cican/Illea. The 1661 Ionașco component must be tested separately against this parcel.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
