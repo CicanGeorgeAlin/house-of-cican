@@ -1238,6 +1238,18 @@
       ],
       "notes": "This provides a rare person-to-property-to-measurement continuity chain independent of the inaccessible contents of I/228. It does not identify Obreja or his daughters with any Cican/Illea person. The next test is whether the 1660 share and 1673 measured exchange can be tied to an earlier Obreja title.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1637-XXVII-1644-OBREJA-IDENTITY-FILTER-001",
+      "title": "Obrejie identity filter for the 1660 Obreja-daughters branch",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIV and XXVII",
+      "source_type": "published primary-document identity control",
+      "supports": [
+        "26 May 1637: the Iurghiceni act explicitly distinguishes Obrejie son of Miron from Obrejie son of Lupu",
+        "28 November 1644: Miron of Iurghiceni donates his share and identifies his deceased son Obrejie",
+        "21 August 1645: an Obrejie and Miron of Iurghiceni appear together, but the living 1645 Obrejie cannot automatically be equated with the deceased son named in 1644"
+      ],
+      "notes": "The 1660 father Obreja remains unresolved. The 1637–1645 records establish an identity firewall: multiple Obrejies existed, and the 1644 deceased-son reference prevents automatic merging with the 1645 living Obrejie. The daughters' 1660 title must be connected to their father through an explicit patronymic, inheritance statement, or earlier deed before any branch is merged.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
