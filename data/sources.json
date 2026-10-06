@@ -1164,6 +1164,17 @@
       ],
       "notes": "This creates a multi-person predecessor signature for the 1638 parcel. Zaharia Benea and the named relatives must not be merged with the later 1669 Benea occurrence without an identity bridge. The 1638 parcel is a useful control against later composite titles. No Cican/Illea link is established.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXV-1639-BENEA-FAMILY-BUHUS-CONTROL-001",
+      "title": "Zaharia Benea family and Buhuș transactions, 27 February 1639",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXV",
+      "source_type": "published primary documents",
+      "supports": [
+        "Toader deacon and Marica, children of Zaharia Benea, with relatives descended from Moga, transact Bălești property with Dumitru Buhuș",
+        "The 1639 deeds document Zaharia Benea's family structure and a continuing economic relationship with Buhuș"
+      ],
+      "notes": "These 1639 transactions concern Bălești, not Iurghiceni. They therefore provide a family/network control for Zaharia Benea and Buhuș but do not establish continuity of the 1638 Iurghiceni Doșcești parcel. No Cican/Illea link is established.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
