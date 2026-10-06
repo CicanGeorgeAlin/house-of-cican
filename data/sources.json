@@ -1117,6 +1117,17 @@
       ],
       "notes": "I/143 is retained as a negative control. Catalogue adjacency to I/141–I/142 cannot be treated as proof that the dispute concerns the Bandur share transferred to Buhuș. The manuscript text would be required for any parcel or party connection.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I146-I151-1658-BUHUS-CONTROL-001",
+      "title": "1658 Iurghiceni control records around the Bandur/Buhuș transfer",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival catalogue control",
+      "supports": [
+        "I/146, 20 June 1658: Ilie son of Vasile of Iurghiceni sells his Iurghiceni share to vornic Enachi",
+        "I/151, undated in the catalogue: Stefav Voievod empowers Nicolae Buhuș to send someone to Iurghiceni"
+      ],
+      "notes": "These records are useful controls around the 1657 Bandur→Buhuș transfer, but neither catalogue title names Ionașco Bandurul. I/146 may preserve an independent Iurghiceni owner and must not be merged with the Bandur share. I/151 may be relevant to Buhuș's later administration of Iurghiceni but requires manuscript text to establish the purpose and property involved.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
