@@ -1152,6 +1152,18 @@
       ],
       "notes": "The Flora/Doșcești wording is being used as a parcel discriminator, not as proof of identity. A later document repeating the same boundary or named parcel could establish property continuity; absence in catalogue metadata cannot disprove it. No Cican/Illea connection is established.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-DRH-A-MOLDOVA-XXIV-1638-BANDUR-BENEA-PREDECESSORS-001",
+      "title": "1638 Iachim Bandur parcel predecessor group: Benea and related sellers",
+      "publisher": "Documenta Romaniae Historica, A. Moldova XXIV",
+      "source_type": "published primary document",
+      "supports": [
+        "14 July 1638: Iachim Bandur's Iurghiceni property is traced to Petrea Băltag",
+        "Petrea Băltag's acquisition is traced to Ion and Constantin, sons of Sidor and Agafia, Zaharia Banea/Benea, and his nephews Vasile and Tudora",
+        "The same deed identifies the property as the upper half of Iurghiceni, the Doșcești portion, excluding the smaller Flora portion on the Bahlui"
+      ],
+      "notes": "This creates a multi-person predecessor signature for the 1638 parcel. Zaharia Benea and the named relatives must not be merged with the later 1669 Benea occurrence without an identity bridge. The 1638 parcel is a useful control against later composite titles. No Cican/Illea link is established.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
