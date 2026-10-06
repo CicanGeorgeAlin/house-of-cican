@@ -1081,6 +1081,19 @@
       ],
       "notes": "These four named components are the next backward-search targets. Priority is to locate earlier deeds naming their acquisition, inheritance, siblings, parents or parcel boundaries. No identity merge with the 1547 Cican transaction is permitted.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-BANDUR-1634-1661-RECURSIVE-CHAIN-001",
+      "title": "Bandur recursive title chain, Iurghiceni 1634–1661",
+      "publisher": "Biblioteca Națională a României / Documenta Romaniae Historica",
+      "source_type": "archival and published primary-document chain",
+      "supports": [
+        "1634 I/62: Iachim Bandur sells a part of Iurghiceni to Buhuș",
+        "1637–1638 I/70–I/76: Iurghiceni shares are pledged, selected and transferred through Bandur/Buhuș transactions",
+        "1640 I/78: litigation and confirmation involving Bandur's Iurghiceni title",
+        "1661 I/156: Ionașco Bandurul is named as one predecessor component in priest Simion's composite Iurghiceni holding"
+      ],
+      "notes": "The repeated Bandur name across the chain makes this a strong recursive title-control branch. Identity between Iachim Bandur, Ionașco Bandurul and later Bandur persons is not assumed without explicit kinship or title continuity. No Cican/Illea connection is established.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
