@@ -1188,6 +1188,19 @@
       ],
       "notes": "The date 1673 belongs to the list, not necessarily to the eighteen undated underlying purchases. Their contents could preserve substantially earlier title evidence. I/228 is therefore a priority target for recovering predecessor chains and testing whether any later parcel can be traced toward the 1547 Cican/Illea 1/20 share. Adjacency to I/227 is only a crosswalk, not proof of one-to-one correspondence.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1673-I229B-I231-I235-DEED-DERIVED-PARCELS-001",
+      "title": "1673 parcel reconstruction explicitly derived from purchase deeds",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival catalogue chain",
+      "supports": [
+        "I/229b: list of the stakes/parts from which Buhușoaia's Iurghiceni share extends, derived from the purchase deeds she possessed",
+        "I/231a-c: lists of the parts selected for the răzeși when Iurghiceni was delimited",
+        "I/232: Tudosie Dubău certifies selection of Iurghiceni ocine",
+        "I/235: Tudosie Dubău records selected stânjeni using a 40-stânjeni measuring rope and an 8-palme stânjen"
+      ],
+      "notes": "This chain establishes that the 1673 physical reconstruction was document-derived and measurement-based. It is the correct bridge for testing whether any old purchase deed in I/228 can be mapped to a later measured parcel. It does not itself identify Cican/Illea or prove that the 1547 1/20 survived into 1673.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
