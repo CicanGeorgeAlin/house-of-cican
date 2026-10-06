@@ -1226,6 +1226,18 @@
       ],
       "notes": "This is an access boundary, not negative evidence. No individual deed is mapped to a stâlp until manuscript content or an authoritative transcription is obtained. The 1547 Cican/Illea 1/20 remains an open parcel-continuity target.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1660-1673-OBREJA-DAUGHTERS-MEASURED-001",
+      "title": "Obreja daughters' Iurghiceni share carried into the 1673 measured parcel reconstruction",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival documentary chain",
+      "supports": [
+        "I/154, 16 September 1660: Anița and Todosca, wives of Dumitrașcu and Toader, are explicitly identified as daughters of Obreja and sell half of their father's Iurghiceni share to Nicolae Buhuș",
+        "I/208: the Iurghiceni share sold by Obreja's daughters is subsequently selected/staked",
+        "I/234, 26 April 1673: Todosca and Anița, daughters of Obreja, are identified as owners of the Băsărăbești pillar from which 127 stânjeni are exchanged for 120 stânjeni of Iurghiceni on the Bahlui"
+      ],
+      "notes": "This provides a rare person-to-property-to-measurement continuity chain independent of the inaccessible contents of I/228. It does not identify Obreja or his daughters with any Cican/Illea person. The next test is whether the 1660 share and 1673 measured exchange can be tied to an earlier Obreja title.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
