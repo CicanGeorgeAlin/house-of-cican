@@ -1094,6 +1094,18 @@
       ],
       "notes": "The repeated Bandur name across the chain makes this a strong recursive title-control branch. Identity between Iachim Bandur, Ionașco Bandurul and later Bandur persons is not assumed without explicit kinship or title continuity. No Cican/Illea connection is established.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1657-1661-BANDUR-COLLISION-001",
+      "title": "Ionașco Bandurul 1657 transfer versus 1661 predecessor component",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival catalogue cross-comparison",
+      "supports": [
+        "I/141, June 1657: Ionașco Bandurul gives Nicolae Buhuș his share of Iurghiceni",
+        "I/142, 15 June 1657: Gheorghe Ștefan Voievod confirms Buhuș's share received from Ionașco Bandurul",
+        "25 September 1661: priest Simion's deed to Buhuș lists 'partea lui Ionașco bandurul' among the predecessor components of his Iurghiceni holding"
+      ],
+      "notes": "This is a documentary collision requiring parcel-level reconciliation. It does not prove two different Ionașco Banduruls, nor does it prove the 1661 component is the same share transferred in 1657. The 1661 wording may represent an earlier title component, a separate share, or a composite-title history not visible in catalogue metadata. The exact 1657 and 1661 texts/boundaries must be compared before identity or property continuity is asserted. No Cican/Illea connection is established.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
