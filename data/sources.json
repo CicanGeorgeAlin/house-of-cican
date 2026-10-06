@@ -1106,6 +1106,17 @@
       ],
       "notes": "This is a documentary collision requiring parcel-level reconciliation. It does not prove two different Ionașco Banduruls, nor does it prove the 1661 component is the same share transferred in 1657. The 1661 wording may represent an earlier title component, a separate share, or a composite-title history not visible in catalogue metadata. The exact 1657 and 1661 texts/boundaries must be compared before identity or property continuity is asserted. No Cican/Illea connection is established.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-I143-1657-BANDUR-CONTROL-001",
+      "title": "1657 I/143 adjacent Iurghiceni dispute as negative Bandur control",
+      "publisher": "Biblioteca Națională a României",
+      "source_type": "archival catalogue control",
+      "supports": [
+        "I/143, 29 June 1657, Iași: Gheorghe Ștefan Voievod judges a dispute between Cîrstea vornicul and other răzeși concerning an Iurghiceni share",
+        "The official catalogue does not name Ionașco Bandurul or another Bandur in the title metadata"
+      ],
+      "notes": "I/143 is retained as a negative control. Catalogue adjacency to I/141–I/142 cannot be treated as proof that the dispute concerns the Bandur share transferred to Buhuș. The manuscript text would be required for any parcel or party connection.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
