@@ -1140,6 +1140,18 @@
       ],
       "notes": "This establishes a strong parcel/title chain for Iachim Bandur and Buhuș. It does not identify Iachim Bandur with Ionașco Bandurul of 1657/1661, and it does not connect the parcel to Cican/Illea. The 1661 Ionașco component must be tested separately against this parcel.",
       "last_updated": "2026-10-06"
+    }    ,{
+      "source_id": "SRC-BNAR-IURGHICENI-1638-1661-FLORA-DOSCESTI-TEST-001",
+      "title": "Flora–Doșcești boundary signature as a recursive parcel test",
+      "publisher": "Biblioteca Națională a României / Documenta Romaniae Historica",
+      "source_type": "parcel-level research target",
+      "supports": [
+        "1638 Bandur→Buhuș title identifies the upper half of Iurghiceni, Doșcești portion, excluding a smaller Flora portion on the Bahlui",
+        "Later Buhuș holdings in Iurghiceni provide the principal documentary environment in which a surviving Bandur component might be reconstructed",
+        "1661 priest Simion's composite title contains an Ionașco Bandurul predecessor component"
+      ],
+      "notes": "The Flora/Doșcești wording is being used as a parcel discriminator, not as proof of identity. A later document repeating the same boundary or named parcel could establish property continuity; absence in catalogue metadata cannot disprove it. No Cican/Illea connection is established.",
+      "last_updated": "2026-10-06"
     }
   ]
 }
